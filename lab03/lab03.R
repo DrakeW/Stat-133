@@ -89,10 +89,10 @@ head(df2)
 summary(df2)
 
 #how many unique species are there?
-
+length(unique(df2$species))
 
 #what are the names of the continents in the dataset?
-
+df2$continent
 
 # Remove the column 'reference'
 df2$reference <- NULL
@@ -121,7 +121,7 @@ df2$log2mass <- log(df2$combmass)
 # yes
 
 # Are there any lines to be skipped?
-
+# NO
 
 # How would you import the data in file "Brac 2006 - fish data"?
 fish_url <- "http://datadryad.org/bitstream/handle/10255/dryad.34127/Brac%202006%20-%20fish%20data.txt?sequence=1"
@@ -137,13 +137,16 @@ tail(fish)
 summary(fish)
 
 #what are the column names?
+names(fish)
 
 #how many unique fish species are there?
+length(fish$Species)
 
 #how many days does this data set span?
+range(fish$Day)
 
 #for which day do we have the most data?
-
+fish$Day[which.max(fish$Abundance)]
 
 # =====================================================
 # Data: SF Open Data "Permit Types"

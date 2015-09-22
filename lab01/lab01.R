@@ -130,79 +130,80 @@ sample(scored, size = 6)
 # Perform the same operations on vector 'against'
 # ===================================================
 # what were the points of game 7
+against[7]
 
 
 # what were the points of first 5 games
+against[1:5]
 
 
 # what were the points of games 1, 3, 5, ...
-
+against[c(1,3,5)]
 
 # what were the points in the last game
-
+against[length(against)]
 
 # create a copy of 'against'
-
+against2 <- against
 
 # give names to 'against2'
-
+names(against2) <- seq_along(against)
 
 # select those games with more than 21 points
-
+against2[against2 > 21]
 
 # select those games with less than 21 points
-
+against2[against2 < 21]
 
 # select those games between 14 and 21 points
-
+against2[against2 > 14 & against2 < 21]
 
 # select those games with 13 or 14 points
-
+against2[against2 == 13 | against2 == 14]
 
 # sort in decreasing order
-
+order(against2, decreasing = TRUE)
 
 # what was the maximum value
-
+max(against)
 
 # what was the minimum value
-
+min(against)
 
 # what was the average
-
+mean(against)
 
 # what was the median 
-
+median(against)
 
 # apply the function 'summary()'
-
+summary(against)
 
 # plot a histogram
-
+hist(against)
 
 # how many games with more than 30 points 
-
+sum(against > 30)
 
 # how many games with less than 14 points 
-
+sum(against < 14)
 
 # how many games between 14 and 30 points
-
+sum(against > 14 & against < 30)
 
 # how many games with less than 14 or more than 30 points
-
+sum(against < 14 | against > 30)
 
 # is there any game with 14 received points?
-
+sum(against == 14)
 
 # approximate number of touchdowns in each game
-
+against/7
 # round it to two decimal digits
-
+round(against/7, digits = 2)
 
 # take a sample (size n=7) of points against
-
-
+sample(against, size = 7)
 
 # ===================================================
 # Difference points

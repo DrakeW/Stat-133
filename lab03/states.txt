@@ -1,0 +1,5 @@
+state initial capital area
+"California" CA Sacramento 163707
+"New York" NY Albany 54475
+"Texas" TX Austin 268601
+"North Carolina" NC Raleigh NA

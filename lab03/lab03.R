@@ -47,8 +47,7 @@ summary(states)
 
 # Here's one option to read the data in R
 url <- "http://www.esapubs.org/archive/ecol/E084/094/MOMv3.3.txt"
-df <- read.table(file = url, header = FALSE, 
-                 sep = "\t", na.strings = -999)
+df <- read.table(file = url, header = FALSE, sep = "\t", na.strings = -999)
 
 # Instead of read.table() what other function could you use?
 df <- read.delim(file = url, na.strings = -999)
@@ -110,10 +109,15 @@ df2$log2mass <- log(df2$combmass)
 
 # Go to the URL of the data
 # What's the field delimiter?
-# Is there a column header?
-# Are there any lines to be skipped?
-# How would you import the data in file "Brac 2006 - fish data"?
+# \t
 
+# Is there a column header?
+# yes
+
+# Are there any lines to be skipped?
+
+
+# How would you import the data in file "Brac 2006 - fish data"?
 fish_url <- "http://datadryad.org/bitstream/handle/10255/dryad.34127/Brac%202006%20-%20fish%20data.txt?sequence=1"
 fish <- read.table(fish_url, header = TRUE, sep="\t", skip = 1)
 
@@ -160,6 +164,7 @@ pt <- read.csv("Permit_Types.csv")
 # Instead of downloading the file, we can read it directly in R
 # One solution is to use the package RCurl
 # (remember to install it first)
+install.packages("RCurl")
 library(RCurl)
 
 # URL of data file

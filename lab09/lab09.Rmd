@@ -1,6 +1,6 @@
 ---
 title: "Lab 9"
-author: "Your Name"
+author: "Junyu Wang"
 date: "July 14, 2015"
 output: html_document
 ---
@@ -87,6 +87,8 @@ Use an apply function to apply squish to an entire vector.
 ```{r}
 x <- (1:12)^2 - 22
 # Fill this in.
+x <- sapply(x, squish)
+x
 ```
 
 Here is a for loop which performs a certain operation.
@@ -106,6 +108,9 @@ Replace the above code with equivalent code which does not use a loop. You may w
 set.seed(0)
 x <- rnorm(10)
 # Fill this in.
+y <- sapply(x, function(e) {
+  (e - min(x)) / (max(x) - min(x))
+})
 ```
 
 ### Other Basic Apply Functions
@@ -128,6 +133,7 @@ tapply has an additional argument which can be one or more factors to apply sepa
 ```{r}
 set.seed(0)
 df <- data.frame(x = rnorm(10), ltr = factor(sample(c("a", "b", "c"), 10, replace = TRUE)), nmbr = sample(c(1, 2, 3), 10, replace = TRUE))
+df
 byltr <- tapply(df$x, df$ltr, mean)
 print(byltr)
 # If the second argument is not a factor, it will be coerced to a factor.

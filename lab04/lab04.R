@@ -78,44 +78,42 @@ dotchart(sort(sc$wins), labels = sc$team[order(sc$wins)],
 
 
 # =====================================================
-# Your turn:
+# Your turn: Junyu Wang
 # Get similar plots for 'losses' and 'draws'
 # =====================================================
 
 # boxplot of 'losses'
-
+boxplot(sc$losses)
 
 # horizontal boxplot of 'losses'
-
+boxplot(sc$losses, horizontal = TRUE)
 
 
 # histogram with some color
-
+hist(sc$losses, col = 'red')
 
 # kernel density curve
-
+plot(density(sc$losses))
 
 # in order to color the area under the curve you
 # need to use polygon()
-
-
-
+polygon(density(sc$losses), col = 'red', border = 'blue')
 
 # dot-chart of losses
-
+dotchart(sc$losses)
 
 # dot-chart of losses with team labels
-
+dotchart(sc$losses, labels = sc$team)
 
 # ranked dot-chart of losses with team labels
-
+dotchart(sort(sc$losses), labels = sort(sc$team))
 
 # same ranked dot-chart of losses with team labels,
 # with colored dots in 'blue'
-
+dotchart(sort(sc$losses), labels = sort(sc$team), bg = 'blue')
 
 # same ranked dot-chart with a title
-
+dotchart(sort(sc$losses), labels = sort(sc$team), bg = 'blue', main = 'aha i know how to color dots')
 
 
 
@@ -148,9 +146,17 @@ boxplot(sc[ , c('wins', 'losses')])
 # Get similar plots for 'wins' and 'draws'
 # Get similar plots for 'losses' and 'draws'
 # =====================================================
+plot(sc$wins, sc$draws)
+text(sc$wins, sc$draws, sc$team)
+plot(sc$wins, sc$draws, xlim = c(0,35), pch = 19, xlab = 'Wins', ylab = 'Draws', main = 'Number of Wins -vs- Number of Draws')
+text(sc$wins, sc$draws, labels = sc$team, pos = 4)
+boxplot(sc[ , c('wins', 'draws')])
 
-
-
+plot(sc$losses, sc$draws)
+text(sc$losses, sc$draws, sc$team)
+plot(sc$losses, sc$draws, xlim = c(0,35), pch = 19, xlab = 'Losses', ylab = 'Draws', main = 'Number of Losses -vs- Number of Draws')
+text(sc$losses, sc$draws, labels = sc$team, pos = 4)
+boxplot(sc[ , c('loses', 'draws')])
 
 # =====================================================
 # Exploring 'wins', 'draws' and 'losses'
@@ -163,6 +169,7 @@ pairs(sc[ , 3:5])
 boxplot(sc[ , c('wins', 'draws', 'losses')])
 
 # some scatterplot in 3d
+install.packages('scatterplot3d')
 library(scatterplot3d)
 scatterplot3d(sc[ , c('wins', 'draws', 'losses')])
 

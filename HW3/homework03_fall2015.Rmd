@@ -28,18 +28,35 @@ Use the three types of loops---`for, repeat, while`---to get the average of the 
 ```{r}
 # your for loop
 
-
-
+sum <- 0
+for (i in c(1:10)) {
+  sum <- sum + 1
+}
+average <- sum/10
 
 # your repeat loop
 
-
+sum <- 0
+counter <- 0
+repeat{
+  sum <- sum+counter
+  if (counter == 10) {
+    break
+  }
+  counter <- counter + 1
+}
+average <- sum/10
 
 
 # your while loop
 
-
-
+sum <- 0
+counter <- 0
+while(counter <= 10) {
+  sum <- sum + counter
+  counter <- counter + 1
+}
+average <- sum/10
 
 #
 ```
@@ -57,7 +74,9 @@ $$
 Write a function `circle_area()` that calculates the area of a circle. This function must take one argument `radius`. Give `radius` a default value of 1.
 ```{r}
 # write your circle_area() function
-
+circle_area <- function(radius=1) {
+  pi * radius^2
+}
 
 # 
 ```
@@ -83,7 +102,9 @@ Notice that the formula of the area of a cylinder includes the area of a circle:
 ```{r}
 # your cyl_area() function
 
-
+cyl_area <- function(radius=1, height=1) {
+  2*pi*radius*height + 2*circle_area(radius)
+}
 
 
 # 
@@ -111,7 +132,9 @@ Write a function `cyl_volume()`, that calls `circle_area()`, to compute the volu
 ```{r, echo=FALSE}
 # your cyl_volume() function
 
-
+cyl_volume <- function(radius=1, height=1) {
+  circle_area(radius) * height
+}
 
 #
 ```
@@ -134,7 +157,10 @@ Write a function `is_even()` that determines whether a number is even (i.e. mult
 ```{r}
 # your is_even() function
 
-
+is_even <- function(n) {
+  if (is.numeric(n)) n%%2 == 0
+  else NA
+}
 
 
 #
@@ -159,7 +185,10 @@ Use your function `is_even()` to write a function `is_odd()` that determines if 
 ```{r}
 # your is_odd() function
 
-
+is_odd <- function(n) {
+  if (is.numeric(n)) n%%2 != 0
+  else NA
+}
 
 #
 ```
@@ -190,7 +219,10 @@ Write a function `quadratic()` that solves the quadratic equation. It should tak
 ```{r}
 # your quadratic() function
 
-
+quadratic <- function(a=1, b=1, c=0) {
+  temp <- sqrt(b^2-4*a*c)
+  list(sol1=(-b+temp)/(2*a), sol2=(-b-temp)/(2*a))
+}
 
 #
 ```
@@ -211,7 +243,11 @@ In order to limit the results to just real roots, it would be nice to have a fun
 ```{r}
 # your find_roots() function
 
-
+find_roots <- function(a,b,c) {
+  temp <- b^2 - 4*a*c
+  if (temp < 0) print("No real root")
+  else quadratic(a,b,c)
+}
 
 
 #
@@ -249,7 +285,25 @@ Write the following five functions for each type of conversion. Each function mu
 ```{r}
 # write your functions
 
+miles2inches <- function (x = 1) {
+  x * 63360
+}
 
+miles2feet <- function (x = 1) {
+  x * 5280
+}
+
+miles2yards <- function (x = 1) {
+  x * 1760
+}
+
+miles2meters <- function (x = 1) {
+  x / 0.00062137
+}
+
+miles2kms <- function (x = 1) {
+  x / 0.62137 
+}
 
 
 
@@ -278,7 +332,15 @@ By default, `to = "km"`, but it can take values such as `"in"`, `"ft"`, `"yd"`, 
 ```{r}
 # your convert() function
 
-
+convert <- function(x, to="km") {
+  switch(to,
+    "in" = miles2inches(x),
+    "ft" = miles2feet(x),
+    "yd" = miles2yards(x),
+    "m" = miles2meters(x),
+    "km" = miles2kms(x)
+    )
+}
 
 #
 ```
@@ -313,9 +375,13 @@ Define your function with the following requirements:
 ```{r}
 # your histogram() function
 
-
-
-
+histogram <- function(input) {
+  hist(input, col="#DDDDDD", las=1)
+  abline(v=min(input), col="#333333", lty=3, lwd=2)
+  abline(v=max(input), col="#333333", lty=3, lwd=2)
+  abline(v=median(input), col="#00CCFF", lwd=3)
+  abline(v=mean(input), col="#FF7502", lwd=3)
+}
 
 #
 ```
@@ -347,8 +413,19 @@ Make sure that the input is a factor (otherwise the function should convert the 
 ```{r}
 # your freq_table() function
 
-
-
+freq_table <- function(x, decreasing=NULL) {
+  as.factor(x)
+  ft <- data.frame(category=levels(x))
+  ft$frequency <- c(sum(x == ft[1,]), sum(x == ft[2,]), sum(x == ft[3,]))
+  ft$proportion <- ft$frequency / sum(ft$frequency)
+  ft$cumfreq <- cumsum(ft$frequency)
+  ft$cumprop <- cumsum(ft$proportion)
+  if (!is.null(decreasing)) {
+    if (decreasing) ft <- ft[order(ft$frequency, decreasing = TRUE), ]
+    else ft <- ft[order(ft$frequency, decreasing = FALSE), ]
+  }
+  ft
+}
 
 #
 ```

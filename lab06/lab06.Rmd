@@ -1,7 +1,7 @@
 ---
-title: "STAT 133: Lab 6"
-author: "Your Name Here"
-output: html_document
+title: 'STAT 133: Lab 6'
+author: "Junyu Wang"
+output: word_document
 ---
 
 ### Conditional Expressions
@@ -9,7 +9,7 @@ output: html_document
 If-else statements are perhaps the simplest type of control flow structure:
 
 ```{r}
-x <- 1 # Change this value!
+x <- 3 # Change this value!
 if (x > 0) {
   print("positive")
 } else {
@@ -20,7 +20,7 @@ if (x > 0) {
 Of course, the else is not necessary (if you don't want anything to occur otherwise), or you can chain multiple if-else statements:
 
 ```{r}
-y <- 1 # Change this value!
+y <- 10 # Change this value!
 if (y > 0) {
   print("positive")
 } else if (y < 0) {
@@ -37,13 +37,12 @@ Write R code that will "squish" a number into the interval [0, 100], so that a n
 ```{r}
 z <- 100*pi
 # Fill in the following if-else statements. You may (or may not) have to add or subtract else if or else statements.
-if (TRUE) { # Replace TRUE with a condition.
-  
-} else if (TRUE) { # Replace TRUE with a condition.
-  
-} else {
-  
-}
+if ( z < 0) { # Replace TRUE with a condition.
+  z <- 0
+} else if ( z > 100) { # Replace TRUE with a condition.
+  z <- 100
+} 
+z
 ```
 
 If you find yourself using many if-else statements with identical structure for slightly different cases, you may want to consider a switch statement instead.
@@ -66,7 +65,7 @@ Switch statements can also accept integer arguments, which will act as indices t
 
 ```{r}
 # Convert a number into a day of the week.
-day_num <- 3 # Change this value!
+day_num <- 5 # Change this value!
 switch(day_num,
   "Sunday",
   "Monday",
@@ -81,9 +80,14 @@ Your turn again!
 Write a switch statement to determine if a given lowercase letter is a vowel. Assume that "y" is not a vowel.
 
 ```{r}
-letter <- "e" # Change this value!
+letter <- "a" # Change this value!
 switch(letter,
-  a = "vowel") # Modify as necessary.
+  e = ,
+  i = ,
+  o = ,
+  u = ,
+  a = "vowel"
+  ) # Modify as necessary.
 ```
 
 ### Loops
@@ -122,13 +126,15 @@ Your turn!
 Write R code which multiplies a positive number by 3 and adds 1 until the result is greater than 10000. For example, 2015 -> 6046 -> 18139. Write both a repeat loop and a while loop.
 
 ```{r}
-n_rep <- 314 # Change this value!
+n_rep <- 2020 # Change this value!
 repeat {
-  break # Replace this with your code.
+  n_rep <- 1 + n_rep * 3
+  if (n_rep > 10000) break # Replace this with your code.
 }
-n_while <- 314 # Change this value!
-while (FALSE) { # Replace FALSE with your stopping condition.
+n_while <- 2020 # Change this value!
+while (n_while < 10000) { # Replace FALSE with your stopping condition.
   # Fill in.
+  n_while <- 1 + n_while * 3
 }
 ```
 
@@ -145,8 +151,9 @@ Write a for loop to add 1 to every element of a vector.
 
 ```{r}
 vec <- c(3, 1, 4) # Change this value!
-for (j in c()) { # Replace c() with an appropriate sequence.
+for (i in 1:length(vec)) { # Replace c() with an appropriate sequence.
   # Fill in.
+  vec[i] <- vec[i] + 1
 }
 ```
 
@@ -169,6 +176,10 @@ Now generalize the above code to create a function which performs the same opera
 ```{r}
 reduce <- function(x) {
   # Fill in.
+  while (x %% 2 == 0) {
+    print(x)
+    x <- x / 2
+  }
 }
 
 reduce(898128000)
@@ -179,6 +190,11 @@ How about something a little bit more complicated? Write a function ```f``` whic
 ```{r}
 f <- function(n) {
   # Fill in.
+  if (n %% 2 == 0) 
+    n <- n / 2
+  else 
+    n <- 3 * n + 1
+  n
 }
 
 f(6)
@@ -191,6 +207,12 @@ Now create function ```g``` which applies ```f()``` to a positive integer ```n``
 ```{r}
 g <- function(n) {
   # Fill in.
+  x = 0
+  while (n != 1){
+    n <- f(n)
+    x <- x + 1
+  }
+  i
 }
 
 g(6)
@@ -204,8 +226,19 @@ If you didn't earlier, try also writing the same function, but now create ```f()
 h <- function(n) {
   f <- function(m) {
     # Fill in.
+    counter <- 0
+    while (m != 1){
+      if (m %% 2 == 0) 
+        m <- m / 2
+      else 
+        m <- 1 + 3 * m
+       counter <- 1 + counter
+    }
+    i
   }
   # Fill in.
+  n <- f(n)
+  n
 }
 
 h(6)
@@ -231,10 +264,15 @@ pythagoras(5)
 __Your turn!__
 Write a function which adds together the elements of a vector raised to a certain power. Use a loop instead of vectorized operations. Include two arguments: ```vec``` and ```pow```. Give ```pow``` a default value of 2.
 
-```{r, eval = FALSE}
+```{r, eval = TRUE}
 # Remove eval = FALSE or set eval = TRUE when you have completed this function.
-powersum <- function() { # Fill in arguments.
+powersum <- function(v, p = 2) { # Fill in arguments.
   # Fill in.
+  sum <- 0
+  for (i in v) {
+    sum <- sum + i ^ p
+  }
+  sum
 }
 
 powersum(1:5) # Should return 55.
@@ -262,10 +300,15 @@ More commonly, however, the ```...``` is simply passed as optional arguments to 
 __Your turn!__
 Write a function which produces a histogram of a random process. The first argument should be ```n```, the number of observations. The second argument should be one of the following: ```"Uniform", "Binomial", "Poisson"```. These should correspond, respectively, to: ```runif(n), rbinom(n, 100, 0.5), rpois(n, 1)```. Finally, include the ```...``` argument to be passed into the histogram function.
 
-```{r, eval = FALSE}
+```{r, eval = TRUE}
 # Remove eval = FALSE or set eval = TRUE when you have completed this function.
-randhist <- function() { # Fill in arguments.
-  # Fill in.
+randhist <- function(data, dis,...) { # Fill in arguments.
+  # fill in
+  switch(dis,
+    "Uniform" = hist(runif(data), ...),
+    "Binomial" = hist(rbinom(data, 100, 0.5), ...),
+    "Poisson" = hist(rpois(data, 1), ...)
+  )
 }
 
 randhist(10, "Uniform", breaks = seq(0, 1, 0.1))

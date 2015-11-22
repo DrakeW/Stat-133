@@ -1,0 +1,11 @@
+---
+title: hello world
+author: Junyu Wang 24153759
+output: html_document
+---
+
+This is the first line
+A 2nd line
+
+
+The quit brown fox jumps over the lazy dog

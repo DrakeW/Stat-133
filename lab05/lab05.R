@@ -35,6 +35,8 @@ tents <- read_csv("https://raw.githubusercontent.com/gastonstat/stat133/master/d
 # of more than one variable. If you want to get univariate
 # charts, probably ggplot2 may not be the best option.
 
+install.packages('ggplot2')
+library('ggplot2')
 # default histogram
 ggplot(data = tents, aes(x = price)) +
   geom_histogram()
@@ -69,7 +71,11 @@ ggplot(tents, aes(x = capacity, y = price)) +
 # Try generating histograms, density curves, 
 # and boxplots for either 'height' or 'weight'
 
+ggplot(data = tents, aes(x = weight)) + geom_histogram()
 
+ggplot(data = tents, aes(x = weight)) + geom_density()
+
+ggplot(tents, aes(x = 1, y = weight)) + geom_boxplot()
 
 
 
@@ -97,9 +103,12 @@ ggplot(tents, aes(x = brand, fill = brand)) +
 # Your Turn!
 # Try generating barcharts for 'bestuse' and seasons
 
+ggplot(tents, aes(x = bestuse)) + geom_bar()
+
+ggplot(tents, aes(x = seasons)) + geom_bar()
 
 ## generate a barchart for bestuse colored by brand
-
+ggplot(tents, aes(x = bestuse, fill = bestuse)) + geom_bar()
 
 
 # =====================================================
@@ -122,9 +131,11 @@ ggplot(tents, aes(x = weight, group = bestuse)) +
 ### Your turn!
 ## densities of height by capacity (with fill color by capacity)
 
+ggplot(tents, aes(x = height, group = capacity)) + geom_density(aes(fill = capacity), alpha = 0.7)
 
 ##boxplot of height by capacity (with fill color by bestuse)
 
+ggplot(tents, aes(x = height, group = capacity)) + geom_density(aes(fill = bestuse), alpha = 0.7)
 
 # =====================================================
 # Graphics with 'ggplot2'

@@ -1,8 +1,8 @@
 ---
 title: "Lab 7"
-author: "Your Name"
+author: "Junyu Wang"
 date: "October 13th, 2015"
-output: html_document
+output: word_document
 ---
 
 ## Regular Expressions
@@ -74,6 +74,7 @@ Use grep to find which countries have more than one word in their name. (Hint: W
 
 ```{r}
 # Fill in.
+grep(" ", countries, value = TRUE)
 ```
 
 ### grep Variants
@@ -106,6 +107,7 @@ Replace all instances of `us` (or `US`, etc.) with `United States`, but only out
 
 ```{r}
 # Fill in.
+gsub("us", "United States", grep("us", countries, ignore.case = TRUE, value = TRUE), ignore.case = TRUE)
 ```
 
 ### Metacharacters
@@ -125,6 +127,7 @@ Find which countries' names end in `stan`.
 
 ```{r}
 # Fill in.
+grep("stan$", countries, value = TRUE)
 ```
 
 You may have noticed that metacharacters are not treated literally.
@@ -152,6 +155,7 @@ Find which countries' names start with `S` and have an `l` in their name.
 
 ```{r}
 # Fill in.
+grep("^S.*l", countries, value = TRUE)
 ```
 
 ### Character Classes
@@ -181,6 +185,7 @@ Find which countries' names start with two or more vowels.
 
 ```{r}
 # Fill in.
+grep("^[AEIOU]{2,}", countries, value = TRUE, ignore.case = TRUE)
 ```
 
 Finally, when inside of a character class, `^` denotes negation, so `[^AZ]` matches any character except `A` or `Z`.
@@ -190,4 +195,5 @@ Find which countries' names start with a vowel and end in a consonant.
 
 ```{r}
 # Fill in.
+grep("^[AEIOU].*[^AEIOU]$", countries, value = TRUE, ignore.case = TRUE)
 ```

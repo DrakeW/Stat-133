@@ -1,0 +1,869 @@
+"","id","home_team","home_score","away_team","away_score","total_score","diff_score","home_win","date","year","month","decade","temperature","humidity","wind_mph"
+"10325","201001030min","Minnesota Vikings",44,"New York Giants",7,51,37,TRUE,"1/3/2010",2010,"January","2010s",72,NA,NA
+"10326","201001030sea","Seattle Seahawks",13,"Tennessee Titans",17,30,-4,FALSE,"1/3/2010",2010,"January","2010s",44,91,8
+"10327","201001030dal","Dallas Cowboys",24,"Philadelphia Eagles",0,24,24,TRUE,"1/3/2010",2010,"January","2010s",39,NA,8
+"10328","201001030mia","Miami Dolphins",24,"Pittsburgh Steelers",30,54,-6,FALSE,"1/3/2010",2010,"January","2010s",54,50,8
+"10329","201001030rai","Oakland Raiders",13,"Baltimore Ravens",21,34,-8,FALSE,"1/3/2010",2010,"January","2010s",49,85,5
+"10330","201001030ram","St. Louis Rams",6,"San Francisco 49ers",28,34,-22,FALSE,"1/3/2010",2010,"January","2010s",72,NA,NA
+"10331","201001030sdg","San Diego Chargers",23,"Washington Redskins",20,43,3,TRUE,"1/3/2010",2010,"January","2010s",60,39,4
+"10332","201001030htx","Houston Texans",34,"New England Patriots",27,61,7,TRUE,"1/3/2010",2010,"January","2010s",72,NA,NA
+"10333","201001030car","Carolina Panthers",23,"New Orleans Saints",10,33,13,TRUE,"1/3/2010",2010,"January","2010s",24,42,8
+"10334","201001030den","Denver Broncos",24,"Kansas City Chiefs",44,68,-20,FALSE,"1/3/2010",2010,"January","2010s",31,72,6
+"10335","201001030cle","Cleveland Browns",23,"Jacksonville Jaguars",17,40,6,TRUE,"1/3/2010",2010,"January","2010s",14,67,17
+"10336","201001030crd","Arizona Cardinals",7,"Green Bay Packers",33,40,-26,FALSE,"1/3/2010",2010,"January","2010s",72,NA,NA
+"10337","201001030buf","Buffalo Bills",30,"Indianapolis Colts",7,37,23,TRUE,"1/3/2010",2010,"January","2010s",11,84,13
+"10338","201001030nyj","New York Jets",37,"Cincinnati Bengals",0,37,37,TRUE,"1/3/2010",2010,"January","2010s",20,60,27
+"10339","201001030det","Detroit Lions",23,"Chicago Bears",37,60,-14,FALSE,"1/3/2010",2010,"January","2010s",72,NA,NA
+"10340","201001030tam","Tampa Bay Buccaneers",10,"Atlanta Falcons",20,30,-10,FALSE,"1/3/2010",2010,"January","2010s",42,50,9
+"10341","201001090dal","Dallas Cowboys",34,"Philadelphia Eagles",14,48,20,TRUE,"1/9/2010",2010,"January","2010s",23,NA,6
+"10342","201001090cin","Cincinnati Bengals",14,"New York Jets",24,38,-10,FALSE,"1/9/2010",2010,"January","2010s",19,82,9
+"10343","201001100crd","Arizona Cardinals",51,"Green Bay Packers",45,96,6,TRUE,"1/10/2010",2010,"January","2010s",72,NA,NA
+"10344","201001100nwe","New England Patriots",14,"Baltimore Ravens",33,47,-19,FALSE,"1/10/2010",2010,"January","2010s",17,37,15
+"10345","201001160clt","Indianapolis Colts",20,"Baltimore Ravens",3,23,17,TRUE,"1/16/2010",2010,"January","2010s",72,NA,NA
+"10346","201001160nor","New Orleans Saints",45,"Arizona Cardinals",14,59,31,TRUE,"1/16/2010",2010,"January","2010s",72,NA,NA
+"10347","201001170min","Minnesota Vikings",34,"Dallas Cowboys",3,37,31,TRUE,"1/17/2010",2010,"January","2010s",72,NA,NA
+"10348","201001170sdg","San Diego Chargers",14,"New York Jets",17,31,-3,FALSE,"1/17/2010",2010,"January","2010s",58,68,4
+"10349","201001240nor","New Orleans Saints",31,"Minnesota Vikings",28,59,3,TRUE,"1/24/2010",2010,"January","2010s",72,NA,NA
+"10350","201001240clt","Indianapolis Colts",30,"New York Jets",17,47,13,TRUE,"1/24/2010",2010,"January","2010s",72,NA,NA
+"10351","201002070clt","Indianapolis Colts",17,"New Orleans Saints",31,48,-14,FALSE,"2/7/2010",2010,"Feburary","2010s",61,63,10
+"10352","201009120pit","Pittsburgh Steelers",15,"Atlanta Falcons",9,24,6,TRUE,"9/12/2010",2010,"September","2010s",65,67,9
+"10353","201009120oti","Tennessee Titans",38,"Oakland Raiders",13,51,25,TRUE,"9/12/2010",2010,"September","2010s",77,45,9
+"10354","201009120buf","Buffalo Bills",10,"Miami Dolphins",15,25,-5,FALSE,"9/12/2010",2010,"September","2010s",62,81,7
+"10355","201009120phi","Philadelphia Eagles",20,"Green Bay Packers",27,47,-7,FALSE,"9/12/2010",2010,"September","2010s",69,72,4
+"10356","201009120chi","Chicago Bears",19,"Detroit Lions",14,33,5,TRUE,"9/12/2010",2010,"September","2010s",75,45,1
+"10357","201009120jax","Jacksonville Jaguars",24,"Denver Broncos",17,41,7,TRUE,"9/12/2010",2010,"September","2010s",90,67,1
+"10358","201009120was","Washington Redskins",13,"Dallas Cowboys",7,20,6,TRUE,"9/12/2010",2010,"September","2010s",66,85,2
+"10359","201009120htx","Houston Texans",34,"Indianapolis Colts",24,58,10,TRUE,"9/12/2010",2010,"September","2010s",89,NA,5
+"10360","201009120tam","Tampa Bay Buccaneers",17,"Cleveland Browns",14,31,3,TRUE,"9/12/2010",2010,"September","2010s",87,78,6
+"10361","201009120nyg","New York Giants",31,"Carolina Panthers",18,49,13,TRUE,"9/12/2010",2010,"September","2010s",64,67,1
+"10362","201009130kan","Kansas City Chiefs",21,"San Diego Chargers",14,35,7,TRUE,"9/13/2010",2010,"September","2010s",78,75,1
+"10363","201009130nyj","New York Jets",9,"Baltimore Ravens",10,19,-1,FALSE,"9/13/2010",2010,"September","2010s",67,100,1
+"10364","201009190clt","Indianapolis Colts",38,"New York Giants",14,52,24,TRUE,"9/19/2010",2010,"September","2010s",74,NA,3
+"10365","201009190oti","Tennessee Titans",11,"Pittsburgh Steelers",19,30,-8,FALSE,"9/19/2010",2010,"September","2010s",87,49,3
+"10366","201009190rai","Oakland Raiders",16,"St. Louis Rams",14,30,2,TRUE,"9/19/2010",2010,"September","2010s",72,60,6
+"10367","201009190cin","Cincinnati Bengals",15,"Baltimore Ravens",10,25,5,TRUE,"9/19/2010",2010,"September","2010s",78,52,1
+"10368","201009190den","Denver Broncos",31,"Seattle Seahawks",14,45,17,TRUE,"9/19/2010",2010,"September","2010s",91,4,9
+"10369","201009190car","Carolina Panthers",7,"Tampa Bay Buccaneers",20,27,-13,FALSE,"9/19/2010",2010,"September","2010s",89,39,4
+"10370","201009190nyj","New York Jets",28,"New England Patriots",14,42,14,TRUE,"9/19/2010",2010,"September","2010s",81,36,6
+"10371","201009190cle","Cleveland Browns",14,"Kansas City Chiefs",16,30,-2,FALSE,"9/19/2010",2010,"September","2010s",65,0,1
+"10372","201009190sdg","San Diego Chargers",38,"Jacksonville Jaguars",13,51,25,TRUE,"9/19/2010",2010,"September","2010s",76,63,8
+"10373","201009190was","Washington Redskins",27,"Houston Texans",30,57,-3,FALSE,"9/19/2010",2010,"September","2010s",85,43,6
+"10374","201009190gnb","Green Bay Packers",34,"Buffalo Bills",7,41,27,TRUE,"9/19/2010",2010,"September","2010s",58,51,4
+"10375","201009200sfo","San Francisco 49ers",22,"New Orleans Saints",25,47,-3,FALSE,"9/20/2010",2010,"September","2010s",65,60,1
+"10376","201009260nyg","New York Giants",10,"Tennessee Titans",29,39,-19,FALSE,"9/26/2010",2010,"September","2010s",70,48,3
+"10377","201009260jax","Jacksonville Jaguars",3,"Philadelphia Eagles",28,31,-25,FALSE,"9/26/2010",2010,"September","2010s",89,67,5
+"10378","201009260tam","Tampa Bay Buccaneers",13,"Pittsburgh Steelers",38,51,-25,FALSE,"9/26/2010",2010,"September","2010s",90,62,7
+"10379","201009260kan","Kansas City Chiefs",31,"San Francisco 49ers",10,41,21,TRUE,"9/26/2010",2010,"September","2010s",55,72,1
+"10380","201009260mia","Miami Dolphins",23,"New York Jets",31,54,-8,FALSE,"9/26/2010",2010,"September","2010s",83,77,9
+"10381","201009260htx","Houston Texans",13,"Dallas Cowboys",27,40,-14,FALSE,"9/26/2010",2010,"September","2010s",81,NA,8
+"10382","201009260den","Denver Broncos",13,"Indianapolis Colts",27,40,-14,FALSE,"9/26/2010",2010,"September","2010s",85,12,6
+"10383","201009260rav","Baltimore Ravens",24,"Cleveland Browns",17,41,7,TRUE,"9/26/2010",2010,"September","2010s",64,83,6
+"10384","201009260car","Carolina Panthers",7,"Cincinnati Bengals",20,27,-13,FALSE,"9/26/2010",2010,"September","2010s",67,86,8
+"10385","201009270chi","Chicago Bears",20,"Green Bay Packers",17,37,3,TRUE,"9/27/2010",2010,"September","2010s",56,75,6
+"10386","201010030phi","Philadelphia Eagles",12,"Washington Redskins",17,29,-5,FALSE,"10/3/2010",2010,"October","2010s",63,57,1
+"10387","201010030pit","Pittsburgh Steelers",14,"Baltimore Ravens",17,31,-3,FALSE,"10/3/2010",2010,"October","2010s",52,86,5
+"10388","201010030buf","Buffalo Bills",14,"New York Jets",38,52,-24,FALSE,"10/3/2010",2010,"October","2010s",51,66,1
+"10389","201010030rai","Oakland Raiders",24,"Houston Texans",31,55,-7,FALSE,"10/3/2010",2010,"October","2010s",71,53,1
+"10390","201010030gnb","Green Bay Packers",28,"Detroit Lions",26,54,2,TRUE,"10/3/2010",2010,"October","2010s",52,61,8
+"10391","201010030oti","Tennessee Titans",20,"Denver Broncos",26,46,-6,FALSE,"10/3/2010",2010,"October","2010s",54,67,1
+"10392","201010030nyg","New York Giants",17,"Chicago Bears",3,20,14,TRUE,"10/3/2010",2010,"October","2010s",59,52,1
+"10393","201010030jax","Jacksonville Jaguars",31,"Indianapolis Colts",28,59,3,TRUE,"10/3/2010",2010,"October","2010s",80,30,1
+"10394","201010030sdg","San Diego Chargers",41,"Arizona Cardinals",10,51,31,TRUE,"10/3/2010",2010,"October","2010s",72,67,8
+"10395","201010040mia","Miami Dolphins",14,"New England Patriots",41,55,-27,FALSE,"10/4/2010",2010,"October","2010s",80,60,1
+"10396","201010100htx","Houston Texans",10,"New York Giants",34,44,-24,FALSE,"10/10/2010",2010,"October","2010s",78,NA,6
+"10397","201010100sfo","San Francisco 49ers",24,"Philadelphia Eagles",27,51,-3,FALSE,"10/10/2010",2010,"October","2010s",71,51,1
+"10398","201010100cin","Cincinnati Bengals",21,"Tampa Bay Buccaneers",24,45,-3,FALSE,"10/10/2010",2010,"October","2010s",81,32,2
+"10399","201010100clt","Indianapolis Colts",19,"Kansas City Chiefs",9,28,10,TRUE,"10/10/2010",2010,"October","2010s",83,NA,NA
+"10400","201010100buf","Buffalo Bills",26,"Jacksonville Jaguars",36,62,-10,FALSE,"10/10/2010",2010,"October","2010s",62,52,1
+"10401","201010100was","Washington Redskins",16,"Green Bay Packers",13,29,3,TRUE,"10/10/2010",2010,"October","2010s",72,46,NA
+"10402","201010100rav","Baltimore Ravens",31,"Denver Broncos",17,48,14,TRUE,"10/10/2010",2010,"October","2010s",67,40,6
+"10403","201010100car","Carolina Panthers",6,"Chicago Bears",23,29,-17,FALSE,"10/10/2010",2010,"October","2010s",81,29,2
+"10404","201010110nyj","New York Jets",29,"Minnesota Vikings",20,49,9,TRUE,"10/11/2010",2010,"October","2010s",72,56,1
+"10405","201010170chi","Chicago Bears",20,"Seattle Seahawks",23,43,-3,FALSE,"10/17/2010",2010,"October","2010s",61,49,9
+"10406","201010170sfo","San Francisco 49ers",17,"Oakland Raiders",9,26,8,TRUE,"10/17/2010",2010,"October","2010s",53,72,1
+"10407","201010170den","Denver Broncos",20,"New York Jets",24,44,-4,FALSE,"10/17/2010",2010,"October","2010s",73,13,4
+"10408","201010170tam","Tampa Bay Buccaneers",6,"New Orleans Saints",31,37,-25,FALSE,"10/17/2010",2010,"October","2010s",81,48,9
+"10409","201010170gnb","Green Bay Packers",20,"Miami Dolphins",23,43,-3,FALSE,"10/17/2010",2010,"October","2010s",57,45,1
+"10410","201010170htx","Houston Texans",35,"Kansas City Chiefs",31,66,4,TRUE,"10/17/2010",2010,"October","2010s",78,NA,3
+"10411","201010170nyg","New York Giants",28,"Detroit Lions",20,48,8,TRUE,"10/17/2010",2010,"October","2010s",63,44,9
+"10412","201010170phi","Philadelphia Eagles",31,"Atlanta Falcons",17,48,14,TRUE,"10/17/2010",2010,"October","2010s",66,45,1
+"10413","201010170pit","Pittsburgh Steelers",28,"Cleveland Browns",10,38,18,TRUE,"10/17/2010",2010,"October","2010s",61,48,1
+"10414","201010170was","Washington Redskins",24,"Indianapolis Colts",27,51,-3,FALSE,"10/17/2010",2010,"October","2010s",70,46,7
+"10415","201010180jax","Jacksonville Jaguars",3,"Tennessee Titans",30,33,-27,FALSE,"10/18/2010",2010,"October","2010s",0,0,NA
+"10416","201010240mia","Miami Dolphins",22,"Pittsburgh Steelers",23,45,-1,FALSE,"10/24/2010",2010,"October","2010s",80,84,1
+"10417","201010240sdg","San Diego Chargers",20,"New England Patriots",23,43,-3,FALSE,"10/24/2010",2010,"October","2010s",69,68,7
+"10418","201010240rav","Baltimore Ravens",37,"Buffalo Bills",34,71,3,TRUE,"10/24/2010",2010,"October","2010s",70,52,5
+"10419","201010240car","Carolina Panthers",23,"San Francisco 49ers",20,43,3,TRUE,"10/24/2010",2010,"October","2010s",75,57,9
+"10420","201010240tam","Tampa Bay Buccaneers",18,"St. Louis Rams",17,35,1,TRUE,"10/24/2010",2010,"October","2010s",84,62,9
+"10421","201010240den","Denver Broncos",14,"Oakland Raiders",59,73,-45,FALSE,"10/24/2010",2010,"October","2010s",63,23,9
+"10422","201010240gnb","Green Bay Packers",28,"Minnesota Vikings",24,52,4,TRUE,"10/24/2010",2010,"October","2010s",58,96,4
+"10423","201010240kan","Kansas City Chiefs",42,"Jacksonville Jaguars",20,62,22,TRUE,"10/24/2010",2010,"October","2010s",63,80,1
+"10424","201010240chi","Chicago Bears",14,"Washington Redskins",17,31,-3,FALSE,"10/24/2010",2010,"October","2010s",67,65,1
+"10425","201010240oti","Tennessee Titans",37,"Philadelphia Eagles",19,56,18,TRUE,"10/24/2010",2010,"October","2010s",78,39,2
+"10426","201010250dal","Dallas Cowboys",35,"New York Giants",41,76,-6,FALSE,"10/25/2010",2010,"October","2010s",84,NA,2
+"10427","201010310cin","Cincinnati Bengals",14,"Miami Dolphins",22,36,-8,FALSE,"10/31/2010",2010,"October","2010s",54,57,1
+"10428","201010310kan","Kansas City Chiefs",13,"Buffalo Bills",10,23,3,TRUE,"10/31/2010",2010,"October","2010s",51,60,1
+"10429","201010310sdg","San Diego Chargers",33,"Tennessee Titans",25,58,8,TRUE,"10/31/2010",2010,"October","2010s",65,65,1
+"10430","201010310nyj","New York Jets",0,"Green Bay Packers",9,9,-9,FALSE,"10/31/2010",2010,"October","2010s",57,41,1
+"10431","201010310rai","Oakland Raiders",33,"Seattle Seahawks",3,36,30,TRUE,"10/31/2010",2010,"October","2010s",66,60,5
+"10432","201011010clt","Indianapolis Colts",30,"Houston Texans",17,47,13,TRUE,"11/1/2010",2010,"November","2010s",47,NA,1
+"10433","201011070htx","Houston Texans",23,"San Diego Chargers",29,52,-6,FALSE,"11/7/2010",2010,"November","2010s",63,NA,8
+"10434","201011070car","Carolina Panthers",3,"New Orleans Saints",34,37,-31,FALSE,"11/7/2010",2010,"November","2010s",50,33,7
+"10435","201011070phi","Philadelphia Eagles",26,"Indianapolis Colts",24,50,2,TRUE,"11/7/2010",2010,"November","2010s",52,34,1
+"10436","201011070gnb","Green Bay Packers",45,"Dallas Cowboys",7,52,38,TRUE,"11/7/2010",2010,"November","2010s",43,62,3
+"10437","201011070rai","Oakland Raiders",23,"Kansas City Chiefs",20,43,3,TRUE,"11/7/2010",2010,"November","2010s",62,82,9
+"10438","201011070rav","Baltimore Ravens",26,"Miami Dolphins",10,36,16,TRUE,"11/7/2010",2010,"November","2010s",50,38,1
+"10439","201011080cin","Cincinnati Bengals",21,"Pittsburgh Steelers",27,48,-6,FALSE,"11/8/2010",2010,"November","2010s",44,65,2
+"10440","201011140sfo","San Francisco 49ers",23,"St. Louis Rams",20,43,3,TRUE,"11/14/2010",2010,"November","2010s",74,50,5
+"10441","201011140mia","Miami Dolphins",29,"Tennessee Titans",17,46,12,TRUE,"11/14/2010",2010,"November","2010s",79,46,9
+"10442","201011140cle","Cleveland Browns",20,"New York Jets",26,46,-6,FALSE,"11/14/2010",2010,"November","2010s",46,77,1
+"10443","201011140pit","Pittsburgh Steelers",26,"New England Patriots",39,65,-13,FALSE,"11/14/2010",2010,"November","2010s",49,86,8
+"10444","201011140chi","Chicago Bears",27,"Minnesota Vikings",13,40,14,TRUE,"11/14/2010",2010,"November","2010s",44,57,2
+"10445","201011140den","Denver Broncos",49,"Kansas City Chiefs",29,78,20,TRUE,"11/14/2010",2010,"November","2010s",43,34,6
+"10446","201011140tam","Tampa Bay Buccaneers",31,"Carolina Panthers",16,47,15,TRUE,"11/14/2010",2010,"November","2010s",73,57,7
+"10447","201011140clt","Indianapolis Colts",23,"Cincinnati Bengals",17,40,6,TRUE,"11/14/2010",2010,"November","2010s",46,NA,1
+"10448","201011140nyg","New York Giants",20,"Dallas Cowboys",33,53,-13,FALSE,"11/14/2010",2010,"November","2010s",60,45,8
+"10449","201011140buf","Buffalo Bills",14,"Detroit Lions",12,26,2,TRUE,"11/14/2010",2010,"November","2010s",58,36,1
+"10450","201011140jax","Jacksonville Jaguars",31,"Houston Texans",24,55,7,TRUE,"11/14/2010",2010,"November","2010s",70,50,5
+"10451","201011150was","Washington Redskins",28,"Philadelphia Eagles",59,87,-31,FALSE,"11/15/2010",2010,"November","2010s",52,67,3
+"10452","201011180mia","Miami Dolphins",0,"Chicago Bears",16,16,-16,FALSE,"11/18/2010",2010,"November","2010s",75,77,8
+"10453","201011210phi","Philadelphia Eagles",27,"New York Giants",17,44,10,TRUE,"11/21/2010",2010,"November","2010s",45,68,7
+"10454","201011210pit","Pittsburgh Steelers",35,"Oakland Raiders",3,38,32,TRUE,"11/21/2010",2010,"November","2010s",57,62,9
+"10455","201011210car","Carolina Panthers",13,"Baltimore Ravens",37,50,-24,FALSE,"11/21/2010",2010,"November","2010s",65,43,6
+"10456","201011210sfo","San Francisco 49ers",0,"Tampa Bay Buccaneers",21,21,-21,FALSE,"11/21/2010",2010,"November","2010s",54,65,2
+"10457","201011210oti","Tennessee Titans",16,"Washington Redskins",19,35,-3,FALSE,"11/21/2010",2010,"November","2010s",66,53,1
+"10458","201011210nyj","New York Jets",30,"Houston Texans",27,57,3,TRUE,"11/21/2010",2010,"November","2010s",46,37,1
+"10459","201011210kan","Kansas City Chiefs",31,"Arizona Cardinals",13,44,18,TRUE,"11/21/2010",2010,"November","2010s",66,65,2
+"10460","201011210jax","Jacksonville Jaguars",24,"Cleveland Browns",20,44,4,TRUE,"11/21/2010",2010,"November","2010s",0,0,NA
+"10461","201011210cin","Cincinnati Bengals",31,"Buffalo Bills",49,80,-18,FALSE,"11/21/2010",2010,"November","2010s",65,56,1
+"10462","201011220sdg","San Diego Chargers",35,"Denver Broncos",14,49,21,TRUE,"11/22/2010",2010,"November","2010s",55,69,5
+"10463","201011250nyj","New York Jets",26,"Cincinnati Bengals",10,36,16,TRUE,"11/25/2010",2010,"November","2010s",39,87,6
+"10464","201011280rav","Baltimore Ravens",17,"Tampa Bay Buccaneers",10,27,7,TRUE,"11/28/2010",2010,"November","2010s",48,37,3
+"10465","201011280clt","Indianapolis Colts",14,"San Diego Chargers",36,50,-22,FALSE,"11/28/2010",2010,"November","2010s",38,NA,8
+"10466","201011280den","Denver Broncos",33,"St. Louis Rams",36,69,-3,FALSE,"11/28/2010",2010,"November","2010s",45,23,1
+"10467","201011280buf","Buffalo Bills",16,"Pittsburgh Steelers",19,35,-3,FALSE,"11/28/2010",2010,"November","2010s",36,78,1
+"10468","201011280chi","Chicago Bears",31,"Philadelphia Eagles",26,57,5,TRUE,"11/28/2010",2010,"November","2010s",45,57,1
+"10469","201011280htx","Houston Texans",20,"Tennessee Titans",0,20,20,TRUE,"11/28/2010",2010,"November","2010s",58,NA,5
+"10470","201011280was","Washington Redskins",13,"Minnesota Vikings",17,30,-4,FALSE,"11/28/2010",2010,"November","2010s",47,44,5
+"10471","201011280rai","Oakland Raiders",17,"Miami Dolphins",33,50,-16,FALSE,"11/28/2010",2010,"November","2010s",54,49,1
+"10472","201011280nyg","New York Giants",24,"Jacksonville Jaguars",20,44,4,TRUE,"11/28/2010",2010,"November","2010s",43,43,6
+"10473","201012020phi","Philadelphia Eagles",34,"Houston Texans",24,58,10,TRUE,"12/2/2010",2010,"December","2010s",36,55,5
+"10474","201012050nyg","New York Giants",31,"Washington Redskins",7,38,24,TRUE,"12/5/2010",2010,"December","2010s",33,51,1
+"10475","201012050crd","Arizona Cardinals",6,"St. Louis Rams",19,25,-13,FALSE,"12/5/2010",2010,"December","2010s",67,NA,NA
+"10476","201012050sdg","San Diego Chargers",13,"Oakland Raiders",28,41,-15,FALSE,"12/5/2010",2010,"December","2010s",67,39,5
+"10477","201012050rav","Baltimore Ravens",10,"Pittsburgh Steelers",13,23,-3,FALSE,"12/5/2010",2010,"December","2010s",35,48,NA
+"10478","201012050cin","Cincinnati Bengals",30,"New Orleans Saints",34,64,-4,FALSE,"12/5/2010",2010,"December","2010s",32,68,1
+"10479","201012050oti","Tennessee Titans",6,"Jacksonville Jaguars",17,23,-11,FALSE,"12/5/2010",2010,"December","2010s",35,70,1
+"10480","201012050gnb","Green Bay Packers",34,"San Francisco 49ers",16,50,18,TRUE,"12/5/2010",2010,"December","2010s",26,60,1
+"10481","201012050kan","Kansas City Chiefs",10,"Denver Broncos",6,16,4,TRUE,"12/5/2010",2010,"December","2010s",26,55,8
+"10482","201012050tam","Tampa Bay Buccaneers",24,"Atlanta Falcons",28,52,-4,FALSE,"12/5/2010",2010,"December","2010s",72,53,9
+"10483","201012050mia","Miami Dolphins",10,"Cleveland Browns",13,23,-3,FALSE,"12/5/2010",2010,"December","2010s",76,52,1
+"10484","201012050clt","Indianapolis Colts",35,"Dallas Cowboys",38,73,-3,FALSE,"12/5/2010",2010,"December","2010s",25,NA,1
+"10485","201012090oti","Tennessee Titans",28,"Indianapolis Colts",30,58,-2,FALSE,"12/9/2010",2010,"December","2010s",35,46,6
+"10486","201012120jax","Jacksonville Jaguars",38,"Oakland Raiders",31,69,7,TRUE,"12/12/2010",2010,"December","2010s",54,86,1
+"10487","201012120sfo","San Francisco 49ers",40,"Seattle Seahawks",21,61,19,TRUE,"12/12/2010",2010,"December","2010s",55,90,3
+"10488","201012120was","Washington Redskins",16,"Tampa Bay Buccaneers",17,33,-1,FALSE,"12/12/2010",2010,"December","2010s",43,96,5
+"10489","201012120chi","Chicago Bears",7,"New England Patriots",36,43,-29,FALSE,"12/12/2010",2010,"December","2010s",26,81,3
+"10490","201012120nyj","New York Jets",6,"Miami Dolphins",10,16,-4,FALSE,"12/12/2010",2010,"December","2010s",53,83,8
+"10491","201012120sdg","San Diego Chargers",31,"Kansas City Chiefs",0,31,31,TRUE,"12/12/2010",2010,"December","2010s",86,22,5
+"10492","201012120car","Carolina Panthers",10,"Atlanta Falcons",31,41,-21,FALSE,"12/12/2010",2010,"December","2010s",44,94,1
+"10493","201012120pit","Pittsburgh Steelers",23,"Cincinnati Bengals",7,30,16,TRUE,"12/12/2010",2010,"December","2010s",37,89,8
+"10494","201012120buf","Buffalo Bills",13,"Cleveland Browns",6,19,7,TRUE,"12/12/2010",2010,"December","2010s",36,95,6
+"10495","201012130htx","Houston Texans",28,"Baltimore Ravens",34,62,-6,FALSE,"12/13/2010",2010,"December","2010s",0,NA,NA
+"10496","201012160sdg","San Diego Chargers",34,"San Francisco 49ers",7,41,27,TRUE,"12/16/2010",2010,"December","2010s",56,69,7
+"10497","201012190clt","Indianapolis Colts",34,"Jacksonville Jaguars",24,58,10,TRUE,"12/19/2010",2010,"December","2010s",26,NA,6
+"10498","201012190rav","Baltimore Ravens",30,"New Orleans Saints",24,54,6,TRUE,"12/19/2010",2010,"December","2010s",34,40,1
+"10499","201012190pit","Pittsburgh Steelers",17,"New York Jets",22,39,-5,FALSE,"12/19/2010",2010,"December","2010s",25,62,9
+"10500","201012190nyg","New York Giants",31,"Philadelphia Eagles",38,69,-7,FALSE,"12/19/2010",2010,"December","2010s",33,58,6
+"10501","201012190dal","Dallas Cowboys",33,"Washington Redskins",30,63,3,TRUE,"12/19/2010",2010,"December","2010s",51,NA,NA
+"10502","201012190oti","Tennessee Titans",31,"Houston Texans",17,48,14,TRUE,"12/19/2010",2010,"December","2010s",36,56,4
+"10503","201012190tam","Tampa Bay Buccaneers",20,"Detroit Lions",23,43,-3,FALSE,"12/19/2010",2010,"December","2010s",54,96,1
+"10504","201012190car","Carolina Panthers",19,"Arizona Cardinals",12,31,7,TRUE,"12/19/2010",2010,"December","2010s",42,57,6
+"10505","201012190cin","Cincinnati Bengals",19,"Cleveland Browns",17,36,2,TRUE,"12/19/2010",2010,"December","2010s",28,59,8
+"10506","201012190mia","Miami Dolphins",14,"Buffalo Bills",17,31,-3,FALSE,"12/19/2010",2010,"December","2010s",67,74,1
+"10507","201012200min","Minnesota Vikings",14,"Chicago Bears",40,54,-26,FALSE,"12/20/2010",2010,"December","2010s",23,NA,1
+"10508","201012230pit","Pittsburgh Steelers",27,"Carolina Panthers",3,30,24,TRUE,"12/23/2010",2010,"December","2010s",27,70,1
+"10509","201012250crd","Arizona Cardinals",27,"Dallas Cowboys",26,53,1,TRUE,"12/25/2010",2010,"December","2010s",64,NA,7
+"10510","201012260jax","Jacksonville Jaguars",17,"Washington Redskins",20,37,-3,FALSE,"12/26/2010",2010,"December","2010s",38,64,NA
+"10511","201012260tam","Tampa Bay Buccaneers",38,"Seattle Seahawks",15,53,23,TRUE,"12/26/2010",2010,"December","2010s",49,56,1
+"10512","201012260cin","Cincinnati Bengals",34,"San Diego Chargers",20,54,14,TRUE,"12/26/2010",2010,"December","2010s",29,62,1
+"10513","201012260cle","Cleveland Browns",10,"Baltimore Ravens",20,30,-10,FALSE,"12/26/2010",2010,"December","2010s",26,73,1
+"10514","201012260kan","Kansas City Chiefs",34,"Tennessee Titans",14,48,20,TRUE,"12/26/2010",2010,"December","2010s",19,77,7
+"10515","201012260chi","Chicago Bears",38,"New York Jets",34,72,4,TRUE,"12/26/2010",2010,"December","2010s",33,85,9
+"10516","201012260gnb","Green Bay Packers",45,"New York Giants",17,62,28,TRUE,"12/26/2010",2010,"December","2010s",25,74,5
+"10517","201012260rai","Oakland Raiders",26,"Indianapolis Colts",31,57,-5,FALSE,"12/26/2010",2010,"December","2010s",58,65,5
+"10518","201012260mia","Miami Dolphins",27,"Detroit Lions",34,61,-7,FALSE,"12/26/2010",2010,"December","2010s",69,47,2
+"10519","201012260den","Denver Broncos",24,"Houston Texans",23,47,1,TRUE,"12/26/2010",2010,"December","2010s",50,18,7
+"10520","201012260buf","Buffalo Bills",3,"New England Patriots",34,37,-31,FALSE,"12/26/2010",2010,"December","2010s",22,69,1
+"10521","201012280phi","Philadelphia Eagles",14,"Minnesota Vikings",24,38,-10,FALSE,"12/28/2010",2010,"December","2010s",32,46,1
+"10522","201101020was","Washington Redskins",14,"New York Giants",17,31,-3,FALSE,"1/2/2011",2011,"January","2010s",37,79,7
+"10523","201101020clt","Indianapolis Colts",23,"Tennessee Titans",20,43,3,TRUE,"1/2/2011",2011,"January","2010s",28,NA,1
+"10524","201101020cle","Cleveland Browns",9,"Pittsburgh Steelers",41,50,-32,FALSE,"1/2/2011",2011,"January","2010s",25,51,1
+"10525","201101020kan","Kansas City Chiefs",10,"Oakland Raiders",31,41,-21,FALSE,"1/2/2011",2011,"January","2010s",30,40,1
+"10526","201101020den","Denver Broncos",28,"San Diego Chargers",33,61,-5,FALSE,"1/2/2011",2011,"January","2010s",42,22,4
+"10527","201101020nwe","New England Patriots",38,"Miami Dolphins",7,45,31,TRUE,"1/2/2011",2011,"January","2010s",47,91,5
+"10528","201101020nyj","New York Jets",38,"Buffalo Bills",7,45,31,TRUE,"1/2/2011",2011,"January","2010s",48,78,5
+"10529","201101020gnb","Green Bay Packers",10,"Chicago Bears",3,13,7,TRUE,"1/2/2011",2011,"January","2010s",19,49,1
+"10530","201101020rav","Baltimore Ravens",13,"Cincinnati Bengals",7,20,6,TRUE,"1/2/2011",2011,"January","2010s",51,73,7
+"10531","201101020sfo","San Francisco 49ers",38,"Arizona Cardinals",7,45,31,TRUE,"1/2/2011",2011,"January","2010s",49,85,3
+"10532","201101020phi","Philadelphia Eagles",13,"Dallas Cowboys",14,27,-1,FALSE,"1/2/2011",2011,"January","2010s",40,66,1
+"10533","201101020htx","Houston Texans",34,"Jacksonville Jaguars",17,51,17,TRUE,"1/2/2011",2011,"January","2010s",60,NA,1
+"10534","201101080clt","Indianapolis Colts",16,"New York Jets",17,33,-1,FALSE,"1/8/2011",2011,"January","2010s",15,NA,7
+"10535","201101090phi","Philadelphia Eagles",16,"Green Bay Packers",21,37,-5,FALSE,"1/9/2011",2011,"January","2010s",30,42,1
+"10536","201101090kan","Kansas City Chiefs",7,"Baltimore Ravens",30,37,-23,FALSE,"1/9/2011",2011,"January","2010s",26,53,1
+"10537","201101150pit","Pittsburgh Steelers",31,"Baltimore Ravens",24,55,7,TRUE,"1/15/2011",2011,"January","2010s",36,58,1
+"10538","201101160chi","Chicago Bears",35,"Seattle Seahawks",24,59,11,TRUE,"1/16/2011",2011,"January","2010s",24,55,4
+"10539","201101230chi","Chicago Bears",14,"Green Bay Packers",21,35,-7,FALSE,"1/23/2011",2011,"January","2010s",20,34,1
+"10540","201101230pit","Pittsburgh Steelers",24,"New York Jets",19,43,5,TRUE,"1/23/2011",2011,"January","2010s",17,44,1
+"10541","201102060gnb","Green Bay Packers",31,"Pittsburgh Steelers",25,56,6,TRUE,"2/6/2011",2011,"Feburary","2010s",72,0,NA
+"10542","201109080gnb","Green Bay Packers",42,"New Orleans Saints",34,76,8,TRUE,"9/8/2011",2011,"September","2010s",68,67,5
+"10543","201109110sfo","San Francisco 49ers",33,"Seattle Seahawks",17,50,16,TRUE,"9/11/2011",2011,"September","2010s",68,63,1
+"10544","201109110was","Washington Redskins",28,"New York Giants",14,42,14,TRUE,"9/11/2011",2011,"September","2010s",87,38,5
+"10545","201109110nyj","New York Jets",27,"Dallas Cowboys",24,51,3,TRUE,"9/11/2011",2011,"September","2010s",70,89,6
+"10546","201109110sdg","San Diego Chargers",24,"Minnesota Vikings",17,41,7,TRUE,"9/11/2011",2011,"September","2010s",74,52,7
+"10547","201109110chi","Chicago Bears",30,"Atlanta Falcons",12,42,18,TRUE,"9/11/2011",2011,"September","2010s",76,57,7
+"10548","201109110htx","Houston Texans",34,"Indianapolis Colts",7,41,27,TRUE,"9/11/2011",2011,"September","2010s",84,NA,4
+"10549","201109110rav","Baltimore Ravens",35,"Pittsburgh Steelers",7,42,28,TRUE,"9/11/2011",2011,"September","2010s",75,71,2
+"10550","201109110kan","Kansas City Chiefs",7,"Buffalo Bills",41,48,-34,FALSE,"9/11/2011",2011,"September","2010s",75,65,NA
+"10551","201109110tam","Tampa Bay Buccaneers",20,"Detroit Lions",27,47,-7,FALSE,"9/11/2011",2011,"September","2010s",86,55,6
+"10552","201109110jax","Jacksonville Jaguars",16,"Tennessee Titans",14,30,2,TRUE,"9/11/2011",2011,"September","2010s",87,52,5
+"10553","201109120mia","Miami Dolphins",24,"New England Patriots",38,62,-14,FALSE,"9/12/2011",2011,"September","2010s",82,73,1
+"10554","201109120den","Denver Broncos",20,"Oakland Raiders",23,43,-3,FALSE,"9/12/2011",2011,"September","2010s",75,29,6
+"10555","201109180buf","Buffalo Bills",38,"Oakland Raiders",35,73,3,TRUE,"9/18/2011",2011,"September","2010s",65,47,5
+"10556","201109180sfo","San Francisco 49ers",24,"Dallas Cowboys",27,51,-3,FALSE,"9/18/2011",2011,"September","2010s",70,60,3
+"10557","201109180pit","Pittsburgh Steelers",24,"Seattle Seahawks",0,24,24,TRUE,"9/18/2011",2011,"September","2010s",63,59,1
+"10558","201109180mia","Miami Dolphins",13,"Houston Texans",23,36,-10,FALSE,"9/18/2011",2011,"September","2010s",87,59,1
+"10559","201109180car","Carolina Panthers",23,"Green Bay Packers",30,53,-7,FALSE,"9/18/2011",2011,"September","2010s",64,67,1
+"10560","201109180nor","New Orleans Saints",30,"Chicago Bears",13,43,17,TRUE,"9/18/2011",2011,"September","2010s",80,NA,4
+"10561","201109180nyj","New York Jets",32,"Jacksonville Jaguars",3,35,29,TRUE,"9/18/2011",2011,"September","2010s",66,71,1
+"10562","201109180clt","Indianapolis Colts",19,"Cleveland Browns",27,46,-8,FALSE,"9/18/2011",2011,"September","2010s",65,NA,9
+"10563","201109180was","Washington Redskins",22,"Arizona Cardinals",21,43,1,TRUE,"9/18/2011",2011,"September","2010s",66,71,7
+"10564","201109180oti","Tennessee Titans",26,"Baltimore Ravens",13,39,13,TRUE,"9/18/2011",2011,"September","2010s",76,54,1
+"10565","201109180den","Denver Broncos",24,"Cincinnati Bengals",22,46,2,TRUE,"9/18/2011",2011,"September","2010s",69,27,6
+"10566","201109190nyg","New York Giants",28,"St. Louis Rams",16,44,12,TRUE,"9/19/2011",2011,"September","2010s",60,72,6
+"10567","201109250chi","Chicago Bears",17,"Green Bay Packers",27,44,-10,FALSE,"9/25/2011",2011,"September","2010s",61,85,1
+"10568","201109250cle","Cleveland Browns",17,"Miami Dolphins",16,33,1,TRUE,"9/25/2011",2011,"September","2010s",70,72,5
+"10569","201109250nor","New Orleans Saints",40,"Houston Texans",33,73,7,TRUE,"9/25/2011",2011,"September","2010s",85,NA,8
+"10570","201109250cin","Cincinnati Bengals",8,"San Francisco 49ers",13,21,-5,FALSE,"9/25/2011",2011,"September","2010s",71,61,2
+"10571","201109250clt","Indianapolis Colts",20,"Pittsburgh Steelers",23,43,-3,FALSE,"9/25/2011",2011,"September","2010s",57,NA,7
+"10572","201109250sdg","San Diego Chargers",20,"Kansas City Chiefs",17,37,3,TRUE,"9/25/2011",2011,"September","2010s",67,68,8
+"10573","201109250oti","Tennessee Titans",17,"Denver Broncos",14,31,3,TRUE,"9/25/2011",2011,"September","2010s",73,51,1
+"10574","201109250tam","Tampa Bay Buccaneers",16,"Atlanta Falcons",13,29,3,TRUE,"9/25/2011",2011,"September","2010s",89,94,9
+"10575","201109250buf","Buffalo Bills",34,"New England Patriots",31,65,3,TRUE,"9/25/2011",2011,"September","2010s",78,60,8
+"10576","201109250phi","Philadelphia Eagles",16,"New York Giants",29,45,-13,FALSE,"9/25/2011",2011,"September","2010s",76,79,5
+"10577","201109250rai","Oakland Raiders",34,"New York Jets",24,58,10,TRUE,"9/25/2011",2011,"September","2010s",70,70,7
+"10578","201109250car","Carolina Panthers",16,"Jacksonville Jaguars",10,26,6,TRUE,"9/25/2011",2011,"September","2010s",75,87,4
+"10579","201110020rai","Oakland Raiders",19,"New England Patriots",31,50,-12,FALSE,"10/2/2011",2011,"October","2010s",71,50,6
+"10580","201110020gnb","Green Bay Packers",49,"Denver Broncos",23,72,26,TRUE,"10/2/2011",2011,"October","2010s",67,37,1
+"10581","201110020chi","Chicago Bears",34,"Carolina Panthers",29,63,5,TRUE,"10/2/2011",2011,"October","2010s",60,50,8
+"10582","201110020phi","Philadelphia Eagles",23,"San Francisco 49ers",24,47,-1,FALSE,"10/2/2011",2011,"October","2010s",54,78,2
+"10583","201110020rav","Baltimore Ravens",34,"New York Jets",17,51,17,TRUE,"10/2/2011",2011,"October","2010s",51,66,6
+"10584","201110020cle","Cleveland Browns",13,"Tennessee Titans",31,44,-18,FALSE,"10/2/2011",2011,"October","2010s",48,0,2
+"10585","201110020cin","Cincinnati Bengals",23,"Buffalo Bills",20,43,3,TRUE,"10/2/2011",2011,"October","2010s",57,48,1
+"10586","201110020kan","Kansas City Chiefs",22,"Minnesota Vikings",17,39,5,TRUE,"10/2/2011",2011,"October","2010s",65,40,7
+"10587","201110020htx","Houston Texans",17,"Pittsburgh Steelers",10,27,7,TRUE,"10/2/2011",2011,"October","2010s",75,NA,1
+"10588","201110020jax","Jacksonville Jaguars",10,"New Orleans Saints",23,33,-13,FALSE,"10/2/2011",2011,"October","2010s",71,40,5
+"10589","201110020sdg","San Diego Chargers",26,"Miami Dolphins",16,42,10,TRUE,"10/2/2011",2011,"October","2010s",84,32,9
+"10590","201110090car","Carolina Panthers",27,"New Orleans Saints",30,57,-3,FALSE,"10/9/2011",2011,"October","2010s",68,50,1
+"10591","201110090buf","Buffalo Bills",31,"Philadelphia Eagles",24,55,7,TRUE,"10/9/2011",2011,"October","2010s",74,47,6
+"10592","201110090pit","Pittsburgh Steelers",38,"Tennessee Titans",17,55,21,TRUE,"10/9/2011",2011,"October","2010s",70,53,3
+"10593","201110090jax","Jacksonville Jaguars",20,"Cincinnati Bengals",30,50,-10,FALSE,"10/9/2011",2011,"October","2010s",79,68,1
+"10594","201110090nwe","New England Patriots",30,"New York Jets",21,51,9,TRUE,"10/9/2011",2011,"October","2010s",82,40,9
+"10595","201110090sfo","San Francisco 49ers",48,"Tampa Bay Buccaneers",3,51,45,TRUE,"10/9/2011",2011,"October","2010s",62,75,6
+"10596","201110090den","Denver Broncos",24,"San Diego Chargers",29,53,-5,FALSE,"10/9/2011",2011,"October","2010s",52,45,6
+"10597","201110090htx","Houston Texans",20,"Oakland Raiders",25,45,-5,FALSE,"10/9/2011",2011,"October","2010s",72,NA,6
+"10598","201110090nyg","New York Giants",25,"Seattle Seahawks",36,61,-11,FALSE,"10/9/2011",2011,"October","2010s",81,42,4
+"10599","201110090clt","Indianapolis Colts",24,"Kansas City Chiefs",28,52,-4,FALSE,"10/9/2011",2011,"October","2010s",72,NA,1
+"10600","201110160rai","Oakland Raiders",24,"Cleveland Browns",17,41,7,TRUE,"10/16/2011",2011,"October","2010s",71,60,8
+"10601","201110160was","Washington Redskins",13,"Philadelphia Eagles",20,33,-7,FALSE,"10/16/2011",2011,"October","2010s",68,26,7
+"10602","201110160rav","Baltimore Ravens",29,"Houston Texans",14,43,15,TRUE,"10/16/2011",2011,"October","2010s",72,29,1
+"10603","201110160cin","Cincinnati Bengals",27,"Indianapolis Colts",17,44,10,TRUE,"10/16/2011",2011,"October","2010s",71,41,1
+"10604","201110160chi","Chicago Bears",39,"Minnesota Vikings",10,49,29,TRUE,"10/16/2011",2011,"October","2010s",56,48,1
+"10605","201110160nyg","New York Giants",27,"Buffalo Bills",24,51,3,TRUE,"10/16/2011",2011,"October","2010s",65,40,1
+"10606","201110160gnb","Green Bay Packers",24,"St. Louis Rams",3,27,21,TRUE,"10/16/2011",2011,"October","2010s",57,41,2
+"10607","201110160pit","Pittsburgh Steelers",17,"Jacksonville Jaguars",13,30,4,TRUE,"10/16/2011",2011,"October","2010s",58,52,1
+"10608","201110170nyj","New York Jets",24,"Miami Dolphins",6,30,18,TRUE,"10/17/2011",2011,"October","2010s",62,37,1
+"10609","201110230mia","Miami Dolphins",15,"Denver Broncos",18,33,-3,FALSE,"10/23/2011",2011,"October","2010s",77,57,9
+"10610","201110230cle","Cleveland Browns",6,"Seattle Seahawks",3,9,3,TRUE,"10/23/2011",2011,"October","2010s",56,53,7
+"10611","201110230rai","Oakland Raiders",0,"Kansas City Chiefs",28,28,-28,FALSE,"10/23/2011",2011,"October","2010s",79,46,6
+"10612","201110230nyj","New York Jets",27,"San Diego Chargers",21,48,6,TRUE,"10/23/2011",2011,"October","2010s",58,46,NA
+"10613","201110230oti","Tennessee Titans",7,"Houston Texans",41,48,-34,FALSE,"10/23/2011",2011,"October","2010s",72,35,NA
+"10614","201110230tam","Tampa Bay Buccaneers",18,"Chicago Bears",24,42,-6,FALSE,"10/23/2011",2011,"October","2010s",62,54,1
+"10615","201110230nor","New Orleans Saints",62,"Indianapolis Colts",7,69,55,TRUE,"10/23/2011",2011,"October","2010s",75,NA,8
+"10616","201110230car","Carolina Panthers",33,"Washington Redskins",20,53,13,TRUE,"10/23/2011",2011,"October","2010s",62,56,NA
+"10617","201110240jax","Jacksonville Jaguars",12,"Baltimore Ravens",7,19,5,TRUE,"10/24/2011",2011,"October","2010s",60,77,NA
+"10618","201110300sfo","San Francisco 49ers",20,"Cleveland Browns",10,30,10,TRUE,"10/30/2011",2011,"October","2010s",67,68,5
+"10619","201110300nyg","New York Giants",20,"Miami Dolphins",17,37,3,TRUE,"10/30/2011",2011,"October","2010s",41,55,1
+"10620","201110300den","Denver Broncos",10,"Detroit Lions",45,55,-35,FALSE,"10/30/2011",2011,"October","2010s",56,31,5
+"10621","201110300pit","Pittsburgh Steelers",25,"New England Patriots",17,42,8,TRUE,"10/30/2011",2011,"October","2010s",40,79,3
+"10622","201110300phi","Philadelphia Eagles",34,"Dallas Cowboys",7,41,27,TRUE,"10/30/2011",2011,"October","2010s",42,64,5
+"10623","201110300rav","Baltimore Ravens",30,"Arizona Cardinals",27,57,3,TRUE,"10/30/2011",2011,"October","2010s",48,49,9
+"10624","201110300oti","Tennessee Titans",27,"Indianapolis Colts",10,37,17,TRUE,"10/30/2011",2011,"October","2010s",62,35,NA
+"10625","201110300car","Carolina Panthers",21,"Minnesota Vikings",24,45,-3,FALSE,"10/30/2011",2011,"October","2010s",54,52,6
+"10626","201110300htx","Houston Texans",24,"Jacksonville Jaguars",14,38,10,TRUE,"10/30/2011",2011,"October","2010s",68,NA,4
+"10627","201110310kan","Kansas City Chiefs",23,"San Diego Chargers",20,43,3,TRUE,"10/31/2011",2011,"October","2010s",63,31,NA
+"10628","201111060was","Washington Redskins",11,"San Francisco 49ers",19,30,-8,FALSE,"11/6/2011",2011,"November","2010s",56,48,6
+"10629","201111060buf","Buffalo Bills",11,"New York Jets",27,38,-16,FALSE,"11/6/2011",2011,"November","2010s",57,26,8
+"10630","201111060htx","Houston Texans",30,"Cleveland Browns",12,42,18,TRUE,"11/6/2011",2011,"November","2010s",78,NA,1
+"10631","201111060kan","Kansas City Chiefs",3,"Miami Dolphins",31,34,-28,FALSE,"11/6/2011",2011,"November","2010s",62,45,1
+"10632","201111060clt","Indianapolis Colts",7,"Atlanta Falcons",31,38,-24,FALSE,"11/6/2011",2011,"November","2010s",57,NA,1
+"10633","201111060sdg","San Diego Chargers",38,"Green Bay Packers",45,83,-7,FALSE,"11/6/2011",2011,"November","2010s",53,90,1
+"10634","201111060oti","Tennessee Titans",17,"Cincinnati Bengals",24,41,-7,FALSE,"11/6/2011",2011,"November","2010s",68,39,1
+"10635","201111060pit","Pittsburgh Steelers",20,"Baltimore Ravens",23,43,-3,FALSE,"11/6/2011",2011,"November","2010s",50,43,2
+"10636","201111060nor","New Orleans Saints",27,"Tampa Bay Buccaneers",16,43,11,TRUE,"11/6/2011",2011,"November","2010s",70,NA,1
+"10637","201111070phi","Philadelphia Eagles",24,"Chicago Bears",30,54,-6,FALSE,"11/7/2011",2011,"November","2010s",51,74,2
+"10638","201111100sdg","San Diego Chargers",17,"Oakland Raiders",24,41,-7,FALSE,"11/10/2011",2011,"November","2010s",69,27,5
+"10639","201111130mia","Miami Dolphins",20,"Washington Redskins",9,29,11,TRUE,"11/13/2011",2011,"November","2010s",79,58,1
+"10640","201111130kan","Kansas City Chiefs",10,"Denver Broncos",17,27,-7,FALSE,"11/13/2011",2011,"November","2010s",67,23,1
+"10641","201111130nyj","New York Jets",16,"New England Patriots",37,53,-21,FALSE,"11/13/2011",2011,"November","2010s",58,37,1
+"10642","201111130phi","Philadelphia Eagles",17,"Arizona Cardinals",21,38,-4,FALSE,"11/13/2011",2011,"November","2010s",60,40,1
+"10643","201111130sfo","San Francisco 49ers",27,"New York Giants",20,47,7,TRUE,"11/13/2011",2011,"November","2010s",58,74,1
+"10644","201111130chi","Chicago Bears",37,"Detroit Lions",13,50,24,TRUE,"11/13/2011",2011,"November","2010s",69,44,2
+"10645","201111130car","Carolina Panthers",3,"Tennessee Titans",30,33,-27,FALSE,"11/13/2011",2011,"November","2010s",57,54,1
+"10646","201111130cin","Cincinnati Bengals",17,"Pittsburgh Steelers",24,41,-7,FALSE,"11/13/2011",2011,"November","2010s",62,60,2
+"10647","201111130tam","Tampa Bay Buccaneers",9,"Houston Texans",37,46,-28,FALSE,"11/13/2011",2011,"November","2010s",77,47,9
+"10648","201111130clt","Indianapolis Colts",3,"Jacksonville Jaguars",17,20,-14,FALSE,"11/13/2011",2011,"November","2010s",62,NA,2
+"10649","201111170den","Denver Broncos",17,"New York Jets",13,30,4,TRUE,"11/17/2011",2011,"November","2010s",54,20,3
+"10650","201111200mia","Miami Dolphins",35,"Buffalo Bills",8,43,27,TRUE,"11/20/2011",2011,"November","2010s",80,79,1
+"10651","201111200was","Washington Redskins",24,"Dallas Cowboys",27,51,-3,FALSE,"11/20/2011",2011,"November","2010s",62,55,4
+"10652","201111200sfo","San Francisco 49ers",23,"Arizona Cardinals",7,30,16,TRUE,"11/20/2011",2011,"November","2010s",55,72,1
+"10653","201111200chi","Chicago Bears",31,"San Diego Chargers",20,51,11,TRUE,"11/20/2011",2011,"November","2010s",42,78,1
+"10654","201111200rav","Baltimore Ravens",31,"Cincinnati Bengals",24,55,7,TRUE,"11/20/2011",2011,"November","2010s",67,59,7
+"10655","201111200gnb","Green Bay Packers",35,"Tampa Bay Buccaneers",26,61,9,TRUE,"11/20/2011",2011,"November","2010s",32,66,7
+"10656","201111200nyg","New York Giants",10,"Philadelphia Eagles",17,27,-7,FALSE,"11/20/2011",2011,"November","2010s",58,66,1
+"10657","201111200cle","Cleveland Browns",14,"Jacksonville Jaguars",10,24,4,TRUE,"11/20/2011",2011,"November","2010s",57,5,1
+"10658","201111240rav","Baltimore Ravens",16,"San Francisco 49ers",6,22,10,TRUE,"11/24/2011",2011,"November","2010s",53,32,5
+"10659","201111270oti","Tennessee Titans",23,"Tampa Bay Buccaneers",17,40,6,TRUE,"11/27/2011",2011,"November","2010s",47,96,2
+"10660","201111270sdg","San Diego Chargers",13,"Denver Broncos",16,29,-3,FALSE,"11/27/2011",2011,"November","2010s",84,12,NA
+"10661","201111270jax","Jacksonville Jaguars",13,"Houston Texans",20,33,-7,FALSE,"11/27/2011",2011,"November","2010s",75,61,1
+"10662","201111270rai","Oakland Raiders",25,"Chicago Bears",20,45,5,TRUE,"11/27/2011",2011,"November","2010s",59,76,6
+"10663","201111270phi","Philadelphia Eagles",20,"New England Patriots",38,58,-18,FALSE,"11/27/2011",2011,"November","2010s",63,56,1
+"10664","201111270nyj","New York Jets",28,"Buffalo Bills",24,52,4,TRUE,"11/27/2011",2011,"November","2010s",60,63,1
+"10665","201111270clt","Indianapolis Colts",19,"Carolina Panthers",27,46,-8,FALSE,"11/27/2011",2011,"November","2010s",45,NA,7
+"10666","201111270cin","Cincinnati Bengals",23,"Cleveland Browns",20,43,3,TRUE,"11/27/2011",2011,"November","2010s",57,98,7
+"10667","201111280nor","New Orleans Saints",49,"New York Giants",24,73,25,TRUE,"11/28/2011",2011,"November","2010s",45,NA,2
+"10668","201112040htx","Houston Texans",17,"Atlanta Falcons",10,27,7,TRUE,"12/4/2011",2011,"December","2010s",72,NA,2
+"10669","201112040buf","Buffalo Bills",17,"Tennessee Titans",23,40,-6,FALSE,"12/4/2011",2011,"December","2010s",57,41,1
+"10670","201112040sfo","San Francisco 49ers",26,"St. Louis Rams",0,26,26,TRUE,"12/4/2011",2011,"December","2010s",53,48,2
+"10671","201112040nor","New Orleans Saints",31,"Detroit Lions",17,48,14,TRUE,"12/4/2011",2011,"December","2010s",70,NA,1
+"10672","201112040pit","Pittsburgh Steelers",35,"Cincinnati Bengals",7,42,28,TRUE,"12/4/2011",2011,"December","2010s",59,28,1
+"10673","201112040was","Washington Redskins",19,"New York Jets",34,53,-15,FALSE,"12/4/2011",2011,"December","2010s",53,57,5
+"10674","201112040tam","Tampa Bay Buccaneers",19,"Carolina Panthers",38,57,-19,FALSE,"12/4/2011",2011,"December","2010s",79,46,1
+"10675","201112040mia","Miami Dolphins",34,"Oakland Raiders",14,48,20,TRUE,"12/4/2011",2011,"December","2010s",80,49,2
+"10676","201112040nyg","New York Giants",35,"Green Bay Packers",38,73,-3,FALSE,"12/4/2011",2011,"December","2010s",52,67,9
+"10677","201112040chi","Chicago Bears",3,"Kansas City Chiefs",10,13,-7,FALSE,"12/4/2011",2011,"December","2010s",46,79,1
+"10678","201112050jax","Jacksonville Jaguars",14,"San Diego Chargers",38,52,-24,FALSE,"12/5/2011",2011,"December","2010s",67,81,6
+"10679","201112080pit","Pittsburgh Steelers",14,"Cleveland Browns",3,17,11,TRUE,"12/8/2011",2011,"December","2010s",31,74,6
+"10680","201112110den","Denver Broncos",13,"Chicago Bears",10,23,3,TRUE,"12/11/2011",2011,"December","2010s",50,22,7
+"10681","201112110gnb","Green Bay Packers",46,"Oakland Raiders",16,62,30,TRUE,"12/11/2011",2011,"December","2010s",43,55,1
+"10682","201112110cin","Cincinnati Bengals",19,"Houston Texans",20,39,-1,FALSE,"12/11/2011",2011,"December","2010s",34,47,4
+"10683","201112110rav","Baltimore Ravens",24,"Indianapolis Colts",10,34,14,TRUE,"12/11/2011",2011,"December","2010s",43,34,2
+"10684","201112110oti","Tennessee Titans",17,"New Orleans Saints",22,39,-5,FALSE,"12/11/2011",2011,"December","2010s",41,44,7
+"10685","201112110car","Carolina Panthers",23,"Atlanta Falcons",31,54,-8,FALSE,"12/11/2011",2011,"December","2010s",43,45,1
+"10686","201112110nyj","New York Jets",37,"Kansas City Chiefs",10,47,27,TRUE,"12/11/2011",2011,"December","2010s",37,35,5
+"10687","201112110mia","Miami Dolphins",10,"Philadelphia Eagles",26,36,-16,FALSE,"12/11/2011",2011,"December","2010s",75,83,1
+"10688","201112110was","Washington Redskins",27,"New England Patriots",34,61,-7,FALSE,"12/11/2011",2011,"December","2010s",40,33,NA
+"10689","201112110sdg","San Diego Chargers",37,"Buffalo Bills",10,47,27,TRUE,"12/11/2011",2011,"December","2010s",59,61,5
+"10690","201112170tam","Tampa Bay Buccaneers",15,"Dallas Cowboys",31,46,-16,FALSE,"12/17/2011",2011,"December","2010s",66,78,3
+"10691","201112180sdg","San Diego Chargers",34,"Baltimore Ravens",14,48,20,TRUE,"12/18/2011",2011,"December","2010s",58,67,7
+"10692","201112180buf","Buffalo Bills",23,"Miami Dolphins",30,53,-7,FALSE,"12/18/2011",2011,"December","2010s",31,64,1
+"10693","201112180htx","Houston Texans",13,"Carolina Panthers",28,41,-15,FALSE,"12/18/2011",2011,"December","2010s",57,NA,1
+"10694","201112180nyg","New York Giants",10,"Washington Redskins",23,33,-13,FALSE,"12/18/2011",2011,"December","2010s",29,34,9
+"10695","201112180den","Denver Broncos",23,"New England Patriots",41,64,-18,FALSE,"12/18/2011",2011,"December","2010s",63,16,3
+"10696","201112180clt","Indianapolis Colts",27,"Tennessee Titans",13,40,14,TRUE,"12/18/2011",2011,"December","2010s",41,NA,9
+"10697","201112180phi","Philadelphia Eagles",45,"New York Jets",19,64,26,TRUE,"12/18/2011",2011,"December","2010s",35,41,9
+"10698","201112180chi","Chicago Bears",14,"Seattle Seahawks",38,52,-24,FALSE,"12/18/2011",2011,"December","2010s",39,65,5
+"10699","201112180kan","Kansas City Chiefs",19,"Green Bay Packers",14,33,5,TRUE,"12/18/2011",2011,"December","2010s",50,58,1
+"10700","201112180rai","Oakland Raiders",27,"Detroit Lions",28,55,-1,FALSE,"12/18/2011",2011,"December","2010s",50,84,1
+"10701","201112190sfo","San Francisco 49ers",20,"Pittsburgh Steelers",3,23,17,TRUE,"12/19/2011",2011,"December","2010s",51,74,1
+"10702","201112220clt","Indianapolis Colts",19,"Houston Texans",16,35,3,TRUE,"12/22/2011",2011,"December","2010s",42,NA,2
+"10703","201112240kan","Kansas City Chiefs",13,"Oakland Raiders",16,29,-3,FALSE,"12/24/2011",2011,"December","2010s",38,57,7
+"10704","201112240oti","Tennessee Titans",23,"Jacksonville Jaguars",17,40,6,TRUE,"12/24/2011",2011,"December","2010s",44,60,2
+"10705","201112240cin","Cincinnati Bengals",23,"Arizona Cardinals",16,39,7,TRUE,"12/24/2011",2011,"December","2010s",38,63,8
+"10706","201112240pit","Pittsburgh Steelers",27,"St. Louis Rams",0,27,27,TRUE,"12/24/2011",2011,"December","2010s",36,67,4
+"10707","201112240buf","Buffalo Bills",40,"Denver Broncos",14,54,26,TRUE,"12/24/2011",2011,"December","2010s",30,42,2
+"10708","201112240rav","Baltimore Ravens",20,"Cleveland Browns",14,34,6,TRUE,"12/24/2011",2011,"December","2010s",44,32,1
+"10709","201112240was","Washington Redskins",26,"Minnesota Vikings",33,59,-7,FALSE,"12/24/2011",2011,"December","2010s",45,36,9
+"10710","201112240car","Carolina Panthers",48,"Tampa Bay Buccaneers",16,64,32,TRUE,"12/24/2011",2011,"December","2010s",51,57,9
+"10711","201112250gnb","Green Bay Packers",35,"Chicago Bears",21,56,14,TRUE,"12/25/2011",2011,"December","2010s",37,64,1
+"10712","201112260nor","New Orleans Saints",45,"Atlanta Falcons",16,61,29,TRUE,"12/26/2011",2011,"December","2010s",67,NA,5
+"10713","201201010cin","Cincinnati Bengals",16,"Baltimore Ravens",24,40,-8,FALSE,"1/1/2012",2012,"January","2010s",42,68,1
+"10714","201201010cle","Cleveland Browns",9,"Pittsburgh Steelers",13,22,-4,FALSE,"1/1/2012",2012,"January","2010s",49,66,2
+"10715","201201010gnb","Green Bay Packers",45,"Detroit Lions",41,86,4,TRUE,"1/1/2012",2012,"January","2010s",31,78,2
+"10716","201201010nyg","New York Giants",31,"Dallas Cowboys",14,45,17,TRUE,"1/1/2012",2012,"January","2010s",48,83,7
+"10717","201201010nor","New Orleans Saints",45,"Carolina Panthers",17,62,28,TRUE,"1/1/2012",2012,"January","2010s",68,NA,8
+"10718","201201010phi","Philadelphia Eagles",34,"Washington Redskins",10,44,24,TRUE,"1/1/2012",2012,"January","2010s",53,58,1
+"10719","201201010mia","Miami Dolphins",19,"New York Jets",17,36,2,TRUE,"1/1/2012",2012,"January","2010s",78,44,8
+"10720","201201010den","Denver Broncos",3,"Kansas City Chiefs",7,10,-4,FALSE,"1/1/2012",2012,"January","2010s",35,46,6
+"10721","201201010htx","Houston Texans",22,"Tennessee Titans",23,45,-1,FALSE,"1/1/2012",2012,"January","2010s",63,NA,1
+"10722","201201010rai","Oakland Raiders",26,"San Diego Chargers",38,64,-12,FALSE,"1/1/2012",2012,"January","2010s",56,63,8
+"10723","201201070htx","Houston Texans",31,"Cincinnati Bengals",10,41,21,TRUE,"1/7/2012",2012,"January","2010s",75,NA,8
+"10724","201201070nor","New Orleans Saints",45,"Detroit Lions",28,73,17,TRUE,"1/7/2012",2012,"January","2010s",66,NA,8
+"10725","201201080den","Denver Broncos",29,"Pittsburgh Steelers",23,52,6,TRUE,"1/8/2012",2012,"January","2010s",40,38,6
+"10726","201201150gnb","Green Bay Packers",20,"New York Giants",37,57,-17,FALSE,"1/15/2012",2012,"January","2010s",31,66,2
+"10727","201209050nyg","New York Giants",17,"Dallas Cowboys",24,41,-7,FALSE,"9/5/2012",2012,"September","2010s",77,63,5
+"10728","201209090cle","Cleveland Browns",16,"Philadelphia Eagles",17,33,-1,FALSE,"9/9/2012",2012,"September","2010s",68,57,9
+"10729","201209090oti","Tennessee Titans",13,"New England Patriots",34,47,-21,FALSE,"9/9/2012",2012,"September","2010s",74,45,4
+"10730","201209090den","Denver Broncos",31,"Pittsburgh Steelers",19,50,12,TRUE,"9/9/2012",2012,"September","2010s",85,12,1
+"10731","201209090gnb","Green Bay Packers",22,"San Francisco 49ers",30,52,-8,FALSE,"9/9/2012",2012,"September","2010s",72,40,1
+"10732","201209090nor","New Orleans Saints",32,"Washington Redskins",40,72,-8,FALSE,"9/9/2012",2012,"September","2010s",78,NA,1
+"10733","201209090chi","Chicago Bears",41,"Indianapolis Colts",21,62,20,TRUE,"9/9/2012",2012,"September","2010s",67,66,1
+"10734","201209090kan","Kansas City Chiefs",24,"Atlanta Falcons",40,64,-16,FALSE,"9/9/2012",2012,"September","2010s",69,47,7
+"10735","201209090htx","Houston Texans",30,"Miami Dolphins",10,40,20,TRUE,"9/9/2012",2012,"September","2010s",81,NA,1
+"10736","201209090tam","Tampa Bay Buccaneers",16,"Carolina Panthers",10,26,6,TRUE,"9/9/2012",2012,"September","2010s",83,79,1
+"10737","201209090nyj","New York Jets",48,"Buffalo Bills",28,76,20,TRUE,"9/9/2012",2012,"September","2010s",74,48,1
+"10738","201209100rav","Baltimore Ravens",44,"Cincinnati Bengals",13,57,31,TRUE,"9/10/2012",2012,"September","2010s",74,37,1
+"10739","201209100rai","Oakland Raiders",14,"San Diego Chargers",22,36,-8,FALSE,"9/10/2012",2012,"September","2010s",67,59,1
+"10740","201209130gnb","Green Bay Packers",23,"Chicago Bears",10,33,13,TRUE,"9/13/2012",2012,"September","2010s",60,67,NA
+"10741","201209160nyg","New York Giants",41,"Tampa Bay Buccaneers",34,75,7,TRUE,"9/16/2012",2012,"September","2010s",73,39,1
+"10742","201209160mia","Miami Dolphins",35,"Oakland Raiders",13,48,22,TRUE,"9/16/2012",2012,"September","2010s",80,75,8
+"10743","201209160car","Carolina Panthers",35,"New Orleans Saints",27,62,8,TRUE,"9/16/2012",2012,"September","2010s",71,85,4
+"10744","201209160sea","Seattle Seahawks",27,"Dallas Cowboys",7,34,20,TRUE,"9/16/2012",2012,"September","2010s",68,56,4
+"10745","201209160buf","Buffalo Bills",35,"Kansas City Chiefs",17,52,18,TRUE,"9/16/2012",2012,"September","2010s",66,55,1
+"10746","201209160cin","Cincinnati Bengals",34,"Cleveland Browns",27,61,7,TRUE,"9/16/2012",2012,"September","2010s",76,37,5
+"10747","201209160nwe","New England Patriots",18,"Arizona Cardinals",20,38,-2,FALSE,"9/16/2012",2012,"September","2010s",64,55,2
+"10748","201209160jax","Jacksonville Jaguars",7,"Houston Texans",27,34,-20,FALSE,"9/16/2012",2012,"September","2010s",83,66,5
+"10749","201209160phi","Philadelphia Eagles",24,"Baltimore Ravens",23,47,1,TRUE,"9/16/2012",2012,"September","2010s",72,40,5
+"10750","201209160clt","Indianapolis Colts",23,"Minnesota Vikings",20,43,3,TRUE,"9/16/2012",2012,"September","2010s",72,NA,7
+"10751","201209160pit","Pittsburgh Steelers",27,"New York Jets",10,37,17,TRUE,"9/16/2012",2012,"September","2010s",71,36,2
+"10752","201209160sdg","San Diego Chargers",38,"Tennessee Titans",10,48,28,TRUE,"9/16/2012",2012,"September","2010s",85,37,8
+"10753","201209160sfo","San Francisco 49ers",27,"Detroit Lions",19,46,8,TRUE,"9/16/2012",2012,"September","2010s",62,62,1
+"10754","201209200car","Carolina Panthers",7,"New York Giants",36,43,-29,FALSE,"9/20/2012",2012,"September","2010s",75,56,3
+"10755","201209230rai","Oakland Raiders",34,"Pittsburgh Steelers",31,65,3,TRUE,"9/23/2012",2012,"September","2010s",69,53,1
+"10756","201209230chi","Chicago Bears",23,"St. Louis Rams",6,29,17,TRUE,"9/23/2012",2012,"September","2010s",56,42,1
+"10757","201209230clt","Indianapolis Colts",17,"Jacksonville Jaguars",22,39,-5,FALSE,"9/23/2012",2012,"September","2010s",59,NA,1
+"10758","201209230oti","Tennessee Titans",44,"Detroit Lions",41,85,3,TRUE,"9/23/2012",2012,"September","2010s",68,32,5
+"10759","201209230sdg","San Diego Chargers",3,"Atlanta Falcons",27,30,-24,FALSE,"9/23/2012",2012,"September","2010s",82,52,1
+"10760","201209230rav","Baltimore Ravens",31,"New England Patriots",30,61,1,TRUE,"9/23/2012",2012,"September","2010s",67,39,5
+"10761","201209230mia","Miami Dolphins",20,"New York Jets",23,43,-3,FALSE,"9/23/2012",2012,"September","2010s",83,76,4
+"10762","201209230was","Washington Redskins",31,"Cincinnati Bengals",38,69,-7,FALSE,"9/23/2012",2012,"September","2010s",65,40,6
+"10763","201209230den","Denver Broncos",25,"Houston Texans",31,56,-6,FALSE,"9/23/2012",2012,"September","2010s",84,10,1
+"10764","201209230nor","New Orleans Saints",24,"Kansas City Chiefs",27,51,-3,FALSE,"9/23/2012",2012,"September","2010s",84,NA,6
+"10765","201209230cle","Cleveland Browns",14,"Buffalo Bills",24,38,-10,FALSE,"9/23/2012",2012,"September","2010s",53,79,9
+"10766","201209240sea","Seattle Seahawks",14,"Green Bay Packers",12,26,2,TRUE,"9/24/2012",2012,"September","2010s",67,49,3
+"10767","201209270rav","Baltimore Ravens",23,"Cleveland Browns",16,39,7,TRUE,"9/27/2012",2012,"September","2010s",77,64,5
+"10768","201209300htx","Houston Texans",38,"Tennessee Titans",14,52,24,TRUE,"9/30/2012",2012,"September","2010s",71,NA,1
+"10769","201209300tam","Tampa Bay Buccaneers",22,"Washington Redskins",24,46,-2,FALSE,"9/30/2012",2012,"September","2010s",89,52,1
+"10770","201209300kan","Kansas City Chiefs",20,"San Diego Chargers",37,57,-17,FALSE,"9/30/2012",2012,"September","2010s",67,54,NA
+"10771","201209300nyj","New York Jets",0,"San Francisco 49ers",34,34,-34,FALSE,"9/30/2012",2012,"September","2010s",67,50,4
+"10772","201209300phi","Philadelphia Eagles",19,"New York Giants",17,36,2,TRUE,"9/30/2012",2012,"September","2010s",63,59,6
+"10773","201209300gnb","Green Bay Packers",28,"New Orleans Saints",27,55,1,TRUE,"9/30/2012",2012,"September","2010s",64,58,7
+"10774","201209300den","Denver Broncos",37,"Oakland Raiders",6,43,31,TRUE,"9/30/2012",2012,"September","2010s",72,26,6
+"10775","201209300buf","Buffalo Bills",28,"New England Patriots",52,80,-24,FALSE,"9/30/2012",2012,"September","2010s",58,72,7
+"10776","201210010dal","Dallas Cowboys",18,"Chicago Bears",34,52,-16,FALSE,"10/1/2012",2012,"October","2010s",80,NA,3
+"10777","201210070clt","Indianapolis Colts",30,"Green Bay Packers",27,57,3,TRUE,"10/7/2012",2012,"October","2010s",48,NA,8
+"10778","201210070pit","Pittsburgh Steelers",16,"Philadelphia Eagles",14,30,2,TRUE,"10/7/2012",2012,"October","2010s",48,68,4
+"10779","201210070nor","New Orleans Saints",31,"San Diego Chargers",24,55,7,TRUE,"10/7/2012",2012,"October","2010s",65,NA,1
+"10780","201210070nwe","New England Patriots",31,"Denver Broncos",21,52,10,TRUE,"10/7/2012",2012,"October","2010s",54,65,4
+"10781","201210070sfo","San Francisco 49ers",45,"Buffalo Bills",3,48,42,TRUE,"10/7/2012",2012,"October","2010s",62,70,8
+"10782","201210070jax","Jacksonville Jaguars",3,"Chicago Bears",41,44,-38,FALSE,"10/7/2012",2012,"October","2010s",88,53,3
+"10783","201210070was","Washington Redskins",17,"Atlanta Falcons",24,41,-7,FALSE,"10/7/2012",2012,"October","2010s",52,77,3
+"10784","201210070cin","Cincinnati Bengals",13,"Miami Dolphins",17,30,-4,FALSE,"10/7/2012",2012,"October","2010s",49,55,6
+"10785","201210070kan","Kansas City Chiefs",6,"Baltimore Ravens",9,15,-3,FALSE,"10/7/2012",2012,"October","2010s",47,45,NA
+"10786","201210070nyg","New York Giants",41,"Cleveland Browns",27,68,14,TRUE,"10/7/2012",2012,"October","2010s",51,84,2
+"10787","201210070car","Carolina Panthers",12,"Seattle Seahawks",16,28,-4,FALSE,"10/7/2012",2012,"October","2010s",63,69,6
+"10788","201210110oti","Tennessee Titans",26,"Pittsburgh Steelers",23,49,3,TRUE,"10/11/2012",2012,"October","2010s",64,52,2
+"10789","201210140rav","Baltimore Ravens",31,"Dallas Cowboys",29,60,2,TRUE,"10/14/2012",2012,"October","2010s",69,45,1
+"10790","201210140phi","Philadelphia Eagles",23,"Detroit Lions",26,49,-3,FALSE,"10/14/2012",2012,"October","2010s",66,58,1
+"10791","201210140htx","Houston Texans",24,"Green Bay Packers",42,66,-18,FALSE,"10/14/2012",2012,"October","2010s",81,NA,5
+"10792","201210140sfo","San Francisco 49ers",3,"New York Giants",26,29,-23,FALSE,"10/14/2012",2012,"October","2010s",61,80,7
+"10793","201210140tam","Tampa Bay Buccaneers",38,"Kansas City Chiefs",10,48,28,TRUE,"10/14/2012",2012,"October","2010s",85,55,9
+"10794","201210140sea","Seattle Seahawks",24,"New England Patriots",23,47,1,TRUE,"10/14/2012",2012,"October","2010s",63,80,9
+"10795","201210140mia","Miami Dolphins",17,"St. Louis Rams",14,31,3,TRUE,"10/14/2012",2012,"October","2010s",84,72,2
+"10796","201210140cle","Cleveland Browns",34,"Cincinnati Bengals",24,58,10,TRUE,"10/14/2012",2012,"October","2010s",70,65,1
+"10797","201210140was","Washington Redskins",38,"Minnesota Vikings",26,64,12,TRUE,"10/14/2012",2012,"October","2010s",74,40,1
+"10798","201210150sdg","San Diego Chargers",24,"Denver Broncos",35,59,-11,FALSE,"10/15/2012",2012,"October","2010s",78,50,7
+"10799","201210180sfo","San Francisco 49ers",13,"Seattle Seahawks",6,19,7,TRUE,"10/18/2012",2012,"October","2010s",80,30,1
+"10800","201210210car","Carolina Panthers",14,"Dallas Cowboys",19,33,-5,FALSE,"10/21/2012",2012,"October","2010s",62,43,8
+"10801","201210210rai","Oakland Raiders",26,"Jacksonville Jaguars",23,49,3,TRUE,"10/21/2012",2012,"October","2010s",62,49,1
+"10802","201210210tam","Tampa Bay Buccaneers",28,"New Orleans Saints",35,63,-7,FALSE,"10/21/2012",2012,"October","2010s",77,36,8
+"10803","201210210htx","Houston Texans",43,"Baltimore Ravens",13,56,30,TRUE,"10/21/2012",2012,"October","2010s",84,NA,1
+"10804","201210210nwe","New England Patriots",29,"New York Jets",26,55,3,TRUE,"10/21/2012",2012,"October","2010s",62,39,1
+"10805","201210210cin","Cincinnati Bengals",17,"Pittsburgh Steelers",24,41,-7,FALSE,"10/21/2012",2012,"October","2010s",55,76,1
+"10806","201210210clt","Indianapolis Colts",17,"Cleveland Browns",13,30,4,TRUE,"10/21/2012",2012,"October","2010s",60,NA,9
+"10807","201210210buf","Buffalo Bills",34,"Tennessee Titans",35,69,-1,FALSE,"10/21/2012",2012,"October","2010s",55,75,1
+"10808","201210210nyg","New York Giants",27,"Washington Redskins",23,50,4,TRUE,"10/21/2012",2012,"October","2010s",61,44,1
+"10809","201210220chi","Chicago Bears",13,"Detroit Lions",7,20,6,TRUE,"10/22/2012",2012,"October","2010s",63,89,8
+"10810","201210280dal","Dallas Cowboys",24,"New York Giants",29,53,-5,FALSE,"10/28/2012",2012,"October","2010s",62,NA,1
+"10811","201210280den","Denver Broncos",34,"New Orleans Saints",14,48,20,TRUE,"10/28/2012",2012,"October","2010s",59,30,5
+"10812","201210280oti","Tennessee Titans",13,"Indianapolis Colts",19,32,-6,FALSE,"10/28/2012",2012,"October","2010s",52,49,1
+"10813","201210280chi","Chicago Bears",23,"Carolina Panthers",22,45,1,TRUE,"10/28/2012",2012,"October","2010s",49,51,1
+"10814","201210280pit","Pittsburgh Steelers",27,"Washington Redskins",12,39,15,TRUE,"10/28/2012",2012,"October","2010s",45,88,1
+"10815","201210280kan","Kansas City Chiefs",16,"Oakland Raiders",26,42,-10,FALSE,"10/28/2012",2012,"October","2010s",50,40,3
+"10816","201210280phi","Philadelphia Eagles",17,"Atlanta Falcons",30,47,-13,FALSE,"10/28/2012",2012,"October","2010s",58,75,1
+"10817","201210280gnb","Green Bay Packers",24,"Jacksonville Jaguars",15,39,9,TRUE,"10/28/2012",2012,"October","2010s",44,47,1
+"10818","201210280ram","St. Louis Rams",7,"New England Patriots",45,52,-38,FALSE,"10/28/2012",2012,"October","2010s",49,NA,9
+"10819","201210280cle","Cleveland Browns",7,"San Diego Chargers",6,13,1,TRUE,"10/28/2012",2012,"October","2010s",44,89,1
+"10820","201210290crd","Arizona Cardinals",3,"San Francisco 49ers",24,27,-21,FALSE,"10/29/2012",2012,"October","2010s",90,NA,5
+"10821","201211010sdg","San Diego Chargers",31,"Kansas City Chiefs",13,44,18,TRUE,"11/1/2012",2012,"November","2010s",63,74,1
+"10822","201211040cin","Cincinnati Bengals",23,"Denver Broncos",31,54,-8,FALSE,"11/4/2012",2012,"November","2010s",48,59,1
+"10823","201211040was","Washington Redskins",13,"Carolina Panthers",21,34,-8,FALSE,"11/4/2012",2012,"November","2010s",50,44,3
+"10824","201211040clt","Indianapolis Colts",23,"Miami Dolphins",20,43,3,TRUE,"11/4/2012",2012,"November","2010s",44,NA,9
+"10825","201211040htx","Houston Texans",21,"Buffalo Bills",9,30,12,TRUE,"11/4/2012",2012,"November","2010s",79,NA,3
+"10826","201211040oti","Tennessee Titans",20,"Chicago Bears",51,71,-31,FALSE,"11/4/2012",2012,"November","2010s",50,63,6
+"10827","201211040rai","Oakland Raiders",32,"Tampa Bay Buccaneers",42,74,-10,FALSE,"11/4/2012",2012,"November","2010s",71,55,7
+"10828","201211040cle","Cleveland Browns",15,"Baltimore Ravens",25,40,-10,FALSE,"11/4/2012",2012,"November","2010s",39,69,8
+"10829","201211040sea","Seattle Seahawks",30,"Minnesota Vikings",20,50,10,TRUE,"11/4/2012",2012,"November","2010s",60,89,5
+"10830","201211040gnb","Green Bay Packers",31,"Arizona Cardinals",17,48,14,TRUE,"11/4/2012",2012,"November","2010s",39,57,7
+"10831","201211040nyg","New York Giants",20,"Pittsburgh Steelers",24,44,-4,FALSE,"11/4/2012",2012,"November","2010s",44,58,5
+"10832","201211050nor","New Orleans Saints",28,"Philadelphia Eagles",13,41,15,TRUE,"11/5/2012",2012,"November","2010s",69,NA,7
+"10833","201211110chi","Chicago Bears",6,"Houston Texans",13,19,-7,FALSE,"11/11/2012",2012,"November","2010s",54,90,8
+"10834","201211110rav","Baltimore Ravens",55,"Oakland Raiders",20,75,35,TRUE,"11/11/2012",2012,"November","2010s",61,56,6
+"10835","201211110nwe","New England Patriots",37,"Buffalo Bills",31,68,6,TRUE,"11/11/2012",2012,"November","2010s",60,55,1
+"10836","201211110cin","Cincinnati Bengals",31,"New York Giants",13,44,18,TRUE,"11/11/2012",2012,"November","2010s",69,30,1
+"10837","201211110phi","Philadelphia Eagles",23,"Dallas Cowboys",38,61,-15,FALSE,"11/11/2012",2012,"November","2010s",63,45,7
+"10838","201211110sfo","San Francisco 49ers",24,"St. Louis Rams",24,48,0,FALSE,"11/11/2012",2012,"November","2010s",55,59,5
+"10839","201211110nor","New Orleans Saints",31,"Atlanta Falcons",27,58,4,TRUE,"11/11/2012",2012,"November","2010s",79,NA,1
+"10840","201211110sea","Seattle Seahawks",28,"New York Jets",7,35,21,TRUE,"11/11/2012",2012,"November","2010s",43,66,2
+"10841","201211110tam","Tampa Bay Buccaneers",34,"San Diego Chargers",24,58,10,TRUE,"11/11/2012",2012,"November","2010s",80,51,1
+"10842","201211110mia","Miami Dolphins",3,"Tennessee Titans",37,40,-34,FALSE,"11/11/2012",2012,"November","2010s",78,52,2
+"10843","201211120pit","Pittsburgh Steelers",16,"Kansas City Chiefs",13,29,3,TRUE,"11/12/2012",2012,"November","2010s",45,84,1
+"10844","201211150buf","Buffalo Bills",19,"Miami Dolphins",14,33,5,TRUE,"11/15/2012",2012,"November","2010s",35,73,5
+"10845","201211180car","Carolina Panthers",21,"Tampa Bay Buccaneers",27,48,-6,FALSE,"11/18/2012",2012,"November","2010s",53,15,9
+"10846","201211180rai","Oakland Raiders",17,"New Orleans Saints",38,55,-21,FALSE,"11/18/2012",2012,"November","2010s",61,62,3
+"10847","201211180nwe","New England Patriots",59,"Indianapolis Colts",24,83,35,TRUE,"11/18/2012",2012,"November","2010s",42,62,1
+"10848","201211180kan","Kansas City Chiefs",6,"Cincinnati Bengals",28,34,-22,FALSE,"11/18/2012",2012,"November","2010s",59,37,1
+"10849","201211180pit","Pittsburgh Steelers",10,"Baltimore Ravens",13,23,-3,FALSE,"11/18/2012",2012,"November","2010s",46,52,5
+"10850","201211180den","Denver Broncos",30,"San Diego Chargers",23,53,7,TRUE,"11/18/2012",2012,"November","2010s",62,22,3
+"10851","201211180htx","Houston Texans",43,"Jacksonville Jaguars",37,80,6,TRUE,"11/18/2012",2012,"November","2010s",70,NA,7
+"10852","201211180was","Washington Redskins",31,"Philadelphia Eagles",6,37,25,TRUE,"11/18/2012",2012,"November","2010s",52,55,9
+"10853","201211190sfo","San Francisco 49ers",32,"Chicago Bears",7,39,25,TRUE,"11/19/2012",2012,"November","2010s",64,52,1
+"10854","201211220nyj","New York Jets",19,"New England Patriots",49,68,-30,FALSE,"11/22/2012",2012,"November","2010s",46,72,2
+"10855","201211250clt","Indianapolis Colts",20,"Buffalo Bills",13,33,7,TRUE,"11/25/2012",2012,"November","2010s",45,NA,1
+"10856","201211250kan","Kansas City Chiefs",9,"Denver Broncos",17,26,-8,FALSE,"11/25/2012",2012,"November","2010s",52,38,5
+"10857","201211250cle","Cleveland Browns",20,"Pittsburgh Steelers",14,34,6,TRUE,"11/25/2012",2012,"November","2010s",34,65,1
+"10858","201211250sdg","San Diego Chargers",13,"Baltimore Ravens",16,29,-3,FALSE,"11/25/2012",2012,"November","2010s",59,82,1
+"10859","201211250tam","Tampa Bay Buccaneers",23,"Atlanta Falcons",24,47,-1,FALSE,"11/25/2012",2012,"November","2010s",65,30,7
+"10860","201211250mia","Miami Dolphins",24,"Seattle Seahawks",21,45,3,TRUE,"11/25/2012",2012,"November","2010s",72,51,6
+"10861","201211250chi","Chicago Bears",28,"Minnesota Vikings",10,38,18,TRUE,"11/25/2012",2012,"November","2010s",41,26,5
+"10862","201211250nor","New Orleans Saints",21,"San Francisco 49ers",31,52,-10,FALSE,"11/25/2012",2012,"November","2010s",66,NA,5
+"10863","201211250cin","Cincinnati Bengals",34,"Oakland Raiders",10,44,24,TRUE,"11/25/2012",2012,"November","2010s",41,47,9
+"10864","201211250nyg","New York Giants",38,"Green Bay Packers",10,48,28,TRUE,"11/25/2012",2012,"November","2010s",34,60,1
+"10865","201211260phi","Philadelphia Eagles",22,"Carolina Panthers",30,52,-8,FALSE,"11/26/2012",2012,"November","2010s",36,42,2
+"10866","201212020rav","Baltimore Ravens",20,"Pittsburgh Steelers",23,43,-3,FALSE,"12/2/2012",2012,"December","2010s",57,62,9
+"10867","201212020mia","Miami Dolphins",16,"New England Patriots",23,39,-7,FALSE,"12/2/2012",2012,"December","2010s",77,66,1
+"10868","201212020den","Denver Broncos",31,"Tampa Bay Buccaneers",23,54,8,TRUE,"12/2/2012",2012,"December","2010s",64,16,4
+"10869","201212020rai","Oakland Raiders",17,"Cleveland Browns",20,37,-3,FALSE,"12/2/2012",2012,"December","2010s",61,84,2
+"10870","201212020sdg","San Diego Chargers",13,"Cincinnati Bengals",20,33,-7,FALSE,"12/2/2012",2012,"December","2010s",66,65,1
+"10871","201212020chi","Chicago Bears",17,"Seattle Seahawks",23,40,-6,FALSE,"12/2/2012",2012,"December","2010s",61,76,4
+"10872","201212020oti","Tennessee Titans",10,"Houston Texans",24,34,-14,FALSE,"12/2/2012",2012,"December","2010s",66,60,1
+"10873","201212020gnb","Green Bay Packers",23,"Minnesota Vikings",14,37,9,TRUE,"12/2/2012",2012,"December","2010s",45,79,8
+"10874","201212020buf","Buffalo Bills",34,"Jacksonville Jaguars",18,52,16,TRUE,"12/2/2012",2012,"December","2010s",52,87,1
+"10875","201212020kan","Kansas City Chiefs",27,"Carolina Panthers",21,48,6,TRUE,"12/2/2012",2012,"December","2010s",61,60,NA
+"10876","201212030was","Washington Redskins",17,"New York Giants",16,33,1,TRUE,"12/3/2012",2012,"December","2010s",55,98,1
+"10877","201212060rai","Oakland Raiders",13,"Denver Broncos",26,39,-13,FALSE,"12/6/2012",2012,"December","2010s",57,73,7
+"10878","201212090cle","Cleveland Browns",30,"Kansas City Chiefs",7,37,23,TRUE,"12/9/2012",2012,"December","2010s",44,70,5
+"10879","201212090sfo","San Francisco 49ers",27,"Miami Dolphins",13,40,14,TRUE,"12/9/2012",2012,"December","2010s",62,44,3
+"10880","201212090pit","Pittsburgh Steelers",24,"San Diego Chargers",34,58,-10,FALSE,"12/9/2012",2012,"December","2010s",45,80,1
+"10881","201212090gnb","Green Bay Packers",27,"Detroit Lions",20,47,7,TRUE,"12/9/2012",2012,"December","2010s",33,92,1
+"10882","201212090tam","Tampa Bay Buccaneers",21,"Philadelphia Eagles",23,44,-2,FALSE,"12/9/2012",2012,"December","2010s",69,92,1
+"10883","201212090buf","Buffalo Bills",12,"St. Louis Rams",15,27,-3,FALSE,"12/9/2012",2012,"December","2010s",37,74,1
+"10884","201212090car","Carolina Panthers",30,"Atlanta Falcons",20,50,10,TRUE,"12/9/2012",2012,"December","2010s",70,50,4
+"10885","201212090clt","Indianapolis Colts",27,"Tennessee Titans",23,50,4,TRUE,"12/9/2012",2012,"December","2010s",48,NA,6
+"10886","201212090nyg","New York Giants",52,"New Orleans Saints",27,79,25,TRUE,"12/9/2012",2012,"December","2010s",42,88,1
+"10887","201212090sea","Seattle Seahawks",58,"Arizona Cardinals",0,58,58,TRUE,"12/9/2012",2012,"December","2010s",48,82,8
+"10888","201212090was","Washington Redskins",31,"Baltimore Ravens",28,59,3,TRUE,"12/9/2012",2012,"December","2010s",51,95,7
+"10889","201212090cin","Cincinnati Bengals",19,"Dallas Cowboys",20,39,-1,FALSE,"12/9/2012",2012,"December","2010s",53,96,6
+"10890","201212100nwe","New England Patriots",42,"Houston Texans",14,56,28,TRUE,"12/10/2012",2012,"December","2010s",59,91,7
+"10891","201212130phi","Philadelphia Eagles",13,"Cincinnati Bengals",34,47,-21,FALSE,"12/13/2012",2012,"December","2010s",36,55,1
+"10892","201212160mia","Miami Dolphins",24,"Jacksonville Jaguars",3,27,21,TRUE,"12/16/2012",2012,"December","2010s",80,60,1
+"10893","201212160crd","Arizona Cardinals",38,"Detroit Lions",10,48,28,TRUE,"12/16/2012",2012,"December","2010s",57,NA,3
+"10894","201212160nor","New Orleans Saints",41,"Tampa Bay Buccaneers",0,41,41,TRUE,"12/16/2012",2012,"December","2010s",74,NA,1
+"10895","201212160dal","Dallas Cowboys",27,"Pittsburgh Steelers",24,51,3,TRUE,"12/16/2012",2012,"December","2010s",72,NA,1
+"10896","201212160rav","Baltimore Ravens",17,"Denver Broncos",34,51,-17,FALSE,"12/16/2012",2012,"December","2010s",53,74,7
+"10897","201212160cle","Cleveland Browns",21,"Washington Redskins",38,59,-17,FALSE,"12/16/2012",2012,"December","2010s",59,67,1
+"10898","201212160nwe","New England Patriots",34,"San Francisco 49ers",41,75,-7,FALSE,"12/16/2012",2012,"December","2010s",34,100,5
+"10899","201212160chi","Chicago Bears",13,"Green Bay Packers",21,34,-8,FALSE,"12/16/2012",2012,"December","2010s",44,79,9
+"10900","201212160rai","Oakland Raiders",15,"Kansas City Chiefs",0,15,15,TRUE,"12/16/2012",2012,"December","2010s",54,77,2
+"10901","201212160sdg","San Diego Chargers",7,"Carolina Panthers",31,38,-24,FALSE,"12/16/2012",2012,"December","2010s",59,64,6
+"10902","201212170oti","Tennessee Titans",14,"New York Jets",10,24,4,TRUE,"12/17/2012",2012,"December","2010s",54,83,1
+"10903","201212230crd","Arizona Cardinals",13,"Chicago Bears",28,41,-15,FALSE,"12/23/2012",2012,"December","2010s",62,NA,NA
+"10904","201212230rav","Baltimore Ravens",33,"New York Giants",14,47,19,TRUE,"12/23/2012",2012,"December","2010s",51,33,7
+"10905","201212230gnb","Green Bay Packers",55,"Tennessee Titans",7,62,48,TRUE,"12/23/2012",2012,"December","2010s",24,68,9
+"10906","201212230den","Denver Broncos",34,"Cleveland Browns",12,46,22,TRUE,"12/23/2012",2012,"December","2010s",51,22,1
+"10907","201212230phi","Philadelphia Eagles",20,"Washington Redskins",27,47,-7,FALSE,"12/23/2012",2012,"December","2010s",40,52,1
+"10908","201212230car","Carolina Panthers",17,"Oakland Raiders",6,23,11,TRUE,"12/23/2012",2012,"December","2010s",53,43,3
+"10909","201212230nyj","New York Jets",17,"San Diego Chargers",27,44,-10,FALSE,"12/23/2012",2012,"December","2010s",39,54,1
+"10910","201212230sea","Seattle Seahawks",42,"San Francisco 49ers",13,55,29,TRUE,"12/23/2012",2012,"December","2010s",45,76,3
+"10911","201212230dal","Dallas Cowboys",31,"New Orleans Saints",34,65,-3,FALSE,"12/23/2012",2012,"December","2010s",63,NA,1
+"10912","201212230mia","Miami Dolphins",24,"Buffalo Bills",10,34,14,TRUE,"12/23/2012",2012,"December","2010s",73,47,8
+"10913","201212230htx","Houston Texans",6,"Minnesota Vikings",23,29,-17,FALSE,"12/23/2012",2012,"December","2010s",73,NA,1
+"10914","201212230pit","Pittsburgh Steelers",10,"Cincinnati Bengals",13,23,-3,FALSE,"12/23/2012",2012,"December","2010s",35,56,1
+"10915","201212230tam","Tampa Bay Buccaneers",13,"St. Louis Rams",28,41,-15,FALSE,"12/23/2012",2012,"December","2010s",59,28,8
+"10916","201212230kan","Kansas City Chiefs",13,"Indianapolis Colts",20,33,-7,FALSE,"12/23/2012",2012,"December","2010s",25,74,6
+"10917","201212300sdg","San Diego Chargers",24,"Oakland Raiders",21,45,3,TRUE,"12/30/2012",2012,"December","2010s",50,80,3
+"10918","201212300sea","Seattle Seahawks",20,"St. Louis Rams",13,33,7,TRUE,"12/30/2012",2012,"December","2010s",41,77,1
+"10919","201212300den","Denver Broncos",38,"Kansas City Chiefs",3,41,35,TRUE,"12/30/2012",2012,"December","2010s",35,41,1
+"10920","201212300nwe","New England Patriots",28,"Miami Dolphins",0,28,28,TRUE,"12/30/2012",2012,"December","2010s",28,45,1
+"10921","201212300nyg","New York Giants",42,"Philadelphia Eagles",7,49,35,TRUE,"12/30/2012",2012,"December","2010s",32,50,1
+"10922","201212300clt","Indianapolis Colts",28,"Houston Texans",16,44,12,TRUE,"12/30/2012",2012,"December","2010s",20,NA,6
+"10923","201212300oti","Tennessee Titans",38,"Jacksonville Jaguars",20,58,18,TRUE,"12/30/2012",2012,"December","2010s",39,50,4
+"10924","201212300sfo","San Francisco 49ers",27,"Arizona Cardinals",13,40,14,TRUE,"12/30/2012",2012,"December","2010s",50,70,5
+"10925","201212300nor","New Orleans Saints",38,"Carolina Panthers",44,82,-6,FALSE,"12/30/2012",2012,"December","2010s",42,NA,1
+"10926","201212300was","Washington Redskins",28,"Dallas Cowboys",18,46,10,TRUE,"12/30/2012",2012,"December","2010s",37,53,9
+"10927","201212300pit","Pittsburgh Steelers",24,"Cleveland Browns",10,34,14,TRUE,"12/30/2012",2012,"December","2010s",28,78,1
+"10928","201212300buf","Buffalo Bills",28,"New York Jets",9,37,19,TRUE,"12/30/2012",2012,"December","2010s",28,53,1
+"10929","201212300cin","Cincinnati Bengals",23,"Baltimore Ravens",17,40,6,TRUE,"12/30/2012",2012,"December","2010s",26,72,8
+"10930","201301050gnb","Green Bay Packers",24,"Minnesota Vikings",10,34,14,TRUE,"1/5/2013",2013,"January","2010s",29,78,9
+"10931","201301050htx","Houston Texans",19,"Cincinnati Bengals",13,32,6,TRUE,"1/5/2013",2013,"January","2010s",46,NA,6
+"10932","201301060was","Washington Redskins",14,"Seattle Seahawks",24,38,-10,FALSE,"1/6/2013",2013,"January","2010s",52,44,3
+"10933","201301060rav","Baltimore Ravens",24,"Indianapolis Colts",9,33,15,TRUE,"1/6/2013",2013,"January","2010s",49,36,8
+"10934","201301120den","Denver Broncos",35,"Baltimore Ravens",38,73,-3,FALSE,"1/12/2013",2013,"January","2010s",13,62,8
+"10935","201301120sfo","San Francisco 49ers",45,"Green Bay Packers",31,76,14,TRUE,"1/12/2013",2013,"January","2010s",48,50,5
+"10936","201301130nwe","New England Patriots",41,"Houston Texans",28,69,13,TRUE,"1/13/2013",2013,"January","2010s",51,87,1
+"10937","201309050den","Denver Broncos",49,"Baltimore Ravens",27,76,22,TRUE,"9/5/2013",2013,"September","2010s",83,30,7
+"10938","201309080car","Carolina Panthers",7,"Seattle Seahawks",12,19,-5,FALSE,"9/8/2013",2013,"September","2010s",87,48,7
+"10939","201309080jax","Jacksonville Jaguars",2,"Kansas City Chiefs",28,30,-26,FALSE,"9/8/2013",2013,"September","2010s",85,55,10
+"10940","201309080clt","Indianapolis Colts",21,"Oakland Raiders",17,38,4,TRUE,"9/8/2013",2013,"September","2010s",88,47,3
+"10941","201309080sfo","San Francisco 49ers",34,"Green Bay Packers",28,62,6,TRUE,"9/8/2013",2013,"September","2010s",69,67,6
+"10942","201309080nyj","New York Jets",18,"Tampa Bay Buccaneers",17,35,1,TRUE,"9/8/2013",2013,"September","2010s",82,50,9
+"10943","201309080chi","Chicago Bears",24,"Cincinnati Bengals",21,45,3,TRUE,"9/8/2013",2013,"September","2010s",73,79,11
+"10944","201309080ram","St. Louis Rams",27,"Arizona Cardinals",24,51,3,TRUE,"9/8/2013",2013,"September","2010s",0,NA,NA
+"10945","201309080det","Detroit Lions",34,"Minnesota Vikings",24,58,10,TRUE,"9/8/2013",2013,"September","2010s",68,NA,NA
+"10946","201309080dal","Dallas Cowboys",36,"New York Giants",31,67,5,TRUE,"9/8/2013",2013,"September","2010s",96,NA,11
+"10947","201309080cle","Cleveland Browns",10,"Miami Dolphins",23,33,-13,FALSE,"9/8/2013",2013,"September","2010s",70,80,13
+"10948","201309080buf","Buffalo Bills",21,"New England Patriots",23,44,-2,FALSE,"9/8/2013",2013,"September","2010s",65,55,11
+"10949","201309080nor","New Orleans Saints",23,"Atlanta Falcons",17,40,6,TRUE,"9/8/2013",2013,"September","2010s",86,71,9
+"10950","201309080pit","Pittsburgh Steelers",9,"Tennessee Titans",16,25,-7,FALSE,"9/8/2013",2013,"September","2010s",73,76,9
+"10951","201309090sdg","San Diego Chargers",28,"Houston Texans",31,59,-3,FALSE,"9/9/2013",2013,"September","2010s",70,73,10
+"10952","201309090was","Washington Redskins",27,"Philadelphia Eagles",33,60,-6,FALSE,"9/9/2013",2013,"September","2010s",80,52,9
+"10953","201309120nwe","New England Patriots",13,"New York Jets",10,23,3,TRUE,"9/12/2013",2013,"September","2010s",72,89,8
+"10954","201309150rav","Baltimore Ravens",14,"Cleveland Browns",6,20,8,TRUE,"9/15/2013",2013,"September","2010s",75,37,6
+"10955","201309150nyg","New York Giants",23,"Denver Broncos",41,64,-18,FALSE,"9/15/2013",2013,"September","2010s",70,33,3
+"10956","201309150rai","Oakland Raiders",19,"Jacksonville Jaguars",9,28,10,TRUE,"9/15/2013",2013,"September","2010s",76,52,10
+"10957","201309150chi","Chicago Bears",31,"Minnesota Vikings",30,61,1,TRUE,"9/15/2013",2013,"September","2010s",60,76,6
+"10958","201309150htx","Houston Texans",30,"Tennessee Titans",24,54,6,TRUE,"9/15/2013",2013,"September","2010s",86,54,14
+"10959","201309150phi","Philadelphia Eagles",30,"San Diego Chargers",33,63,-3,FALSE,"9/15/2013",2013,"September","2010s",71,40,6
+"10960","201309150atl","Atlanta Falcons",31,"St. Louis Rams",24,55,7,TRUE,"9/15/2013",2013,"September","2010s",0,NA,NA
+"10961","201309150tam","Tampa Bay Buccaneers",14,"New Orleans Saints",16,30,-2,FALSE,"9/15/2013",2013,"September","2010s",93,47,8
+"10962","201309150crd","Arizona Cardinals",25,"Detroit Lions",21,46,4,TRUE,"9/15/2013",2013,"September","2010s",0,NA,NA
+"10963","201309150kan","Kansas City Chiefs",17,"Dallas Cowboys",16,33,1,TRUE,"9/15/2013",2013,"September","2010s",72,69,6
+"10964","201309150clt","Indianapolis Colts",20,"Miami Dolphins",24,44,-4,FALSE,"9/15/2013",2013,"September","2010s",72,41,9
+"10965","201309150gnb","Green Bay Packers",38,"Washington Redskins",20,58,18,TRUE,"9/15/2013",2013,"September","2010s",56,100,4
+"10966","201309150buf","Buffalo Bills",24,"Carolina Panthers",23,47,1,TRUE,"9/15/2013",2013,"September","2010s",65,59,10
+"10967","201309150sea","Seattle Seahawks",29,"San Francisco 49ers",3,32,26,TRUE,"9/15/2013",2013,"September","2010s",64,81,6
+"10968","201309160cin","Cincinnati Bengals",20,"Pittsburgh Steelers",10,30,10,TRUE,"9/16/2013",2013,"September","2010s",62,75,5
+"10969","201309190phi","Philadelphia Eagles",16,"Kansas City Chiefs",26,42,-10,FALSE,"9/19/2013",2013,"September","2010s",73,43,4
+"10970","201309220car","Carolina Panthers",38,"New York Giants",0,38,38,TRUE,"9/22/2013",2013,"September","2010s",75,52,15
+"10971","201309220pit","Pittsburgh Steelers",23,"Chicago Bears",40,63,-17,FALSE,"9/22/2013",2013,"September","2010s",56,72,5
+"10972","201309220oti","Tennessee Titans",20,"San Diego Chargers",17,37,3,TRUE,"9/22/2013",2013,"September","2010s",72,46,7
+"10973","201309220nwe","New England Patriots",23,"Tampa Bay Buccaneers",3,26,20,TRUE,"9/22/2013",2013,"September","2010s",65,72,9
+"10974","201309220min","Minnesota Vikings",27,"Cleveland Browns",31,58,-4,FALSE,"9/22/2013",2013,"September","2010s",67,0,NA
+"10975","201309220nyj","New York Jets",27,"Buffalo Bills",20,47,7,TRUE,"9/22/2013",2013,"September","2010s",67,46,24
+"10976","201309220mia","Miami Dolphins",27,"Atlanta Falcons",23,50,4,TRUE,"9/22/2013",2013,"September","2010s",89,58,8
+"10977","201309220sea","Seattle Seahawks",45,"Jacksonville Jaguars",17,62,28,TRUE,"9/22/2013",2013,"September","2010s",61,87,17
+"10978","201309220dal","Dallas Cowboys",31,"St. Louis Rams",7,38,24,TRUE,"9/22/2013",2013,"September","2010s",0,NA,NA
+"10979","201309220nor","New Orleans Saints",31,"Arizona Cardinals",7,38,24,TRUE,"9/22/2013",2013,"September","2010s",72,87,13
+"10980","201309220cin","Cincinnati Bengals",34,"Green Bay Packers",30,64,4,TRUE,"9/22/2013",2013,"September","2010s",63,52,13
+"10981","201309220sfo","San Francisco 49ers",7,"Indianapolis Colts",27,34,-20,FALSE,"9/22/2013",2013,"September","2010s",66,63,5
+"10982","201309220rav","Baltimore Ravens",30,"Houston Texans",9,39,21,TRUE,"9/22/2013",2013,"September","2010s",73,44,9
+"10983","201309220was","Washington Redskins",20,"Detroit Lions",27,47,-7,FALSE,"9/22/2013",2013,"September","2010s",72,51,8
+"10984","201309230den","Denver Broncos",37,"Oakland Raiders",21,58,16,TRUE,"9/23/2013",2013,"September","2010s",64,28,16
+"10985","201309260ram","St. Louis Rams",11,"San Francisco 49ers",35,46,-24,FALSE,"9/26/2013",2013,"September","2010s",0,NA,NA
+"10986","201309290rai","Oakland Raiders",14,"Washington Redskins",24,38,-10,FALSE,"9/29/2013",2013,"September","2010s",77,52,13
+"10987","201309290buf","Buffalo Bills",23,"Baltimore Ravens",20,43,3,TRUE,"9/29/2013",2013,"September","2010s",67,57,15
+"10988","201309290oti","Tennessee Titans",38,"New York Jets",13,51,25,TRUE,"9/29/2013",2013,"September","2010s",74,51,4
+"10989","201309290cle","Cleveland Browns",17,"Cincinnati Bengals",6,23,11,TRUE,"9/29/2013",2013,"September","2010s",68,67,9
+"10990","201309290kan","Kansas City Chiefs",31,"New York Giants",7,38,24,TRUE,"9/29/2013",2013,"September","2010s",66,65,NA
+"10991","201309290det","Detroit Lions",40,"Chicago Bears",32,72,8,TRUE,"9/29/2013",2013,"September","2010s",68,NA,NA
+"10992","201309290jax","Jacksonville Jaguars",3,"Indianapolis Colts",37,40,-34,FALSE,"9/29/2013",2013,"September","2010s",80,65,12
+"10993","201309290sdg","San Diego Chargers",30,"Dallas Cowboys",21,51,9,TRUE,"9/29/2013",2013,"September","2010s",80,27,7
+"10994","201309290den","Denver Broncos",52,"Philadelphia Eagles",20,72,32,TRUE,"9/29/2013",2013,"September","2010s",76,16,8
+"10995","201309290tam","Tampa Bay Buccaneers",10,"Arizona Cardinals",13,23,-3,FALSE,"9/29/2013",2013,"September","2010s",84,55,5
+"10996","201309290min","Minnesota Vikings",34,"Pittsburgh Steelers",27,61,7,TRUE,"9/29/2013",2013,"September","2010s",54,86,11
+"10997","201309290htx","Houston Texans",20,"Seattle Seahawks",23,43,-3,FALSE,"9/29/2013",2013,"September","2010s",78,90,8
+"10998","201309290atl","Atlanta Falcons",23,"New England Patriots",30,53,-7,FALSE,"9/29/2013",2013,"September","2010s",0,NA,NA
+"10999","201309300nor","New Orleans Saints",38,"Miami Dolphins",17,55,21,TRUE,"9/30/2013",2013,"September","2010s",79,81,3
+"11000","201310030cle","Cleveland Browns",37,"Buffalo Bills",24,61,13,TRUE,"10/3/2013",2013,"October","2010s",75,73,6
+"11001","201310060crd","Arizona Cardinals",22,"Carolina Panthers",6,28,16,TRUE,"10/6/2013",2013,"October","2010s",0,NA,NA
+"11002","201310060sfo","San Francisco 49ers",34,"Houston Texans",3,37,31,TRUE,"10/6/2013",2013,"October","2010s",76,40,9
+"11003","201310060mia","Miami Dolphins",23,"Baltimore Ravens",26,49,-3,FALSE,"10/6/2013",2013,"October","2010s",87,56,5
+"11004","201310060gnb","Green Bay Packers",22,"Detroit Lions",9,31,13,TRUE,"10/6/2013",2013,"October","2010s",59,59,10
+"11005","201310060dal","Dallas Cowboys",48,"Denver Broncos",51,99,-3,FALSE,"10/6/2013",2013,"October","2010s",0,NA,NA
+"11006","201310060oti","Tennessee Titans",17,"Kansas City Chiefs",26,43,-9,FALSE,"10/6/2013",2013,"October","2010s",74,83,10
+"11007","201310060rai","Oakland Raiders",27,"San Diego Chargers",17,44,10,TRUE,"10/6/2013",2013,"October","2010s",70,0,2
+"11008","201310060cin","Cincinnati Bengals",13,"New England Patriots",6,19,7,TRUE,"10/6/2013",2013,"October","2010s",68,93,7
+"11009","201310060ram","St. Louis Rams",34,"Jacksonville Jaguars",20,54,14,TRUE,"10/6/2013",2013,"October","2010s",0,NA,NA
+"11010","201310060clt","Indianapolis Colts",34,"Seattle Seahawks",28,62,6,TRUE,"10/6/2013",2013,"October","2010s",56,90,6
+"11011","201310060nyg","New York Giants",21,"Philadelphia Eagles",36,57,-15,FALSE,"10/6/2013",2013,"October","2010s",66,100,6
+"11012","201310060chi","Chicago Bears",18,"New Orleans Saints",26,44,-8,FALSE,"10/6/2013",2013,"October","2010s",60,49,10
+"11013","201310070atl","Atlanta Falcons",28,"New York Jets",30,58,-2,FALSE,"10/7/2013",2013,"October","2010s",0,NA,NA
+"11014","201310100chi","Chicago Bears",27,"New York Giants",21,48,6,TRUE,"10/10/2013",2013,"October","2010s",63,74,10
+"11015","201310130rav","Baltimore Ravens",17,"Green Bay Packers",19,36,-2,FALSE,"10/13/2013",2013,"October","2010s",61,83,10
+"11016","201310130min","Minnesota Vikings",10,"Carolina Panthers",35,45,-25,FALSE,"10/13/2013",2013,"October","2010s",64,0,NA
+"11017","201310130sfo","San Francisco 49ers",32,"Arizona Cardinals",20,52,12,TRUE,"10/13/2013",2013,"October","2010s",65,55,5
+"11018","201310130nwe","New England Patriots",30,"New Orleans Saints",27,57,3,TRUE,"10/13/2013",2013,"October","2010s",59,57,7
+"11019","201310130sea","Seattle Seahawks",20,"Tennessee Titans",13,33,7,TRUE,"10/13/2013",2013,"October","2010s",51,80,4
+"11020","201310130kan","Kansas City Chiefs",24,"Oakland Raiders",7,31,17,TRUE,"10/13/2013",2013,"October","2010s",63,41,7
+"11021","201310130tam","Tampa Bay Buccaneers",20,"Philadelphia Eagles",31,51,-11,FALSE,"10/13/2013",2013,"October","2010s",82,42,3
+"11022","201310130cle","Cleveland Browns",17,"Detroit Lions",31,48,-14,FALSE,"10/13/2013",2013,"October","2010s",66,78,8
+"11023","201310130dal","Dallas Cowboys",31,"Washington Redskins",16,47,15,TRUE,"10/13/2013",2013,"October","2010s",0,NA,NA
+"11024","201310130nyj","New York Jets",6,"Pittsburgh Steelers",19,25,-13,FALSE,"10/13/2013",2013,"October","2010s",62,68,10
+"11025","201310130buf","Buffalo Bills",24,"Cincinnati Bengals",27,51,-3,FALSE,"10/13/2013",2013,"October","2010s",65,70,11
+"11026","201310130den","Denver Broncos",35,"Jacksonville Jaguars",19,54,16,TRUE,"10/13/2013",2013,"October","2010s",59,53,7
+"11027","201310130htx","Houston Texans",13,"St. Louis Rams",38,51,-25,FALSE,"10/13/2013",2013,"October","2010s",73,94,5
+"11028","201310140sdg","San Diego Chargers",19,"Indianapolis Colts",9,28,10,TRUE,"10/14/2013",2013,"October","2010s",69,69,13
+"11029","201310170crd","Arizona Cardinals",22,"Seattle Seahawks",34,56,-12,FALSE,"10/17/2013",2013,"October","2010s",82,NA,7
+"11030","201310200atl","Atlanta Falcons",31,"Tampa Bay Buccaneers",23,54,8,TRUE,"10/20/2013",2013,"October","2010s",0,NA,NA
+"11031","201310200car","Carolina Panthers",30,"St. Louis Rams",15,45,15,TRUE,"10/20/2013",2013,"October","2010s",68,42,4
+"11032","201310200pit","Pittsburgh Steelers",19,"Baltimore Ravens",16,35,3,TRUE,"10/20/2013",2013,"October","2010s",57,49,14
+"11033","201310200gnb","Green Bay Packers",31,"Cleveland Browns",13,44,18,TRUE,"10/20/2013",2013,"October","2010s",46,65,8
+"11034","201310200phi","Philadelphia Eagles",3,"Dallas Cowboys",17,20,-14,FALSE,"10/20/2013",2013,"October","2010s",60,39,13
+"11035","201310200jax","Jacksonville Jaguars",6,"San Diego Chargers",24,30,-18,FALSE,"10/20/2013",2013,"October","2010s",73,0,12
+"11036","201310200det","Detroit Lions",24,"Cincinnati Bengals",27,51,-3,FALSE,"10/20/2013",2013,"October","2010s",68,NA,NA
+"11037","201310200nyj","New York Jets",30,"New England Patriots",27,57,3,TRUE,"10/20/2013",2013,"October","2010s",63,36,11
+"11038","201310200kan","Kansas City Chiefs",17,"Houston Texans",16,33,1,TRUE,"10/20/2013",2013,"October","2010s",70,36,15
+"11039","201310200clt","Indianapolis Colts",39,"Denver Broncos",33,72,6,TRUE,"10/20/2013",2013,"October","2010s",57,51,11
+"11040","201310200mia","Miami Dolphins",21,"Buffalo Bills",23,44,-2,FALSE,"10/20/2013",2013,"October","2010s",87,57,5
+"11041","201310200oti","Tennessee Titans",17,"San Francisco 49ers",31,48,-14,FALSE,"10/20/2013",2013,"October","2010s",68,32,3
+"11042","201310200was","Washington Redskins",45,"Chicago Bears",41,86,4,TRUE,"10/20/2013",2013,"October","2010s",61,39,13
+"11043","201310210nyg","New York Giants",23,"Minnesota Vikings",7,30,16,TRUE,"10/21/2013",2013,"October","2010s",57,63,4
+"11044","201310240tam","Tampa Bay Buccaneers",13,"Carolina Panthers",31,44,-18,FALSE,"10/24/2013",2013,"October","2010s",70,53,5
+"11045","201310270min","Minnesota Vikings",31,"Green Bay Packers",44,75,-13,FALSE,"10/27/2013",2013,"October","2010s",65,0,NA
+"11046","201310270crd","Arizona Cardinals",27,"Atlanta Falcons",13,40,14,TRUE,"10/27/2013",2013,"October","2010s",0,NA,NA
+"11047","201310270nwe","New England Patriots",27,"Miami Dolphins",17,44,10,TRUE,"10/27/2013",2013,"October","2010s",53,45,13
+"11048","201310270rai","Oakland Raiders",21,"Pittsburgh Steelers",18,39,3,TRUE,"10/27/2013",2013,"October","2010s",56,81,17
+"11049","201310270cin","Cincinnati Bengals",49,"New York Jets",9,58,40,TRUE,"10/27/2013",2013,"October","2010s",57,45,3
+"11050","201310270nor","New Orleans Saints",35,"Buffalo Bills",17,52,18,TRUE,"10/27/2013",2013,"October","2010s",69,70,2
+"11051","201310270jax","Jacksonville Jaguars",10,"San Francisco 49ers",42,52,-32,FALSE,"10/27/2013",2013,"October","2010s",60,63,13
+"11052","201310270det","Detroit Lions",31,"Dallas Cowboys",30,61,1,TRUE,"10/27/2013",2013,"October","2010s",68,NA,NA
+"11053","201310270den","Denver Broncos",45,"Washington Redskins",21,66,24,TRUE,"10/27/2013",2013,"October","2010s",69,14,8
+"11054","201310270phi","Philadelphia Eagles",7,"New York Giants",15,22,-8,FALSE,"10/27/2013",2013,"October","2010s",56,40,13
+"11055","201310270kan","Kansas City Chiefs",23,"Cleveland Browns",17,40,6,TRUE,"10/27/2013",2013,"October","2010s",52,46,4
+"11056","201310280ram","St. Louis Rams",9,"Seattle Seahawks",14,23,-5,FALSE,"10/28/2013",2013,"October","2010s",0,NA,NA
+"11057","201310310mia","Miami Dolphins",22,"Cincinnati Bengals",20,42,2,TRUE,"10/31/2013",2013,"October","2010s",79,76,8
+"11058","201311030htx","Houston Texans",24,"Indianapolis Colts",27,51,-3,FALSE,"11/3/2013",2013,"November","2010s",60,78,6
+"11059","201311030was","Washington Redskins",30,"San Diego Chargers",24,54,6,TRUE,"11/3/2013",2013,"November","2010s",57,41,20
+"11060","201311030nyj","New York Jets",26,"New Orleans Saints",20,46,6,TRUE,"11/3/2013",2013,"November","2010s",48,53,14
+"11061","201311030car","Carolina Panthers",34,"Atlanta Falcons",10,44,24,TRUE,"11/3/2013",2013,"November","2010s",62,41,12
+"11062","201311030ram","St. Louis Rams",21,"Tennessee Titans",28,49,-7,FALSE,"11/3/2013",2013,"November","2010s",0,NA,NA
+"11063","201311030dal","Dallas Cowboys",27,"Minnesota Vikings",23,50,4,TRUE,"11/3/2013",2013,"November","2010s",61,NA,6
+"11064","201311030cle","Cleveland Browns",24,"Baltimore Ravens",18,42,6,TRUE,"11/3/2013",2013,"November","2010s",46,54,9
+"11065","201311030sea","Seattle Seahawks",27,"Tampa Bay Buccaneers",24,51,3,TRUE,"11/3/2013",2013,"November","2010s",48,68,4
+"11066","201311030nwe","New England Patriots",55,"Pittsburgh Steelers",31,86,24,TRUE,"11/3/2013",2013,"November","2010s",44,44,6
+"11067","201311030rai","Oakland Raiders",20,"Philadelphia Eagles",49,69,-29,FALSE,"11/3/2013",2013,"November","2010s",62,30,6
+"11068","201311030buf","Buffalo Bills",13,"Kansas City Chiefs",23,36,-10,FALSE,"11/3/2013",2013,"November","2010s",36,58,7
+"11069","201311040gnb","Green Bay Packers",20,"Chicago Bears",27,47,-7,FALSE,"11/4/2013",2013,"November","2010s",49,77,14
+"11070","201311070min","Minnesota Vikings",34,"Washington Redskins",27,61,7,TRUE,"11/7/2013",2013,"November","2010s",0,0,NA
+"11071","201311100clt","Indianapolis Colts",8,"St. Louis Rams",38,46,-30,FALSE,"11/10/2013",2013,"November","2010s",45,54,11
+"11072","201311100atl","Atlanta Falcons",10,"Seattle Seahawks",33,43,-23,FALSE,"11/10/2013",2013,"November","2010s",0,NA,NA
+"11073","201311100sdg","San Diego Chargers",20,"Denver Broncos",28,48,-8,FALSE,"11/10/2013",2013,"November","2010s",78,14,6
+"11074","201311100oti","Tennessee Titans",27,"Jacksonville Jaguars",29,56,-2,FALSE,"11/10/2013",2013,"November","2010s",62,40,6
+"11075","201311100sfo","San Francisco 49ers",9,"Carolina Panthers",10,19,-1,FALSE,"11/10/2013",2013,"November","2010s",62,65,6
+"11076","201311100gnb","Green Bay Packers",13,"Philadelphia Eagles",27,40,-14,FALSE,"11/10/2013",2013,"November","2010s",45,48,12
+"11077","201311100crd","Arizona Cardinals",27,"Houston Texans",24,51,3,TRUE,"11/10/2013",2013,"November","2010s",0,NA,NA
+"11078","201311100nyg","New York Giants",24,"Oakland Raiders",20,44,4,TRUE,"11/10/2013",2013,"November","2010s",49,71,14
+"11079","201311100chi","Chicago Bears",19,"Detroit Lions",21,40,-2,FALSE,"11/10/2013",2013,"November","2010s",47,51,6
+"11080","201311100nor","New Orleans Saints",49,"Dallas Cowboys",17,66,32,TRUE,"11/10/2013",2013,"November","2010s",69,65,2
+"11081","201311100rav","Baltimore Ravens",20,"Cincinnati Bengals",17,37,3,TRUE,"11/10/2013",2013,"November","2010s",60,36,17
+"11082","201311100pit","Pittsburgh Steelers",23,"Buffalo Bills",10,33,13,TRUE,"11/10/2013",2013,"November","2010s",46,56,21
+"11083","201311110tam","Tampa Bay Buccaneers",22,"Miami Dolphins",19,41,3,TRUE,"11/11/2013",2013,"November","2010s",73,74,5
+"11084","201311140oti","Tennessee Titans",27,"Indianapolis Colts",30,57,-3,FALSE,"11/14/2013",2013,"November","2010s",44,36,3
+"11085","201311170htx","Houston Texans",23,"Oakland Raiders",28,51,-5,FALSE,"11/17/2013",2013,"November","2010s",82,75,3
+"11086","201311170pit","Pittsburgh Steelers",37,"Detroit Lions",27,64,10,TRUE,"11/17/2013",2013,"November","2010s",60,87,12
+"11087","201311170nor","New Orleans Saints",23,"San Francisco 49ers",20,43,3,TRUE,"11/17/2013",2013,"November","2010s",79,NA,10
+"11088","201311170tam","Tampa Bay Buccaneers",41,"Atlanta Falcons",28,69,13,TRUE,"11/17/2013",2013,"November","2010s",79,74,6
+"11089","201311170sea","Seattle Seahawks",41,"Minnesota Vikings",20,61,21,TRUE,"11/17/2013",2013,"November","2010s",50,81,14
+"11090","201311170nyg","New York Giants",27,"Green Bay Packers",13,40,14,TRUE,"11/17/2013",2013,"November","2010s",59,100,2
+"11091","201311170chi","Chicago Bears",23,"Baltimore Ravens",20,43,3,TRUE,"11/17/2013",2013,"November","2010s",68,82,17
+"11092","201311170jax","Jacksonville Jaguars",14,"Arizona Cardinals",27,41,-13,FALSE,"11/17/2013",2013,"November","2010s",76,0,8
+"11093","201311170mia","Miami Dolphins",20,"San Diego Chargers",16,36,4,TRUE,"11/17/2013",2013,"November","2010s",81,67,12
+"11094","201311170den","Denver Broncos",27,"Kansas City Chiefs",17,44,10,TRUE,"11/17/2013",2013,"November","2010s",43,34,6
+"11095","201311170cin","Cincinnati Bengals",41,"Cleveland Browns",20,61,21,TRUE,"11/17/2013",2013,"November","2010s",62,92,7
+"11096","201311170buf","Buffalo Bills",37,"New York Jets",14,51,23,TRUE,"11/17/2013",2013,"November","2010s",62,71,14
+"11097","201311170phi","Philadelphia Eagles",24,"Washington Redskins",16,40,8,TRUE,"11/17/2013",2013,"November","2010s",64,71,7
+"11098","201311180car","Carolina Panthers",24,"New England Patriots",20,44,4,TRUE,"11/18/2013",2013,"November","2010s",59,35,8
+"11099","201311210atl","Atlanta Falcons",13,"New Orleans Saints",17,30,-4,FALSE,"11/21/2013",2013,"November","2010s",0,NA,NA
+"11100","201311240ram","St. Louis Rams",42,"Chicago Bears",21,63,21,TRUE,"11/24/2013",2013,"November","2010s",0,NA,NA
+"11101","201311240rav","Baltimore Ravens",19,"New York Jets",3,22,16,TRUE,"11/24/2013",2013,"November","2010s",33,23,26
+"11102","201311240htx","Houston Texans",6,"Jacksonville Jaguars",13,19,-7,FALSE,"11/24/2013",2013,"November","2010s",45,55,15
+"11103","201311240rai","Oakland Raiders",19,"Tennessee Titans",23,42,-4,FALSE,"11/24/2013",2013,"November","2010s",58,56,5
+"11104","201311240mia","Miami Dolphins",16,"Carolina Panthers",20,36,-4,FALSE,"11/24/2013",2013,"November","2010s",82,55,13
+"11105","201311240crd","Arizona Cardinals",40,"Indianapolis Colts",11,51,29,TRUE,"11/24/2013",2013,"November","2010s",0,NA,NA
+"11106","201311240det","Detroit Lions",21,"Tampa Bay Buccaneers",24,45,-3,FALSE,"11/24/2013",2013,"November","2010s",68,NA,NA
+"11107","201311240gnb","Green Bay Packers",26,"Minnesota Vikings",26,52,0,FALSE,"11/24/2013",2013,"November","2010s",19,52,10
+"11108","201311240kan","Kansas City Chiefs",38,"San Diego Chargers",41,79,-3,FALSE,"11/24/2013",2013,"November","2010s",24,50,3
+"11109","201311240nwe","New England Patriots",34,"Denver Broncos",31,65,3,TRUE,"11/24/2013",2013,"November","2010s",22,29,22
+"11110","201311240nyg","New York Giants",21,"Dallas Cowboys",24,45,-3,FALSE,"11/24/2013",2013,"November","2010s",25,40,6
+"11111","201311240cle","Cleveland Browns",11,"Pittsburgh Steelers",27,38,-16,FALSE,"11/24/2013",2013,"November","2010s",20,84,31
+"11112","201311250was","Washington Redskins",6,"San Francisco 49ers",27,33,-21,FALSE,"11/25/2013",2013,"November","2010s",35,37,12
+"11113","201311280rav","Baltimore Ravens",22,"Pittsburgh Steelers",20,42,2,TRUE,"11/28/2013",2013,"November","2010s",37,39,2
+"11114","201311280det","Detroit Lions",40,"Green Bay Packers",10,50,30,TRUE,"11/28/2013",2013,"November","2010s",68,NA,NA
+"11115","201311280dal","Dallas Cowboys",31,"Oakland Raiders",24,55,7,TRUE,"11/28/2013",2013,"November","2010s",0,NA,NA
+"11116","201312010htx","Houston Texans",31,"New England Patriots",34,65,-3,FALSE,"12/1/2013",2013,"December","2010s",64,72,7
+"11117","201312010min","Minnesota Vikings",23,"Chicago Bears",20,43,3,TRUE,"12/1/2013",2013,"December","2010s",66,0,NA
+"11118","201312010clt","Indianapolis Colts",22,"Tennessee Titans",14,36,8,TRUE,"12/1/2013",2013,"December","2010s",51,53,7
+"11119","201312010phi","Philadelphia Eagles",24,"Arizona Cardinals",21,45,3,TRUE,"12/1/2013",2013,"December","2010s",46,53,4
+"11120","201312010car","Carolina Panthers",27,"Tampa Bay Buccaneers",6,33,21,TRUE,"12/1/2013",2013,"December","2010s",56,55,2
+"11121","201312010sfo","San Francisco 49ers",23,"St. Louis Rams",13,36,10,TRUE,"12/1/2013",2013,"December","2010s",59,72,6
+"11122","201312010cle","Cleveland Browns",28,"Jacksonville Jaguars",32,60,-4,FALSE,"12/1/2013",2013,"December","2010s",40,61,7
+"11123","201312010kan","Kansas City Chiefs",28,"Denver Broncos",35,63,-7,FALSE,"12/1/2013",2013,"December","2010s",55,47,4
+"11124","201312010buf","Buffalo Bills",31,"Atlanta Falcons",34,65,-3,FALSE,"12/1/2013",2013,"December","2010s",0,NA,NA
+"11125","201312010sdg","San Diego Chargers",10,"Cincinnati Bengals",17,27,-7,FALSE,"12/1/2013",2013,"December","2010s",77,26,5
+"11126","201312010nyj","New York Jets",3,"Miami Dolphins",23,26,-20,FALSE,"12/1/2013",2013,"December","2010s",48,59,4
+"11127","201312010was","Washington Redskins",17,"New York Giants",24,41,-7,FALSE,"12/1/2013",2013,"December","2010s",43,72,NA
+"11128","201312020sea","Seattle Seahawks",34,"New Orleans Saints",7,41,27,TRUE,"12/2/2013",2013,"December","2010s",41,62,6
+"11129","201312050jax","Jacksonville Jaguars",27,"Houston Texans",20,47,7,TRUE,"12/5/2013",2013,"December","2010s",72,73,7
+"11130","201312080sdg","San Diego Chargers",37,"New York Giants",14,51,23,TRUE,"12/8/2013",2013,"December","2010s",53,53,8
+"11131","201312080sfo","San Francisco 49ers",19,"Seattle Seahawks",17,36,2,TRUE,"12/8/2013",2013,"December","2010s",43,49,5
+"11132","201312080pit","Pittsburgh Steelers",28,"Miami Dolphins",34,62,-6,FALSE,"12/8/2013",2013,"December","2010s",25,73,9
+"11133","201312080nwe","New England Patriots",27,"Cleveland Browns",26,53,1,TRUE,"12/8/2013",2013,"December","2010s",30,46,5
+"11134","201312080phi","Philadelphia Eagles",34,"Detroit Lions",20,54,14,TRUE,"12/8/2013",2013,"December","2010s",27,56,6
+"11135","201312080gnb","Green Bay Packers",22,"Atlanta Falcons",21,43,1,TRUE,"12/8/2013",2013,"December","2010s",9,80,6
+"11136","201312080was","Washington Redskins",10,"Kansas City Chiefs",45,55,-35,FALSE,"12/8/2013",2013,"December","2010s",30,79,10
+"11137","201312080cin","Cincinnati Bengals",42,"Indianapolis Colts",28,70,14,TRUE,"12/8/2013",2013,"December","2010s",25,85,7
+"11138","201312080den","Denver Broncos",51,"Tennessee Titans",28,79,23,TRUE,"12/8/2013",2013,"December","2010s",18,63,5
+"11139","201312080nyj","New York Jets",37,"Oakland Raiders",27,64,10,TRUE,"12/8/2013",2013,"December","2010s",33,51,6
+"11140","201312080crd","Arizona Cardinals",30,"St. Louis Rams",10,40,20,TRUE,"12/8/2013",2013,"December","2010s",0,NA,12
+"11141","201312080rav","Baltimore Ravens",29,"Minnesota Vikings",26,55,3,TRUE,"12/8/2013",2013,"December","2010s",33,67,7
+"11142","201312080tam","Tampa Bay Buccaneers",27,"Buffalo Bills",6,33,21,TRUE,"12/8/2013",2013,"December","2010s",82,62,13
+"11143","201312080nor","New Orleans Saints",31,"Carolina Panthers",13,44,18,TRUE,"12/8/2013",2013,"December","2010s",52,NA,5
+"11144","201312090chi","Chicago Bears",45,"Dallas Cowboys",28,73,17,TRUE,"12/9/2013",2013,"December","2010s",8,63,14
+"11145","201312120den","Denver Broncos",20,"San Diego Chargers",27,47,-7,FALSE,"12/12/2013",2013,"December","2010s",37,50,2
+"11146","201312150clt","Indianapolis Colts",25,"Houston Texans",3,28,22,TRUE,"12/15/2013",2013,"December","2010s",20,64,13
+"11147","201312150pit","Pittsburgh Steelers",30,"Cincinnati Bengals",20,50,10,TRUE,"12/15/2013",2013,"December","2010s",26,66,20
+"11148","201312150mia","Miami Dolphins",24,"New England Patriots",20,44,4,TRUE,"12/15/2013",2013,"December","2010s",84,70,14
+"11149","201312150jax","Jacksonville Jaguars",20,"Buffalo Bills",27,47,-7,FALSE,"12/15/2013",2013,"December","2010s",60,0,20
+"11150","201312150tam","Tampa Bay Buccaneers",14,"San Francisco 49ers",33,47,-19,FALSE,"12/15/2013",2013,"December","2010s",70,64,7
+"11151","201312150min","Minnesota Vikings",48,"Philadelphia Eagles",30,78,18,TRUE,"12/15/2013",2013,"December","2010s",66,0,NA
+"11152","201312150dal","Dallas Cowboys",36,"Green Bay Packers",37,73,-1,FALSE,"12/15/2013",2013,"December","2010s",0,NA,NA
+"11153","201312150ram","St. Louis Rams",27,"New Orleans Saints",16,43,11,TRUE,"12/15/2013",2013,"December","2010s",0,NA,NA
+"11154","201312150atl","Atlanta Falcons",27,"Washington Redskins",26,53,1,TRUE,"12/15/2013",2013,"December","2010s",0,NA,NA
+"11155","201312150nyg","New York Giants",0,"Seattle Seahawks",23,23,-23,FALSE,"12/15/2013",2013,"December","2010s",36,88,7
+"11156","201312150car","Carolina Panthers",30,"New York Jets",20,50,10,TRUE,"12/15/2013",2013,"December","2010s",54,47,11
+"11157","201312150cle","Cleveland Browns",31,"Chicago Bears",38,69,-7,FALSE,"12/15/2013",2013,"December","2010s",25,82,12
+"11158","201312150rai","Oakland Raiders",31,"Kansas City Chiefs",56,87,-25,FALSE,"12/15/2013",2013,"December","2010s",64,39,6
+"11159","201312150oti","Tennessee Titans",34,"Arizona Cardinals",37,71,-3,FALSE,"12/15/2013",2013,"December","2010s",37,64,4
+"11160","201312160det","Detroit Lions",16,"Baltimore Ravens",18,34,-2,FALSE,"12/16/2013",2013,"December","2010s",68,NA,NA
+"11161","201312220kan","Kansas City Chiefs",7,"Indianapolis Colts",23,30,-16,FALSE,"12/22/2013",2013,"December","2010s",22,84,10
+"11162","201312220det","Detroit Lions",20,"New York Giants",23,43,-3,FALSE,"12/22/2013",2013,"December","2010s",68,NA,NA
+"11163","201312220htx","Houston Texans",13,"Denver Broncos",37,50,-24,FALSE,"12/22/2013",2013,"December","2010s",58,79,3
+"11164","201312220ram","St. Louis Rams",23,"Tampa Bay Buccaneers",13,36,10,TRUE,"12/22/2013",2013,"December","2010s",0,NA,NA
+"11165","201312220cin","Cincinnati Bengals",42,"Minnesota Vikings",14,56,28,TRUE,"12/22/2013",2013,"December","2010s",53,80,11
+"11166","201312220sea","Seattle Seahawks",10,"Arizona Cardinals",17,27,-7,FALSE,"12/22/2013",2013,"December","2010s",48,94,6
+"11167","201312220nyj","New York Jets",24,"Cleveland Browns",13,37,11,TRUE,"12/22/2013",2013,"December","2010s",70,65,12
+"11168","201312220buf","Buffalo Bills",19,"Miami Dolphins",0,19,19,TRUE,"12/22/2013",2013,"December","2010s",41,79,8
+"11169","201312220jax","Jacksonville Jaguars",16,"Tennessee Titans",20,36,-4,FALSE,"12/22/2013",2013,"December","2010s",79,0,13
+"11170","201312220was","Washington Redskins",23,"Dallas Cowboys",24,47,-1,FALSE,"12/22/2013",2013,"December","2010s",65,92,5
+"11171","201312220car","Carolina Panthers",17,"New Orleans Saints",13,30,4,TRUE,"12/22/2013",2013,"December","2010s",72,84,18
+"11172","201312220sdg","San Diego Chargers",26,"Oakland Raiders",13,39,13,TRUE,"12/22/2013",2013,"December","2010s",67,45,7
+"11173","201312220rav","Baltimore Ravens",7,"New England Patriots",41,48,-34,FALSE,"12/22/2013",2013,"December","2010s",65,75,8
+"11174","201312220gnb","Green Bay Packers",31,"Pittsburgh Steelers",38,69,-7,FALSE,"12/22/2013",2013,"December","2010s",23,78,13
+"11175","201312220phi","Philadelphia Eagles",54,"Chicago Bears",11,65,43,TRUE,"12/22/2013",2013,"December","2010s",62,82,11
+"11176","201312230sfo","San Francisco 49ers",34,"Atlanta Falcons",24,58,10,TRUE,"12/23/2013",2013,"December","2010s",60,49,NA
+"11177","201312290sea","Seattle Seahawks",27,"St. Louis Rams",9,36,18,TRUE,"12/29/2013",2013,"December","2010s",40,93,5
+"11178","201312290crd","Arizona Cardinals",20,"San Francisco 49ers",23,43,-3,FALSE,"12/29/2013",2013,"December","2010s",64,NA,5
+"11179","201312290dal","Dallas Cowboys",22,"Philadelphia Eagles",24,46,-2,FALSE,"12/29/2013",2013,"December","2010s",0,NA,NA
+"11180","201312290chi","Chicago Bears",28,"Green Bay Packers",33,61,-5,FALSE,"12/29/2013",2013,"December","2010s",26,88,16
+"11181","201312290oti","Tennessee Titans",16,"Houston Texans",10,26,6,TRUE,"12/29/2013",2013,"December","2010s",53,61,4
+"11182","201312290sdg","San Diego Chargers",27,"Kansas City Chiefs",24,51,3,TRUE,"12/29/2013",2013,"December","2010s",73,14,1
+"11183","201312290nor","New Orleans Saints",42,"Tampa Bay Buccaneers",17,59,25,TRUE,"12/29/2013",2013,"December","2010s",56,NA,7
+"11184","201312290nyg","New York Giants",20,"Washington Redskins",6,26,14,TRUE,"12/29/2013",2013,"December","2010s",40,100,2
+"11185","201312290clt","Indianapolis Colts",30,"Jacksonville Jaguars",10,40,20,TRUE,"12/29/2013",2013,"December","2010s",43,68,13
+"11186","201312290cin","Cincinnati Bengals",34,"Baltimore Ravens",17,51,17,TRUE,"12/29/2013",2013,"December","2010s",43,93,3
+"11187","201312290min","Minnesota Vikings",14,"Detroit Lions",13,27,1,TRUE,"12/29/2013",2013,"December","2010s",0,0,NA
+"11188","201312290nwe","New England Patriots",34,"Buffalo Bills",20,54,14,TRUE,"12/29/2013",2013,"December","2010s",39,100,8
+"11189","201312290atl","Atlanta Falcons",20,"Carolina Panthers",21,41,-1,FALSE,"12/29/2013",2013,"December","2010s",0,NA,NA
+"11190","201312290pit","Pittsburgh Steelers",20,"Cleveland Browns",7,27,13,TRUE,"12/29/2013",2013,"December","2010s",40,93,5
+"11191","201312290rai","Oakland Raiders",14,"Denver Broncos",34,48,-20,FALSE,"12/29/2013",2013,"December","2010s",70,16,8
+"11192","201312290mia","Miami Dolphins",7,"New York Jets",20,27,-13,FALSE,"12/29/2013",2013,"December","2010s",79,84,12

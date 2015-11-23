@@ -1,0 +1,255 @@
+
+---
+title: "HW5"
+author: "Junyu Wang"
+output: word_document
+---
+
+## First inspection of the data
+
+```{r}
+source("~/personal/school/stats133/stat133/HW5/data_clean_preprocess.R")
+
+str(raw_weather_data)
+head(raw_weather_data)
+```
+
+## Weather Information
+
+Remove % in column humidity and convert such values to numeric format
+
+```{r}
+head(raw_weather_data$humidity)
+```
+
+Extract the temperature from column weather, and create a column temperature2 with these values.
+
+```{r}
+head(raw_weather_data$temperature2)
+```
+
+Extract the humidity values from column weather, and create a column humidity2 with these values. 
+
+```{r}
+head(raw_weather_data$humidity2)
+```
+
+Extract the wind speed values from column weather, and create a column wind2 with these values.
+
+```{r}
+head(raw_weather_data$wind2)
+```
+
+Check new columns coincide with the pre-existing ones:
+
+```{r}
+summary(raw_weather_data$temperature)
+summary(raw_weather_data$temperature2)
+summary(raw_weather_data$humidity)
+summary(raw_weather_data$humidity2)
+summary(raw_weather_data$wind_mph)
+summary(raw_weather_data$wind2)
+```
+
+## Data information
+
+Create a column year that contains the number of the year.
+
+```{r}
+head(raw_weather_data$year)
+```
+
+Create a column monthnum that contains the number of the month.
+
+```{r}
+head(raw_weather_data$monthnum)
+```
+
+Create a column month that contains the name of the corresponding month as factor.
+
+```{r}
+head(raw_weather_data$month)
+```
+
+Create a column decade that indicates the corresponding decade of each played game.
+
+```{r}
+head(raw_weather_data$decade)
+``` 
+
+## Scores Information
+
+Create a column total_score that contains the total number of scored points in each game.
+
+```{r}
+head(raw_weather_data$total_score)
+``` 
+
+Create a column diff_score that indicates the difference of home_score and away_score.
+
+```{r}
+head(raw_weather_data$diff_score)
+``` 
+
+Create a column home_win that shows whether home_score is greater than away_score.
+
+```{r}
+head(raw_weather_data$home_win)
+``` 
+
+## Basic Exploration
+
+Inspect variables home_score, away_score, temperature, wind_mpg
+
+```{r}
+summary(raw_weather_data$home_score)
+summary(raw_weather_data$away_score)
+summary(raw_weather_data$temperature)
+summary(raw_weather_data$wind_mph)
+``` 
+
+Visually inspect variables home_score, away_score, temperature, humidity and wind_mph.
+
+```{r}
+hist(raw_weather_data$home_score)
+hist(raw_weather_data$away_score)
+hist(raw_weather_data$temperature)
+hist(raw_weather_data$humidity)
+hist(raw_weather_data$wind_mph)
+``` 
+
+What team has the maximum home score?
+
+```{r}
+team_with_max_home_score
+``` 
+
+What team has the maximus away score?
+
+```{r}
+team_with_max_away_score
+``` 
+
+What is the most common home score?
+
+```{r}
+m_common_home_score
+``` 
+
+What is the most common away score?
+
+```{r}
+m_common_away_score
+``` 
+
+What has been the maximum temperature in a game?
+
+```{r}
+max_temp
+``` 
+
+What was the date of the maximum temperature?
+
+```{r}
+date_max_temp
+``` 
+
+What has been the minimum temperature in a game?
+
+```{r}
+min_temp
+``` 
+
+What was the date of the minimum temperature?
+
+```{r}
+date_min_temp
+``` 
+
+How many games have been played with a temperature of 90 degrees or more?
+
+```{r}
+games_with_high_temp
+``` 
+
+How many games have been played with a temperature below 0 degrees (do not include 0)?
+
+```{r}
+games_with_low_temp
+``` 
+
+What is the most common temperature?
+
+```{r}
+m_common_temp
+``` 
+
+Make a bar chart with the frequency table of temperatures. Is there anything that catches your attention?
+
+```{r}
+barplot(temp_freq)
+``` 
+
+The frequency of temperature 72 is much higher than the rest of temperatures. 
+
+## Data Files
+
+Export data for all games with selected columns.
+
+```{r}
+head(cleaned_data)
+``` 
+
+Export data for games during each decade with selected columns.
+
+```{r}
+print("files are correctly generated")
+``` 
+
+## Data Analysis
+
+```{r}
+source("~/personal/school/stats133/stat133/HW5/data_analysis.R")
+``` 
+
+## 1. Does play at home really have an advantage for the home team?
+
+## Number of More Home victories per year
+
+```{r}
+ggplot(data = result, aes(years, diffs)) +
+  geom_bar(color = "#000000", fill = "#515252", stat = "identity") +
+  ggtitle("Difference between home wins and home loses by year") +
+  ylab("Difference") +
+  scale_x_continuous(name = "Year",
+                     breaks = years) +
+  theme(axis.text.x = element_text(angle= 90))
+``` 
+
+## Average score points per year
+
+```{r}
+ggplot(data = avgs) + 
+  geom_line(aes(x = years, y = avg_homescore), color = "#DB5FE4", size = 1.5) +
+  geom_line(aes(x = years, y = avg_awayscore), color = "#5FE4DB", size = 1.5) +
+  geom_point(aes(x = years, y = avg_homescore), color = "#DB5FE4", size = 3.0) + 
+  geom_point(aes(x = years, y = avg_awayscore), color = "#5FE4DB", size = 3.0) + 
+  ggtitle("Average score points per year") + 
+  ylab("scores")
+```
+
+Other type of analysis for this conclusion: 
+We can also conduct a t-test for null hypothesis stating that difference in home victories and away team victories = 0 each year. We can set up a one-side t-test and reject the null if p-value is smaller than the significance level.
+
+## 2. Has the total number of scored points per game changed over time?
+
+```{r}
+ggplot(data = avg_scores) +
+  geom_line(aes(x = years, y = avg_totalscore), color = "#000000", size = 1.5) +
+  geom_point(aes(x = years, y = avg_totalscore), color = "#000000", size = 3.0) +
+  ggtitle("Average total scored points per year")
+
+```
+
+Other type of analysis for this conclusion: 
+We can conduct a significance test for null hypothesis stating that scores each year is the same so expected value for each year's score = total scores of all years / number of years. We can set up a chi-square test and reject the null if test statistic is larger than corresponding critical score.

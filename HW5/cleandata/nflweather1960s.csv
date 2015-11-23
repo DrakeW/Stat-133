@@ -1,0 +1,1029 @@
+"","id","home_team","home_score","away_team","away_score","total_score","diff_score","home_win","date","year","month","decade","temperature","humidity","wind_mph"
+"1","196009230ram","Los Angeles Rams",21,"St. Louis Cardinals",43,64,-22,FALSE,"9/23/1960",1960,"September","1960s",66,78,8
+"2","196009240dal","Dallas Cowboys",28,"Pittsburgh Steelers",35,63,-7,FALSE,"9/24/1960",1960,"September","1960s",72,80,16
+"3","196009250gnb","Green Bay Packers",14,"Chicago Bears",17,31,-3,FALSE,"9/25/1960",1960,"September","1960s",60,76,13
+"4","196009250sfo","San Francisco 49ers",19,"New York Giants",21,40,-2,FALSE,"9/25/1960",1960,"September","1960s",72,44,10
+"5","196009250clt","Baltimore Colts",20,"Washington Redskins",0,20,20,TRUE,"9/25/1960",1960,"September","1960s",62,80,9
+"6","196009250phi","Philadelphia Eagles",24,"Cleveland Browns",41,65,-17,FALSE,"9/25/1960",1960,"September","1960s",61,77,9
+"7","196009300dal","Dallas Cowboys",25,"Philadelphia Eagles",27,52,-2,FALSE,"9/30/1960",1960,"September","1960s",77,50,11
+"8","196010020gnb","Green Bay Packers",28,"Detroit Lions",9,37,19,TRUE,"10/2/1960",1960,"October","1960s",53,78,16
+"9","196010020cle","Cleveland Browns",28,"Pittsburgh Steelers",20,48,8,TRUE,"10/2/1960",1960,"October","1960s",54,78,15
+"10","196010020clt","Baltimore Colts",42,"Chicago Bears",7,49,35,TRUE,"10/2/1960",1960,"October","1960s",54,76,9
+"11","196010020crd","St. Louis Cardinals",14,"New York Giants",35,49,-21,FALSE,"10/2/1960",1960,"October","1960s",72,56,14
+"12","196010020sfo","San Francisco 49ers",13,"Los Angeles Rams",9,22,4,TRUE,"10/2/1960",1960,"October","1960s",60,74,12
+"13","196010090det","Detroit Lions",10,"San Francisco 49ers",14,24,-4,FALSE,"10/9/1960",1960,"October","1960s",58,62,9
+"14","196010090pit","Pittsburgh Steelers",17,"New York Giants",19,36,-2,FALSE,"10/9/1960",1960,"October","1960s",61,72,6
+"15","196010090phi","Philadelphia Eagles",31,"St. Louis Cardinals",27,58,4,TRUE,"10/9/1960",1960,"October","1960s",56,65,5
+"16","196010090was","Washington Redskins",26,"Dallas Cowboys",14,40,12,TRUE,"10/9/1960",1960,"October","1960s",59,85,1
+"17","196010090gnb","Green Bay Packers",35,"Baltimore Colts",21,56,14,TRUE,"10/9/1960",1960,"October","1960s",49,84,6
+"18","196010090chi","Chicago Bears",34,"Los Angeles Rams",27,61,7,TRUE,"10/9/1960",1960,"October","1960s",57,69,9
+"19","196010160phi","Philadelphia Eagles",28,"Detroit Lions",10,38,18,TRUE,"10/16/1960",1960,"October","1960s",66,88,7
+"20","196010160dal","Dallas Cowboys",7,"Cleveland Browns",48,55,-41,FALSE,"10/16/1960",1960,"October","1960s",70,82,12
+"21","196010160pit","Pittsburgh Steelers",27,"St. Louis Cardinals",14,41,13,TRUE,"10/16/1960",1960,"October","1960s",62,69,7
+"22","196010160chi","Chicago Bears",27,"San Francisco 49ers",10,37,17,TRUE,"10/16/1960",1960,"October","1960s",57,62,14
+"23","196010160nyg","New York Giants",24,"Washington Redskins",24,48,0,FALSE,"10/16/1960",1960,"October","1960s",70,77,9
+"24","196010160clt","Baltimore Colts",31,"Los Angeles Rams",17,48,14,TRUE,"10/16/1960",1960,"October","1960s",67,81,7
+"25","196010230gnb","Green Bay Packers",41,"San Francisco 49ers",14,55,27,TRUE,"10/23/1960",1960,"October","1960s",49,71,21
+"26","196010230cle","Cleveland Browns",29,"Philadelphia Eagles",31,60,-2,FALSE,"10/23/1960",1960,"October","1960s",52,61,18
+"27","196010230was","Washington Redskins",27,"Pittsburgh Steelers",27,54,0,FALSE,"10/23/1960",1960,"October","1960s",51,64,8
+"28","196010230crd","St. Louis Cardinals",12,"Dallas Cowboys",10,22,2,TRUE,"10/23/1960",1960,"October","1960s",61,55,11
+"29","196010230det","Detroit Lions",30,"Baltimore Colts",17,47,13,TRUE,"10/23/1960",1960,"October","1960s",53,60,22
+"30","196010230ram","Los Angeles Rams",24,"Chicago Bears",24,48,0,FALSE,"10/23/1960",1960,"October","1960s",63,85,7
+"31","196010300pit","Pittsburgh Steelers",13,"Green Bay Packers",19,32,-6,FALSE,"10/30/1960",1960,"October","1960s",50,50,7
+"32","196010300was","Washington Redskins",10,"Cleveland Browns",31,41,-21,FALSE,"10/30/1960",1960,"October","1960s",54,56,3
+"33","196010300ram","Los Angeles Rams",48,"Detroit Lions",35,83,13,TRUE,"10/30/1960",1960,"October","1960s",62,88,6
+"34","196010300sfo","San Francisco 49ers",25,"Chicago Bears",7,32,18,TRUE,"10/30/1960",1960,"October","1960s",60,65,9
+"35","196010300nyg","New York Giants",13,"St. Louis Cardinals",20,33,-7,FALSE,"10/30/1960",1960,"October","1960s",54,52,27
+"36","196010300dal","Dallas Cowboys",7,"Baltimore Colts",45,52,-38,FALSE,"10/30/1960",1960,"October","1960s",65,62,23
+"37","196011060sfo","San Francisco 49ers",0,"Detroit Lions",24,24,-24,FALSE,"11/6/1960",1960,"November","1960s",57,87,10
+"38","196011060cle","Cleveland Browns",13,"New York Giants",17,30,-4,FALSE,"11/6/1960",1960,"November","1960s",34,91,13
+"39","196011060phi","Philadelphia Eagles",34,"Pittsburgh Steelers",7,41,27,TRUE,"11/6/1960",1960,"November","1960s",42,71,12
+"40","196011060clt","Baltimore Colts",38,"Green Bay Packers",24,62,14,TRUE,"11/6/1960",1960,"November","1960s",44,65,14
+"41","196011060dal","Dallas Cowboys",13,"Los Angeles Rams",38,51,-25,FALSE,"11/6/1960",1960,"November","1960s",52,51,13
+"42","196011060crd","St. Louis Cardinals",44,"Washington Redskins",7,51,37,TRUE,"11/6/1960",1960,"November","1960s",44,55,16
+"43","196011130nyg","New York Giants",27,"Pittsburgh Steelers",24,51,3,TRUE,"11/13/1960",1960,"November","1960s",48,61,7
+"44","196011130cle","Cleveland Browns",28,"St. Louis Cardinals",27,55,1,TRUE,"11/13/1960",1960,"November","1960s",45,60,12
+"45","196011130chi","Chicago Bears",20,"Baltimore Colts",24,44,-4,FALSE,"11/13/1960",1960,"November","1960s",47,63,12
+"46","196011130det","Detroit Lions",12,"Los Angeles Rams",10,22,2,TRUE,"11/13/1960",1960,"November","1960s",45,59,11
+"47","196011130phi","Philadelphia Eagles",19,"Washington Redskins",13,32,6,TRUE,"11/13/1960",1960,"November","1960s",39,68,5
+"48","196011130gnb","Green Bay Packers",41,"Dallas Cowboys",7,48,34,TRUE,"11/13/1960",1960,"November","1960s",42,70,12
+"49","196011200nyg","New York Giants",10,"Philadelphia Eagles",17,27,-7,FALSE,"11/20/1960",1960,"November","1960s",49,51,12
+"50","196011200pit","Pittsburgh Steelers",14,"Cleveland Browns",10,24,4,TRUE,"11/20/1960",1960,"November","1960s",38,72,7
+"51","196011200gnb","Green Bay Packers",31,"Los Angeles Rams",33,64,-2,FALSE,"11/20/1960",1960,"November","1960s",41,80,8
+"52","196011200chi","Chicago Bears",28,"Detroit Lions",7,35,21,TRUE,"11/20/1960",1960,"November","1960s",43,76,10
+"53","196011200dal","Dallas Cowboys",14,"San Francisco 49ers",26,40,-12,FALSE,"11/20/1960",1960,"November","1960s",57,74,11
+"54","196011200was","Washington Redskins",14,"St. Louis Cardinals",26,40,-12,FALSE,"11/20/1960",1960,"November","1960s",49,55,5
+"55","196011240det","Detroit Lions",23,"Green Bay Packers",10,33,13,TRUE,"11/24/1960",1960,"November","1960s",36,55,10
+"56","196011270crd","St. Louis Cardinals",17,"Cleveland Browns",17,34,0,FALSE,"11/27/1960",1960,"November","1960s",63,80,12
+"57","196011270clt","Baltimore Colts",22,"San Francisco 49ers",30,52,-8,FALSE,"11/27/1960",1960,"November","1960s",47,83,7
+"58","196011270phi","Philadelphia Eagles",31,"New York Giants",23,54,8,TRUE,"11/27/1960",1960,"November","1960s",49,85,7
+"59","196011270chi","Chicago Bears",17,"Dallas Cowboys",7,24,10,TRUE,"11/27/1960",1960,"November","1960s",54,90,14
+"60","196011270pit","Pittsburgh Steelers",22,"Washington Redskins",10,32,12,TRUE,"11/27/1960",1960,"November","1960s",49,78,11
+"61","196012040chi","Chicago Bears",13,"Green Bay Packers",41,54,-28,FALSE,"12/4/1960",1960,"December","1960s",49,50,19
+"62","196012040cle","Cleveland Browns",27,"Washington Redskins",16,43,11,TRUE,"12/4/1960",1960,"December","1960s",41,56,12
+"63","196012040ram","Los Angeles Rams",7,"San Francisco 49ers",23,30,-16,FALSE,"12/4/1960",1960,"December","1960s",54,58,8
+"64","196012040clt","Baltimore Colts",15,"Detroit Lions",20,35,-5,FALSE,"12/4/1960",1960,"December","1960s",38,42,8
+"65","196012040nyg","New York Giants",31,"Dallas Cowboys",31,62,0,FALSE,"12/4/1960",1960,"December","1960s",42,56,6
+"66","196012040crd","St. Louis Cardinals",6,"Philadelphia Eagles",20,26,-14,FALSE,"12/4/1960",1960,"December","1960s",53,40,16
+"67","196012100sfo","San Francisco 49ers",0,"Green Bay Packers",13,13,-13,FALSE,"12/10/1960",1960,"December","1960s",47,83,7
+"68","196012110cle","Cleveland Browns",42,"Chicago Bears",0,42,42,TRUE,"12/11/1960",1960,"December","1960s",24,76,15
+"69","196012110was","Washington Redskins",3,"New York Giants",17,20,-14,FALSE,"12/11/1960",1960,"December","1960s",36,55,7
+"70","196012110pit","Pittsburgh Steelers",27,"Philadelphia Eagles",21,48,6,TRUE,"12/11/1960",1960,"December","1960s",28,76,12
+"71","196012110ram","Los Angeles Rams",10,"Baltimore Colts",3,13,7,TRUE,"12/11/1960",1960,"December","1960s",55,72,5
+"72","196012110det","Detroit Lions",23,"Dallas Cowboys",14,37,9,TRUE,"12/11/1960",1960,"December","1960s",21,62,16
+"73","196012170ram","Los Angeles Rams",21,"Green Bay Packers",35,56,-14,FALSE,"12/17/1960",1960,"December","1960s",54,61,5
+"74","196012180was","Washington Redskins",28,"Philadelphia Eagles",38,66,-10,FALSE,"12/18/1960",1960,"December","1960s",29,66,3
+"75","196012180det","Detroit Lions",36,"Chicago Bears",0,36,36,TRUE,"12/18/1960",1960,"December","1960s",23,69,18
+"76","196012180crd","St. Louis Cardinals",38,"Pittsburgh Steelers",7,45,31,TRUE,"12/18/1960",1960,"December","1960s",33,51,10
+"77","196012180sfo","San Francisco 49ers",34,"Baltimore Colts",10,44,24,TRUE,"12/18/1960",1960,"December","1960s",53,87,7
+"78","196012180nyg","New York Giants",34,"Cleveland Browns",48,82,-14,FALSE,"12/18/1960",1960,"December","1960s",31,52,14
+"79","196012260phi","Philadelphia Eagles",17,"Green Bay Packers",13,30,4,TRUE,"12/26/1960",1960,"December","1960s",28,84,7
+"80","196109170min","Minnesota Vikings",37,"Chicago Bears",13,50,24,TRUE,"9/17/1961",1961,"September","1960s",61,63,13
+"81","196109170phi","Philadelphia Eagles",27,"Cleveland Browns",20,47,7,TRUE,"9/17/1961",1961,"September","1960s",61,55,13
+"82","196109170nyg","New York Giants",10,"St. Louis Cardinals",21,31,-11,FALSE,"9/17/1961",1961,"September","1960s",63,54,18
+"83","196109170dal","Dallas Cowboys",27,"Pittsburgh Steelers",24,51,3,TRUE,"9/17/1961",1961,"September","1960s",66,55,11
+"84","196109170gnb","Green Bay Packers",13,"Detroit Lions",17,30,-4,FALSE,"9/17/1961",1961,"September","1960s",60,63,9
+"85","196109170clt","Baltimore Colts",27,"Los Angeles Rams",24,51,3,TRUE,"9/17/1961",1961,"September","1960s",61,62,12
+"86","196109170sfo","San Francisco 49ers",35,"Washington Redskins",3,38,32,TRUE,"9/17/1961",1961,"September","1960s",61,77,9
+"87","196109230ram","Los Angeles Rams",17,"Chicago Bears",21,38,-4,FALSE,"9/23/1961",1961,"September","1960s",65,69,10
+"88","196109240pit","Pittsburgh Steelers",14,"New York Giants",17,31,-3,FALSE,"9/24/1961",1961,"September","1960s",74,74,5
+"89","196109240cle","Cleveland Browns",20,"St. Louis Cardinals",17,37,3,TRUE,"9/24/1961",1961,"September","1960s",74,74,9
+"90","196109240dal","Dallas Cowboys",21,"Minnesota Vikings",7,28,14,TRUE,"9/24/1961",1961,"September","1960s",82,64,17
+"91","196109240phi","Philadelphia Eagles",14,"Washington Redskins",7,21,7,TRUE,"9/24/1961",1961,"September","1960s",75,70,8
+"92","196109240clt","Baltimore Colts",15,"Detroit Lions",16,31,-1,FALSE,"9/24/1961",1961,"September","1960s",78,66,8
+"93","196109240gnb","Green Bay Packers",30,"San Francisco 49ers",10,40,20,TRUE,"9/24/1961",1961,"September","1960s",50,90,17
+"94","196110010clt","Baltimore Colts",34,"Minnesota Vikings",33,67,1,TRUE,"10/1/1961",1961,"October","1960s",58,73,6
+"95","196110010ram","Los Angeles Rams",24,"Pittsburgh Steelers",14,38,10,TRUE,"10/1/1961",1961,"October","1960s",62,78,9
+"96","196110010was","Washington Redskins",21,"New York Giants",24,45,-3,FALSE,"10/1/1961",1961,"October","1960s",64,68,4
+"97","196110010det","Detroit Lions",0,"San Francisco 49ers",49,49,-49,FALSE,"10/1/1961",1961,"October","1960s",59,73,16
+"98","196110010phi","Philadelphia Eagles",27,"St. Louis Cardinals",30,57,-3,FALSE,"10/1/1961",1961,"October","1960s",59,78,6
+"99","196110010cle","Cleveland Browns",25,"Dallas Cowboys",7,32,18,TRUE,"10/1/1961",1961,"October","1960s",62,65,15
+"100","196110010gnb","Green Bay Packers",24,"Chicago Bears",0,24,24,TRUE,"10/1/1961",1961,"October","1960s",46,76,19
+"101","196110080cle","Cleveland Browns",31,"Washington Redskins",7,38,24,TRUE,"10/8/1961",1961,"October","1960s",60,58,6
+"102","196110080gnb","Green Bay Packers",45,"Baltimore Colts",7,52,38,TRUE,"10/8/1961",1961,"October","1960s",60,71,11
+"103","196110080det","Detroit Lions",17,"Chicago Bears",31,48,-14,FALSE,"10/8/1961",1961,"October","1960s",60,71,7
+"104","196110080phi","Philadelphia Eagles",21,"Pittsburgh Steelers",16,37,5,TRUE,"10/8/1961",1961,"October","1960s",63,75,6
+"105","196110080sfo","San Francisco 49ers",35,"Los Angeles Rams",0,35,35,TRUE,"10/8/1961",1961,"October","1960s",61,37,25
+"106","196110080min","Minnesota Vikings",0,"Dallas Cowboys",28,28,-28,FALSE,"10/8/1961",1961,"October","1960s",66,67,7
+"107","196110080crd","St. Louis Cardinals",9,"New York Giants",24,33,-15,FALSE,"10/8/1961",1961,"October","1960s",67,59,12
+"108","196110150dal","Dallas Cowboys",10,"New York Giants",31,41,-21,FALSE,"10/15/1961",1961,"October","1960s",60,58,11
+"109","196110150det","Detroit Lions",14,"Los Angeles Rams",13,27,1,TRUE,"10/15/1961",1961,"October","1960s",42,78,9
+"110","196110150crd","St. Louis Cardinals",7,"Philadelphia Eagles",20,27,-13,FALSE,"10/15/1961",1961,"October","1960s",51,50,10
+"111","196110150cle","Cleveland Browns",17,"Green Bay Packers",49,66,-32,FALSE,"10/15/1961",1961,"October","1960s",44,62,16
+"112","196110150min","Minnesota Vikings",24,"San Francisco 49ers",38,62,-14,FALSE,"10/15/1961",1961,"October","1960s",56,63,10
+"113","196110150pit","Pittsburgh Steelers",20,"Washington Redskins",0,20,20,TRUE,"10/15/1961",1961,"October","1960s",39,88,15
+"114","196110150chi","Chicago Bears",24,"Baltimore Colts",10,34,14,TRUE,"10/15/1961",1961,"October","1960s",50,66,13
+"115","196110220nyg","New York Giants",24,"Los Angeles Rams",14,38,10,TRUE,"10/22/1961",1961,"October","1960s",52,65,26
+"116","196110220pit","Pittsburgh Steelers",28,"Cleveland Browns",30,58,-2,FALSE,"10/22/1961",1961,"October","1960s",50,70,11
+"117","196110220was","Washington Redskins",0,"St. Louis Cardinals",24,24,-24,FALSE,"10/22/1961",1961,"October","1960s",57,68,13
+"118","196110220chi","Chicago Bears",31,"San Francisco 49ers",0,31,31,TRUE,"10/22/1961",1961,"October","1960s",49,82,8
+"119","196110220dal","Dallas Cowboys",7,"Philadelphia Eagles",43,50,-36,FALSE,"10/22/1961",1961,"October","1960s",68,58,18
+"120","196110220det","Detroit Lions",14,"Baltimore Colts",17,31,-3,FALSE,"10/22/1961",1961,"October","1960s",50,72,8
+"121","196110220min","Minnesota Vikings",7,"Green Bay Packers",33,40,-26,FALSE,"10/22/1961",1961,"October","1960s",48,82,13
+"122","196110290pit","Pittsburgh Steelers",20,"San Francisco 49ers",10,30,10,TRUE,"10/29/1961",1961,"October","1960s",55,49,9
+"123","196110290clt","Baltimore Colts",20,"Chicago Bears",21,41,-1,FALSE,"10/29/1961",1961,"October","1960s",52,62,8
+"124","196110290nyg","New York Giants",16,"Dallas Cowboys",17,33,-1,FALSE,"10/29/1961",1961,"October","1960s",58,53,18
+"125","196110290crd","St. Louis Cardinals",10,"Cleveland Browns",21,31,-11,FALSE,"10/29/1961",1961,"October","1960s",68,60,18
+"126","196110290gnb","Green Bay Packers",28,"Minnesota Vikings",10,38,18,TRUE,"10/29/1961",1961,"October","1960s",57,87,16
+"127","196110290ram","Los Angeles Rams",10,"Detroit Lions",28,38,-18,FALSE,"10/29/1961",1961,"October","1960s",62,23,17
+"128","196110290was","Washington Redskins",24,"Philadelphia Eagles",27,51,-3,FALSE,"10/29/1961",1961,"October","1960s",58,48,4
+"129","196111050nyg","New York Giants",53,"Washington Redskins",0,53,53,TRUE,"11/5/1961",1961,"November","1960s",65,84,14
+"130","196111050clt","Baltimore Colts",45,"Green Bay Packers",21,66,24,TRUE,"11/5/1961",1961,"November","1960s",69,78,11
+"131","196111050phi","Philadelphia Eagles",16,"Chicago Bears",14,30,2,TRUE,"11/5/1961",1961,"November","1960s",68,81,9
+"132","196111050sfo","San Francisco 49ers",20,"Detroit Lions",20,40,0,FALSE,"11/5/1961",1961,"November","1960s",54,62,10
+"133","196111050cle","Cleveland Browns",13,"Pittsburgh Steelers",17,30,-4,FALSE,"11/5/1961",1961,"November","1960s",49,72,9
+"134","196111050dal","Dallas Cowboys",17,"St. Louis Cardinals",31,48,-14,FALSE,"11/5/1961",1961,"November","1960s",50,66,22
+"135","196111050ram","Los Angeles Rams",31,"Minnesota Vikings",17,48,14,TRUE,"11/5/1961",1961,"November","1960s",65,52,4
+"136","196111120chi","Chicago Bears",28,"Green Bay Packers",31,59,-3,FALSE,"11/12/1961",1961,"November","1960s",52,78,13
+"137","196111120was","Washington Redskins",6,"Cleveland Browns",17,23,-11,FALSE,"11/12/1961",1961,"November","1960s",48,67,4
+"138","196111120pit","Pittsburgh Steelers",37,"Dallas Cowboys",7,44,30,TRUE,"11/12/1961",1961,"November","1960s",50,77,6
+"139","196111120ram","Los Angeles Rams",17,"San Francisco 49ers",7,24,10,TRUE,"11/12/1961",1961,"November","1960s",59,73,5
+"140","196111120min","Minnesota Vikings",28,"Baltimore Colts",20,48,8,TRUE,"11/12/1961",1961,"November","1960s",50,77,12
+"141","196111120nyg","New York Giants",38,"Philadelphia Eagles",21,59,17,TRUE,"11/12/1961",1961,"November","1960s",49,63,11
+"142","196111120crd","St. Louis Cardinals",14,"Detroit Lions",45,59,-31,FALSE,"11/12/1961",1961,"November","1960s",55,84,14
+"143","196111190clt","Baltimore Colts",16,"St. Louis Cardinals",0,16,16,TRUE,"11/19/1961",1961,"November","1960s",34,61,8
+"144","196111190gnb","Green Bay Packers",35,"Los Angeles Rams",17,52,18,TRUE,"11/19/1961",1961,"November","1960s",26,81,5
+"145","196111190cle","Cleveland Browns",45,"Philadelphia Eagles",24,69,21,TRUE,"11/19/1961",1961,"November","1960s",35,59,10
+"146","196111190min","Minnesota Vikings",10,"Detroit Lions",37,47,-27,FALSE,"11/19/1961",1961,"November","1960s",23,76,7
+"147","196111190dal","Dallas Cowboys",28,"Washington Redskins",28,56,0,FALSE,"11/19/1961",1961,"November","1960s",43,87,9
+"148","196111190sfo","San Francisco 49ers",41,"Chicago Bears",31,72,10,TRUE,"11/19/1961",1961,"November","1960s",48,79,7
+"149","196111190nyg","New York Giants",42,"Pittsburgh Steelers",21,63,21,TRUE,"11/19/1961",1961,"November","1960s",39,48,18
+"150","196111230det","Detroit Lions",9,"Green Bay Packers",17,26,-8,FALSE,"11/23/1961",1961,"November","1960s",43,97,8
+"151","196111260sfo","San Francisco 49ers",38,"Minnesota Vikings",28,66,10,TRUE,"11/26/1961",1961,"November","1960s",53,86,9
+"152","196111260cle","Cleveland Browns",21,"New York Giants",37,58,-16,FALSE,"11/26/1961",1961,"November","1960s",48,52,16
+"153","196111260was","Washington Redskins",6,"Baltimore Colts",27,33,-21,FALSE,"11/26/1961",1961,"November","1960s",48,51,4
+"154","196111260chi","Chicago Bears",28,"Los Angeles Rams",24,52,4,TRUE,"11/26/1961",1961,"November","1960s",49,70,12
+"155","196111260pit","Pittsburgh Steelers",30,"St. Louis Cardinals",27,57,3,TRUE,"11/26/1961",1961,"November","1960s",45,57,9
+"156","196111260phi","Philadelphia Eagles",35,"Dallas Cowboys",13,48,22,TRUE,"11/26/1961",1961,"November","1960s",45,41,8
+"157","196112030clt","Baltimore Colts",20,"San Francisco 49ers",17,37,3,TRUE,"12/3/1961",1961,"December","1960s",47,58,8
+"158","196112030dal","Dallas Cowboys",17,"Cleveland Browns",38,55,-21,FALSE,"12/3/1961",1961,"December","1960s",64,84,18
+"159","196112030crd","St. Louis Cardinals",38,"Washington Redskins",24,62,14,TRUE,"12/3/1961",1961,"December","1960s",52,77,13
+"160","196112030pit","Pittsburgh Steelers",24,"Philadelphia Eagles",35,59,-11,FALSE,"12/3/1961",1961,"December","1960s",42,82,5
+"161","196112030min","Minnesota Vikings",42,"Los Angeles Rams",21,63,21,TRUE,"12/3/1961",1961,"December","1960s",37,100,13
+"162","196112030gnb","Green Bay Packers",20,"New York Giants",17,37,3,TRUE,"12/3/1961",1961,"December","1960s",38,96,8
+"163","196112030chi","Chicago Bears",15,"Detroit Lions",16,31,-1,FALSE,"12/3/1961",1961,"December","1960s",44,84,10
+"164","196112090ram","Los Angeles Rams",34,"Baltimore Colts",17,51,17,TRUE,"12/9/1961",1961,"December","1960s",52,79,5
+"165","196112100was","Washington Redskins",14,"Pittsburgh Steelers",30,44,-16,FALSE,"12/10/1961",1961,"December","1960s",34,90,1
+"166","196112100chi","Chicago Bears",17,"Cleveland Browns",14,31,3,TRUE,"12/10/1961",1961,"December","1960s",30,87,15
+"167","196112100phi","Philadelphia Eagles",24,"New York Giants",28,52,-4,FALSE,"12/10/1961",1961,"December","1960s",30,91,7
+"168","196112100det","Detroit Lions",13,"Minnesota Vikings",7,20,6,TRUE,"12/10/1961",1961,"December","1960s",36,92,11
+"169","196112100crd","St. Louis Cardinals",31,"Dallas Cowboys",13,44,18,TRUE,"12/10/1961",1961,"December","1960s",34,84,11
+"170","196112100sfo","San Francisco 49ers",22,"Green Bay Packers",21,43,1,TRUE,"12/10/1961",1961,"December","1960s",48,72,12
+"171","196112160sfo","San Francisco 49ers",24,"Baltimore Colts",27,51,-3,FALSE,"12/16/1961",1961,"December","1960s",44,88,4
+"172","196112170nyg","New York Giants",7,"Cleveland Browns",7,14,0,FALSE,"12/17/1961",1961,"December","1960s",31,82,16
+"173","196112170was","Washington Redskins",34,"Dallas Cowboys",24,58,10,TRUE,"12/17/1961",1961,"December","1960s",34,89,2
+"174","196112170chi","Chicago Bears",52,"Minnesota Vikings",35,87,17,TRUE,"12/17/1961",1961,"December","1960s",33,91,13
+"175","196112170crd","St. Louis Cardinals",20,"Pittsburgh Steelers",0,20,20,TRUE,"12/17/1961",1961,"December","1960s",38,87,9
+"176","196112170ram","Los Angeles Rams",17,"Green Bay Packers",24,41,-7,FALSE,"12/17/1961",1961,"December","1960s",52,78,8
+"177","196112170det","Detroit Lions",24,"Philadelphia Eagles",27,51,-3,FALSE,"12/17/1961",1961,"December","1960s",35,92,9
+"178","196112310gnb","Green Bay Packers",37,"New York Giants",0,37,37,TRUE,"12/31/1961",1961,"December","1960s",17,82,10
+"179","196209160sfo","San Francisco 49ers",14,"Chicago Bears",30,44,-16,FALSE,"9/16/1962",1962,"September","1960s",64,70,13
+"180","196209160cle","Cleveland Browns",17,"New York Giants",7,24,10,TRUE,"9/16/1962",1962,"September","1960s",67,64,8
+"181","196209160phi","Philadelphia Eagles",21,"St. Louis Cardinals",27,48,-6,FALSE,"9/16/1962",1962,"September","1960s",67,51,7
+"182","196209160det","Detroit Lions",45,"Pittsburgh Steelers",7,52,38,TRUE,"9/16/1962",1962,"September","1960s",65,69,9
+"183","196209160gnb","Green Bay Packers",34,"Minnesota Vikings",7,41,27,TRUE,"9/16/1962",1962,"September","1960s",62,79,9
+"184","196209160clt","Baltimore Colts",30,"Los Angeles Rams",27,57,3,TRUE,"9/16/1962",1962,"September","1960s",68,56,8
+"185","196209160dal","Dallas Cowboys",35,"Washington Redskins",35,70,0,FALSE,"9/16/1962",1962,"September","1960s",79,72,9
+"186","196209230phi","Philadelphia Eagles",13,"New York Giants",29,42,-16,FALSE,"9/23/1962",1962,"September","1960s",61,66,15
+"187","196209230min","Minnesota Vikings",7,"Baltimore Colts",34,41,-27,FALSE,"9/23/1962",1962,"September","1960s",53,79,9
+"188","196209230cle","Cleveland Browns",16,"Washington Redskins",17,33,-1,FALSE,"9/23/1962",1962,"September","1960s",58,74,7
+"189","196209230gnb","Green Bay Packers",17,"St. Louis Cardinals",0,17,17,TRUE,"9/23/1962",1962,"September","1960s",54,82,10
+"190","196209230det","Detroit Lions",45,"San Francisco 49ers",24,69,21,TRUE,"9/23/1962",1962,"September","1960s",54,78,8
+"191","196209230ram","Los Angeles Rams",23,"Chicago Bears",27,50,-4,FALSE,"9/23/1962",1962,"September","1960s",68,76,9
+"192","196209230dal","Dallas Cowboys",28,"Pittsburgh Steelers",30,58,-2,FALSE,"9/23/1962",1962,"September","1960s",77,56,11
+"193","196209300pit","Pittsburgh Steelers",27,"New York Giants",31,58,-4,FALSE,"9/30/1962",1962,"September","1960s",51,67,6
+"194","196209300clt","Baltimore Colts",20,"Detroit Lions",29,49,-9,FALSE,"9/30/1962",1962,"September","1960s",57,68,8
+"195","196209300was","Washington Redskins",24,"St. Louis Cardinals",14,38,10,TRUE,"9/30/1962",1962,"September","1960s",61,62,3
+"196","196209300phi","Philadelphia Eagles",35,"Cleveland Browns",7,42,28,TRUE,"9/30/1962",1962,"September","1960s",56,69,8
+"197","196209300ram","Los Angeles Rams",17,"Dallas Cowboys",27,44,-10,FALSE,"9/30/1962",1962,"September","1960s",66,84,7
+"198","196209300gnb","Green Bay Packers",49,"Chicago Bears",0,49,49,TRUE,"9/30/1962",1962,"September","1960s",54,66,3
+"199","196209300sfo","San Francisco 49ers",21,"Minnesota Vikings",7,28,14,TRUE,"9/30/1962",1962,"September","1960s",62,70,10
+"200","196210060pit","Pittsburgh Steelers",13,"Philadelphia Eagles",7,20,6,TRUE,"10/6/1962",1962,"October","1960s",55,83,5
+"201","196210070clt","Baltimore Colts",13,"San Francisco 49ers",21,34,-8,FALSE,"10/7/1962",1962,"October","1960s",64,67,12
+"202","196210070min","Minnesota Vikings",0,"Chicago Bears",13,13,-13,FALSE,"10/7/1962",1962,"October","1960s",56,93,10
+"203","196210070gnb","Green Bay Packers",9,"Detroit Lions",7,16,2,TRUE,"10/7/1962",1962,"October","1960s",56,94,8
+"204","196210070cle","Cleveland Browns",19,"Dallas Cowboys",10,29,9,TRUE,"10/7/1962",1962,"October","1960s",58,82,5
+"205","196210070was","Washington Redskins",20,"Los Angeles Rams",14,34,6,TRUE,"10/7/1962",1962,"October","1960s",67,59,11
+"206","196210070crd","St. Louis Cardinals",14,"New York Giants",31,45,-17,FALSE,"10/7/1962",1962,"October","1960s",71,74,6
+"207","196210140nyg","New York Giants",17,"Pittsburgh Steelers",20,37,-3,FALSE,"10/14/1962",1962,"October","1960s",57,36,9
+"208","196210140dal","Dallas Cowboys",41,"Philadelphia Eagles",19,60,22,TRUE,"10/14/1962",1962,"October","1960s",77,75,12
+"209","196210140min","Minnesota Vikings",21,"Green Bay Packers",48,69,-27,FALSE,"10/14/1962",1962,"October","1960s",70,90,11
+"210","196210140crd","St. Louis Cardinals",17,"Washington Redskins",17,34,0,FALSE,"10/14/1962",1962,"October","1960s",71,80,5
+"211","196210140det","Detroit Lions",13,"Los Angeles Rams",10,23,3,TRUE,"10/14/1962",1962,"October","1960s",61,82,6
+"212","196210140chi","Chicago Bears",27,"San Francisco 49ers",34,61,-7,FALSE,"10/14/1962",1962,"October","1960s",70,74,11
+"213","196210140cle","Cleveland Browns",14,"Baltimore Colts",36,50,-22,FALSE,"10/14/1962",1962,"October","1960s",63,70,6
+"214","196210210gnb","Green Bay Packers",31,"San Francisco 49ers",13,44,18,TRUE,"10/21/1962",1962,"October","1960s",46,72,11
+"215","196210210crd","St. Louis Cardinals",7,"Cleveland Browns",34,41,-27,FALSE,"10/21/1962",1962,"October","1960s",57,70,12
+"216","196210210nyg","New York Giants",17,"Detroit Lions",14,31,3,TRUE,"10/21/1962",1962,"October","1960s",61,64,10
+"217","196210210phi","Philadelphia Eagles",21,"Washington Redskins",27,48,-6,FALSE,"10/21/1962",1962,"October","1960s",60,62,9
+"218","196210210ram","Los Angeles Rams",14,"Minnesota Vikings",38,52,-24,FALSE,"10/21/1962",1962,"October","1960s",64,74,8
+"219","196210210pit","Pittsburgh Steelers",27,"Dallas Cowboys",42,69,-15,FALSE,"10/21/1962",1962,"October","1960s",58,60,11
+"220","196210210chi","Chicago Bears",35,"Baltimore Colts",15,50,20,TRUE,"10/21/1962",1962,"October","1960s",49,72,11
+"221","196210280min","Minnesota Vikings",31,"Philadelphia Eagles",21,52,10,TRUE,"10/28/1962",1962,"October","1960s",48,69,13
+"222","196210280dal","Dallas Cowboys",24,"St. Louis Cardinals",28,52,-4,FALSE,"10/28/1962",1962,"October","1960s",68,79,16
+"223","196210280pit","Pittsburgh Steelers",14,"Cleveland Browns",41,55,-27,FALSE,"10/28/1962",1962,"October","1960s",50,51,18
+"224","196210280det","Detroit Lions",11,"Chicago Bears",3,14,8,TRUE,"10/28/1962",1962,"October","1960s",52,67,15
+"225","196210280nyg","New York Giants",49,"Washington Redskins",34,83,15,TRUE,"10/28/1962",1962,"October","1960s",50,47,17
+"226","196210280clt","Baltimore Colts",6,"Green Bay Packers",17,23,-11,FALSE,"10/28/1962",1962,"October","1960s",50,38,12
+"227","196210280sfo","San Francisco 49ers",14,"Los Angeles Rams",28,42,-14,FALSE,"10/28/1962",1962,"October","1960s",56,87,8
+"228","196211040chi","Chicago Bears",7,"Green Bay Packers",38,45,-31,FALSE,"11/4/1962",1962,"November","1960s",36,90,12
+"229","196211040nyg","New York Giants",31,"St. Louis Cardinals",28,59,3,TRUE,"11/4/1962",1962,"November","1960s",42,74,14
+"230","196211040ram","Los Angeles Rams",3,"Detroit Lions",12,15,-9,FALSE,"11/4/1962",1962,"November","1960s",60,86,7
+"231","196211040was","Washington Redskins",10,"Dallas Cowboys",38,48,-28,FALSE,"11/4/1962",1962,"November","1960s",42,79,8
+"232","196211040sfo","San Francisco 49ers",3,"Baltimore Colts",22,25,-19,FALSE,"11/4/1962",1962,"November","1960s",57,85,11
+"233","196211040cle","Cleveland Browns",14,"Philadelphia Eagles",14,28,0,FALSE,"11/4/1962",1962,"November","1960s",42,84,8
+"234","196211040pit","Pittsburgh Steelers",39,"Minnesota Vikings",31,70,8,TRUE,"11/4/1962",1962,"November","1960s",39,79,7
+"235","196211110was","Washington Redskins",17,"Cleveland Browns",9,26,8,TRUE,"11/11/1962",1962,"November","1960s",54,63,19
+"236","196211110phi","Philadelphia Eagles",0,"Green Bay Packers",49,49,-49,FALSE,"11/11/1962",1962,"November","1960s",50,69,16
+"237","196211110chi","Chicago Bears",31,"Minnesota Vikings",30,61,1,TRUE,"11/11/1962",1962,"November","1960s",41,78,9
+"238","196211110crd","St. Louis Cardinals",17,"Pittsburgh Steelers",26,43,-9,FALSE,"11/11/1962",1962,"November","1960s",44,56,9
+"239","196211110dal","Dallas Cowboys",10,"New York Giants",41,51,-31,FALSE,"11/11/1962",1962,"November","1960s",66,43,20
+"240","196211110ram","Los Angeles Rams",2,"Baltimore Colts",14,16,-12,FALSE,"11/11/1962",1962,"November","1960s",58,85,7
+"241","196211110sfo","San Francisco 49ers",24,"Detroit Lions",38,62,-14,FALSE,"11/11/1962",1962,"November","1960s",56,85,8
+"242","196211180gnb","Green Bay Packers",17,"Baltimore Colts",13,30,4,TRUE,"11/18/1962",1962,"November","1960s",35,65,5
+"243","196211180min","Minnesota Vikings",6,"Detroit Lions",17,23,-11,FALSE,"11/18/1962",1962,"November","1960s",30,63,8
+"244","196211180cle","Cleveland Browns",38,"St. Louis Cardinals",14,52,24,TRUE,"11/18/1962",1962,"November","1960s",40,79,10
+"245","196211180pit","Pittsburgh Steelers",23,"Washington Redskins",21,44,2,TRUE,"11/18/1962",1962,"November","1960s",37,88,13
+"246","196211180nyg","New York Giants",19,"Philadelphia Eagles",14,33,5,TRUE,"11/18/1962",1962,"November","1960s",41,75,13
+"247","196211180dal","Dallas Cowboys",33,"Chicago Bears",34,67,-1,FALSE,"11/18/1962",1962,"November","1960s",42,80,16
+"248","196211180ram","Los Angeles Rams",17,"San Francisco 49ers",24,41,-7,FALSE,"11/18/1962",1962,"November","1960s",58,32,13
+"249","196211220det","Detroit Lions",26,"Green Bay Packers",14,40,12,TRUE,"11/22/1962",1962,"November","1960s",37,70,15
+"250","196211250was","Washington Redskins",24,"New York Giants",42,66,-18,FALSE,"11/25/1962",1962,"November","1960s",41,55,6
+"251","196211250min","Minnesota Vikings",24,"Los Angeles Rams",24,48,0,FALSE,"11/25/1962",1962,"November","1960s",30,76,10
+"252","196211250crd","St. Louis Cardinals",17,"San Francisco 49ers",24,41,-7,FALSE,"11/25/1962",1962,"November","1960s",45,58,6
+"253","196211250cle","Cleveland Browns",35,"Pittsburgh Steelers",14,49,21,TRUE,"11/25/1962",1962,"November","1960s",36,75,8
+"254","196211250phi","Philadelphia Eagles",28,"Dallas Cowboys",14,42,14,TRUE,"11/25/1962",1962,"November","1960s",37,53,8
+"255","196211250clt","Baltimore Colts",0,"Chicago Bears",57,57,-57,FALSE,"11/25/1962",1962,"November","1960s",35,59,8
+"256","196212020was","Washington Redskins",14,"Philadelphia Eagles",37,51,-23,FALSE,"12/2/1962",1962,"December","1960s",50,39,5
+"257","196212020dal","Dallas Cowboys",45,"Cleveland Browns",21,66,24,TRUE,"12/2/1962",1962,"December","1960s",59,88,12
+"258","196212020det","Detroit Lions",21,"Baltimore Colts",14,35,7,TRUE,"12/2/1962",1962,"December","1960s",34,84,3
+"259","196212020chi","Chicago Bears",24,"New York Giants",26,50,-2,FALSE,"12/2/1962",1962,"December","1960s",41,74,6
+"260","196212020pit","Pittsburgh Steelers",19,"St. Louis Cardinals",7,26,12,TRUE,"12/2/1962",1962,"December","1960s",41,44,3
+"261","196212020min","Minnesota Vikings",12,"San Francisco 49ers",35,47,-23,FALSE,"12/2/1962",1962,"December","1960s",53,70,12
+"262","196212020gnb","Green Bay Packers",41,"Los Angeles Rams",10,51,31,TRUE,"12/2/1962",1962,"December","1960s",40,77,6
+"263","196212080clt","Baltimore Colts",34,"Washington Redskins",21,55,13,TRUE,"12/8/1962",1962,"December","1960s",35,54,12
+"264","196212090det","Detroit Lions",37,"Minnesota Vikings",23,60,14,TRUE,"12/9/1962",1962,"December","1960s",20,81,10
+"265","196212090crd","St. Louis Cardinals",52,"Dallas Cowboys",20,72,32,TRUE,"12/9/1962",1962,"December","1960s",26,46,20
+"266","196212090sfo","San Francisco 49ers",21,"Green Bay Packers",31,52,-10,FALSE,"12/9/1962",1962,"December","1960s",48,94,8
+"267","196212090nyg","New York Giants",17,"Cleveland Browns",13,30,4,TRUE,"12/9/1962",1962,"December","1960s",35,62,10
+"268","196212090chi","Chicago Bears",30,"Los Angeles Rams",14,44,16,TRUE,"12/9/1962",1962,"December","1960s",20,76,14
+"269","196212090phi","Philadelphia Eagles",17,"Pittsburgh Steelers",26,43,-9,FALSE,"12/9/1962",1962,"December","1960s",35,55,9
+"270","196212150sfo","San Francisco 49ers",10,"Cleveland Browns",13,23,-3,FALSE,"12/15/1962",1962,"December","1960s",60,87,14
+"271","196212160was","Washington Redskins",24,"Pittsburgh Steelers",27,51,-3,FALSE,"12/16/1962",1962,"December","1960s",35,55,6
+"272","196212160chi","Chicago Bears",3,"Detroit Lions",0,3,3,TRUE,"12/16/1962",1962,"December","1960s",30,69,10
+"273","196212160ram","Los Angeles Rams",17,"Green Bay Packers",20,37,-3,FALSE,"12/16/1962",1962,"December","1960s",60,83,10
+"274","196212160nyg","New York Giants",41,"Dallas Cowboys",31,72,10,TRUE,"12/16/1962",1962,"December","1960s",27,78,11
+"275","196212160crd","St. Louis Cardinals",45,"Philadelphia Eagles",35,80,10,TRUE,"12/16/1962",1962,"December","1960s",33,75,6
+"276","196212160clt","Baltimore Colts",42,"Minnesota Vikings",17,59,25,TRUE,"12/16/1962",1962,"December","1960s",30,63,10
+"277","196212300nyg","New York Giants",7,"Green Bay Packers",16,23,-9,FALSE,"12/30/1962",1962,"December","1960s",25,58,27
+"278","196309140dal","Dallas Cowboys",7,"St. Louis Cardinals",34,41,-27,FALSE,"9/14/1963",1963,"September","1960s",76,79,9
+"279","196309140ram","Los Angeles Rams",2,"Detroit Lions",23,25,-21,FALSE,"9/14/1963",1963,"September","1960s",70,77,10
+"280","196309150gnb","Green Bay Packers",3,"Chicago Bears",10,13,-7,FALSE,"9/15/1963",1963,"September","1960s",54,76,7
+"281","196309150sfo","San Francisco 49ers",20,"Minnesota Vikings",24,44,-4,FALSE,"9/15/1963",1963,"September","1960s",64,73,17
+"282","196309150cle","Cleveland Browns",37,"Washington Redskins",14,51,23,TRUE,"9/15/1963",1963,"September","1960s",59,65,9
+"283","196309150clt","Baltimore Colts",28,"New York Giants",37,65,-9,FALSE,"9/15/1963",1963,"September","1960s",54,78,11
+"284","196309150phi","Philadelphia Eagles",21,"Pittsburgh Steelers",21,42,0,FALSE,"9/15/1963",1963,"September","1960s",55,77,13
+"285","196309210ram","Los Angeles Rams",14,"Washington Redskins",37,51,-23,FALSE,"9/21/1963",1963,"September","1960s",70,78,8
+"286","196309220sfo","San Francisco 49ers",14,"Baltimore Colts",20,34,-6,FALSE,"9/22/1963",1963,"September","1960s",62,73,10
+"287","196309220pit","Pittsburgh Steelers",31,"New York Giants",0,31,31,TRUE,"9/22/1963",1963,"September","1960s",52,63,12
+"288","196309220phi","Philadelphia Eagles",24,"St. Louis Cardinals",28,52,-4,FALSE,"9/22/1963",1963,"September","1960s",56,59,14
+"289","196309220min","Minnesota Vikings",7,"Chicago Bears",28,35,-21,FALSE,"9/22/1963",1963,"September","1960s",51,78,9
+"290","196309220dal","Dallas Cowboys",24,"Cleveland Browns",41,65,-17,FALSE,"9/22/1963",1963,"September","1960s",77,57,9
+"291","196309220gnb","Green Bay Packers",31,"Detroit Lions",10,41,21,TRUE,"9/22/1963",1963,"September","1960s",56,70,14
+"292","196309290phi","Philadelphia Eagles",14,"New York Giants",37,51,-23,FALSE,"9/29/1963",1963,"September","1960s",64,81,12
+"293","196309290det","Detroit Lions",21,"Chicago Bears",37,58,-16,FALSE,"9/29/1963",1963,"September","1960s",54,76,13
+"294","196309290min","Minnesota Vikings",45,"San Francisco 49ers",14,59,31,TRUE,"9/29/1963",1963,"September","1960s",48,84,9
+"295","196309290gnb","Green Bay Packers",31,"Baltimore Colts",20,51,11,TRUE,"9/29/1963",1963,"September","1960s",47,79,10
+"296","196309290pit","Pittsburgh Steelers",23,"St. Louis Cardinals",10,33,13,TRUE,"9/29/1963",1963,"September","1960s",61,62,12
+"297","196309290cle","Cleveland Browns",20,"Los Angeles Rams",6,26,14,TRUE,"9/29/1963",1963,"September","1960s",56,77,12
+"298","196309290was","Washington Redskins",21,"Dallas Cowboys",17,38,4,TRUE,"9/29/1963",1963,"September","1960s",67,69,9
+"299","196310050cle","Cleveland Browns",35,"Pittsburgh Steelers",23,58,12,TRUE,"10/5/1963",1963,"October","1960s",54,55,7
+"300","196310060chi","Chicago Bears",10,"Baltimore Colts",3,13,7,TRUE,"10/6/1963",1963,"October","1960s",73,37,11
+"301","196310060gnb","Green Bay Packers",42,"Los Angeles Rams",10,52,32,TRUE,"10/6/1963",1963,"October","1960s",67,59,13
+"302","196310060det","Detroit Lions",26,"San Francisco 49ers",3,29,23,TRUE,"10/6/1963",1963,"October","1960s",64,52,10
+"303","196310060was","Washington Redskins",14,"New York Giants",24,38,-10,FALSE,"10/6/1963",1963,"October","1960s",60,56,4
+"304","196310060phi","Philadelphia Eagles",24,"Dallas Cowboys",21,45,3,TRUE,"10/6/1963",1963,"October","1960s",56,62,9
+"305","196310060min","Minnesota Vikings",14,"St. Louis Cardinals",56,70,-42,FALSE,"10/6/1963",1963,"October","1960s",71,40,9
+"306","196310130clt","Baltimore Colts",20,"San Francisco 49ers",3,23,17,TRUE,"10/13/1963",1963,"October","1960s",51,54,8
+"307","196310130crd","St. Louis Cardinals",24,"Pittsburgh Steelers",23,47,1,TRUE,"10/13/1963",1963,"October","1960s",64,41,13
+"308","196310130nyg","New York Giants",24,"Cleveland Browns",35,59,-11,FALSE,"10/13/1963",1963,"October","1960s",55,45,12
+"309","196310130min","Minnesota Vikings",28,"Green Bay Packers",37,65,-9,FALSE,"10/13/1963",1963,"October","1960s",56,63,9
+"310","196310130was","Washington Redskins",24,"Philadelphia Eagles",37,61,-13,FALSE,"10/13/1963",1963,"October","1960s",57,48,3
+"311","196310130dal","Dallas Cowboys",17,"Detroit Lions",14,31,3,TRUE,"10/13/1963",1963,"October","1960s",76,37,8
+"312","196310130ram","Los Angeles Rams",14,"Chicago Bears",52,66,-38,FALSE,"10/13/1963",1963,"October","1960s",66,63,9
+"313","196310200crd","St. Louis Cardinals",7,"Green Bay Packers",30,37,-23,FALSE,"10/20/1963",1963,"October","1960s",72,54,8
+"314","196310200nyg","New York Giants",37,"Dallas Cowboys",21,58,16,TRUE,"10/20/1963",1963,"October","1960s",62,80,7
+"315","196310200ram","Los Angeles Rams",27,"Minnesota Vikings",24,51,3,TRUE,"10/20/1963",1963,"October","1960s",66,72,11
+"316","196310200pit","Pittsburgh Steelers",38,"Washington Redskins",27,65,11,TRUE,"10/20/1963",1963,"October","1960s",66,39,5
+"317","196310200sfo","San Francisco 49ers",20,"Chicago Bears",14,34,6,TRUE,"10/20/1963",1963,"October","1960s",61,70,11
+"318","196310200cle","Cleveland Browns",37,"Philadelphia Eagles",7,44,30,TRUE,"10/20/1963",1963,"October","1960s",63,52,7
+"319","196310200det","Detroit Lions",21,"Baltimore Colts",25,46,-4,FALSE,"10/20/1963",1963,"October","1960s",62,74,6
+"320","196310270ram","Los Angeles Rams",28,"San Francisco 49ers",21,49,7,TRUE,"10/27/1963",1963,"October","1960s",66,79,7
+"321","196310270pit","Pittsburgh Steelers",27,"Dallas Cowboys",21,48,6,TRUE,"10/27/1963",1963,"October","1960s",65,64,7
+"322","196310270was","Washington Redskins",7,"St. Louis Cardinals",21,28,-14,FALSE,"10/27/1963",1963,"October","1960s",68,69,3
+"323","196310270cle","Cleveland Browns",6,"New York Giants",33,39,-27,FALSE,"10/27/1963",1963,"October","1960s",60,80,9
+"324","196310270det","Detroit Lions",28,"Minnesota Vikings",10,38,18,TRUE,"10/27/1963",1963,"October","1960s",62,57,10
+"325","196310270clt","Baltimore Colts",20,"Green Bay Packers",34,54,-14,FALSE,"10/27/1963",1963,"October","1960s",62,77,5
+"326","196310270chi","Chicago Bears",16,"Philadelphia Eagles",7,23,9,TRUE,"10/27/1963",1963,"October","1960s",59,51,9
+"327","196311030phi","Philadelphia Eagles",17,"Cleveland Browns",23,40,-6,FALSE,"11/3/1963",1963,"November","1960s",43,51,18
+"328","196311030min","Minnesota Vikings",21,"Los Angeles Rams",13,34,8,TRUE,"11/3/1963",1963,"November","1960s",45,47,12
+"329","196311030dal","Dallas Cowboys",35,"Washington Redskins",20,55,15,TRUE,"11/3/1963",1963,"November","1960s",57,50,16
+"330","196311030sfo","San Francisco 49ers",7,"Detroit Lions",45,52,-38,FALSE,"11/3/1963",1963,"November","1960s",54,74,8
+"331","196311030gnb","Green Bay Packers",33,"Pittsburgh Steelers",14,47,19,TRUE,"11/3/1963",1963,"November","1960s",37,53,12
+"332","196311030crd","St. Louis Cardinals",21,"New York Giants",38,59,-17,FALSE,"11/3/1963",1963,"November","1960s",43,47,10
+"333","196311030clt","Baltimore Colts",7,"Chicago Bears",17,24,-10,FALSE,"11/3/1963",1963,"November","1960s",44,51,18
+"334","196311100sfo","San Francisco 49ers",31,"Dallas Cowboys",24,55,7,TRUE,"11/10/1963",1963,"November","1960s",57,89,7
+"335","196311100nyg","New York Giants",42,"Philadelphia Eagles",14,56,28,TRUE,"11/10/1963",1963,"November","1960s",55,72,10
+"336","196311100crd","St. Louis Cardinals",24,"Washington Redskins",20,44,4,TRUE,"11/10/1963",1963,"November","1960s",54,62,9
+"337","196311100chi","Chicago Bears",6,"Los Angeles Rams",0,6,6,TRUE,"11/10/1963",1963,"November","1960s",49,72,11
+"338","196311100pit","Pittsburgh Steelers",9,"Cleveland Browns",7,16,2,TRUE,"11/10/1963",1963,"November","1960s",47,66,7
+"339","196311100clt","Baltimore Colts",24,"Detroit Lions",21,45,3,TRUE,"11/10/1963",1963,"November","1960s",50,73,6
+"340","196311100gnb","Green Bay Packers",28,"Minnesota Vikings",7,35,21,TRUE,"11/10/1963",1963,"November","1960s",44,67,12
+"341","196311170was","Washington Redskins",28,"Pittsburgh Steelers",34,62,-6,FALSE,"11/17/1963",1963,"November","1960s",60,40,4
+"342","196311170det","Detroit Lions",21,"Los Angeles Rams",28,49,-7,FALSE,"11/17/1963",1963,"November","1960s",56,66,11
+"343","196311170nyg","New York Giants",48,"San Francisco 49ers",14,62,34,TRUE,"11/17/1963",1963,"November","1960s",55,51,10
+"344","196311170min","Minnesota Vikings",34,"Baltimore Colts",37,71,-3,FALSE,"11/17/1963",1963,"November","1960s",43,69,7
+"345","196311170dal","Dallas Cowboys",27,"Philadelphia Eagles",20,47,7,TRUE,"11/17/1963",1963,"November","1960s",72,64,18
+"346","196311170chi","Chicago Bears",26,"Green Bay Packers",7,33,19,TRUE,"11/17/1963",1963,"November","1960s",62,74,16
+"347","196311170cle","Cleveland Browns",14,"St. Louis Cardinals",20,34,-6,FALSE,"11/17/1963",1963,"November","1960s",54,56,16
+"348","196311240ram","Los Angeles Rams",17,"Baltimore Colts",16,33,1,TRUE,"11/24/1963",1963,"November","1960s",59,76,8
+"349","196311240cle","Cleveland Browns",27,"Dallas Cowboys",17,44,10,TRUE,"11/24/1963",1963,"November","1960s",35,64,11
+"350","196311240gnb","Green Bay Packers",28,"San Francisco 49ers",10,38,18,TRUE,"11/24/1963",1963,"November","1960s",31,63,8
+"351","196311240nyg","New York Giants",17,"St. Louis Cardinals",24,41,-7,FALSE,"11/24/1963",1963,"November","1960s",48,56,19
+"352","196311240pit","Pittsburgh Steelers",17,"Chicago Bears",17,34,0,FALSE,"11/24/1963",1963,"November","1960s",35,63,15
+"353","196311240min","Minnesota Vikings",34,"Detroit Lions",31,65,3,TRUE,"11/24/1963",1963,"November","1960s",25,70,12
+"354","196311240phi","Philadelphia Eagles",10,"Washington Redskins",13,23,-3,FALSE,"11/24/1963",1963,"November","1960s",47,60,14
+"355","196311280det","Detroit Lions",13,"Green Bay Packers",13,26,0,FALSE,"11/28/1963",1963,"November","1960s",40,77,8
+"356","196312010crd","St. Louis Cardinals",10,"Cleveland Browns",24,34,-14,FALSE,"12/1/1963",1963,"December","1960s",34,62,12
+"357","196312010was","Washington Redskins",20,"Baltimore Colts",36,56,-16,FALSE,"12/1/1963",1963,"December","1960s",38,44,11
+"358","196312010pit","Pittsburgh Steelers",20,"Philadelphia Eagles",20,40,0,FALSE,"12/1/1963",1963,"December","1960s",26,78,13
+"359","196312010chi","Chicago Bears",17,"Minnesota Vikings",17,34,0,FALSE,"12/1/1963",1963,"December","1960s",23,72,10
+"360","196312010sfo","San Francisco 49ers",17,"Los Angeles Rams",21,38,-4,FALSE,"12/1/1963",1963,"December","1960s",48,83,8
+"361","196312010dal","Dallas Cowboys",27,"New York Giants",34,61,-7,FALSE,"12/1/1963",1963,"December","1960s",51,47,12
+"362","196312070ram","Los Angeles Rams",14,"Green Bay Packers",31,45,-17,FALSE,"12/7/1963",1963,"December","1960s",55,76,7
+"363","196312080chi","Chicago Bears",27,"San Francisco 49ers",7,34,20,TRUE,"12/8/1963",1963,"December","1960s",36,86,15
+"364","196312080nyg","New York Giants",44,"Washington Redskins",14,58,30,TRUE,"12/8/1963",1963,"December","1960s",44,72,12
+"365","196312080det","Detroit Lions",38,"Cleveland Browns",10,48,28,TRUE,"12/8/1963",1963,"December","1960s",39,74,12
+"366","196312080crd","St. Louis Cardinals",38,"Philadelphia Eagles",14,52,24,TRUE,"12/8/1963",1963,"December","1960s",35,66,22
+"367","196312080dal","Dallas Cowboys",19,"Pittsburgh Steelers",24,43,-5,FALSE,"12/8/1963",1963,"December","1960s",47,26,21
+"368","196312080clt","Baltimore Colts",41,"Minnesota Vikings",10,51,31,TRUE,"12/8/1963",1963,"December","1960s",42,76,11
+"369","196312140sfo","San Francisco 49ers",17,"Green Bay Packers",21,38,-4,FALSE,"12/14/1963",1963,"December","1960s",42,82,7
+"370","196312150crd","St. Louis Cardinals",24,"Dallas Cowboys",28,52,-4,FALSE,"12/15/1963",1963,"December","1960s",6,65,11
+"371","196312150chi","Chicago Bears",24,"Detroit Lions",14,38,10,TRUE,"12/15/1963",1963,"December","1960s",1,74,11
+"372","196312150clt","Baltimore Colts",19,"Los Angeles Rams",16,35,3,TRUE,"12/15/1963",1963,"December","1960s",21,50,19
+"373","196312150nyg","New York Giants",33,"Pittsburgh Steelers",17,50,16,TRUE,"12/15/1963",1963,"December","1960s",23,51,20
+"374","196312150was","Washington Redskins",20,"Cleveland Browns",27,47,-7,FALSE,"12/15/1963",1963,"December","1960s",24,35,13
+"375","196312150phi","Philadelphia Eagles",13,"Minnesota Vikings",34,47,-21,FALSE,"12/15/1963",1963,"December","1960s",21,57,18
+"376","196312290chi","Chicago Bears",14,"New York Giants",10,24,4,TRUE,"12/29/1963",1963,"December","1960s",4,60,11
+"377","196409120dal","Dallas Cowboys",6,"St. Louis Cardinals",16,22,-10,FALSE,"9/12/1964",1964,"September","1960s",76,58,13
+"378","196409130gnb","Green Bay Packers",23,"Chicago Bears",12,35,11,TRUE,"9/13/1964",1964,"September","1960s",53,64,10
+"379","196409130pit","Pittsburgh Steelers",14,"Los Angeles Rams",26,40,-12,FALSE,"9/13/1964",1964,"September","1960s",54,46,12
+"380","196409130was","Washington Redskins",13,"Cleveland Browns",27,40,-14,FALSE,"9/13/1964",1964,"September","1960s",58,73,11
+"381","196409130phi","Philadelphia Eagles",38,"New York Giants",7,45,31,TRUE,"9/13/1964",1964,"September","1960s",58,64,12
+"382","196409130sfo","San Francisco 49ers",17,"Detroit Lions",26,43,-9,FALSE,"9/13/1964",1964,"September","1960s",59,75,16
+"383","196409130min","Minnesota Vikings",34,"Baltimore Colts",24,58,10,TRUE,"9/13/1964",1964,"September","1960s",54,71,11
+"384","196409190ram","Los Angeles Rams",17,"Detroit Lions",17,34,0,FALSE,"9/19/1964",1964,"September","1960s",64,75,12
+"385","196409200gnb","Green Bay Packers",20,"Baltimore Colts",21,41,-1,FALSE,"9/20/1964",1964,"September","1960s",65,92,9
+"386","196409200pit","Pittsburgh Steelers",27,"New York Giants",24,51,3,TRUE,"9/20/1964",1964,"September","1960s",64,84,10
+"387","196409200phi","Philadelphia Eagles",24,"San Francisco 49ers",28,52,-4,FALSE,"9/20/1964",1964,"September","1960s",62,67,14
+"388","196409200cle","Cleveland Browns",33,"St. Louis Cardinals",33,66,0,FALSE,"9/20/1964",1964,"September","1960s",67,87,7
+"389","196409200dal","Dallas Cowboys",24,"Washington Redskins",18,42,6,TRUE,"9/20/1964",1964,"September","1960s",75,82,9
+"390","196409200min","Minnesota Vikings",28,"Chicago Bears",34,62,-6,FALSE,"9/20/1964",1964,"September","1960s",57,95,11
+"391","196409250nyg","New York Giants",13,"Washington Redskins",10,23,3,TRUE,"9/25/1964",1964,"September","1960s",64,41,17
+"392","196409270pit","Pittsburgh Steelers",23,"Dallas Cowboys",17,40,6,TRUE,"9/27/1964",1964,"September","1960s",64,54,15
+"393","196409270phi","Philadelphia Eagles",20,"Cleveland Browns",28,48,-8,FALSE,"9/27/1964",1964,"September","1960s",64,70,12
+"394","196409270ram","Los Angeles Rams",22,"Minnesota Vikings",13,35,9,TRUE,"9/27/1964",1964,"September","1960s",66,72,13
+"395","196409270sfo","San Francisco 49ers",13,"St. Louis Cardinals",23,36,-10,FALSE,"9/27/1964",1964,"September","1960s",57,65,11
+"396","196409270clt","Baltimore Colts",52,"Chicago Bears",0,52,52,TRUE,"9/27/1964",1964,"September","1960s",65,66,12
+"397","196409280det","Detroit Lions",10,"Green Bay Packers",14,24,-4,FALSE,"9/28/1964",1964,"September","1960s",46,65,8
+"398","196410040was","Washington Redskins",17,"St. Louis Cardinals",23,40,-6,FALSE,"10/4/1964",1964,"October","1960s",62,76,6
+"399","196410040clt","Baltimore Colts",35,"Los Angeles Rams",20,55,15,TRUE,"10/4/1964",1964,"October","1960s",58,84,6
+"400","196410040det","Detroit Lions",26,"New York Giants",3,29,23,TRUE,"10/4/1964",1964,"October","1960s",55,45,15
+"401","196410040gnb","Green Bay Packers",23,"Minnesota Vikings",24,47,-1,FALSE,"10/4/1964",1964,"October","1960s",52,58,15
+"402","196410040phi","Philadelphia Eagles",21,"Pittsburgh Steelers",7,28,14,TRUE,"10/4/1964",1964,"October","1960s",59,84,10
+"403","196410040sfo","San Francisco 49ers",31,"Chicago Bears",21,52,10,TRUE,"10/4/1964",1964,"October","1960s",59,78,16
+"404","196410040cle","Cleveland Browns",27,"Dallas Cowboys",6,33,21,TRUE,"10/4/1964",1964,"October","1960s",56,58,13
+"405","196410100cle","Cleveland Browns",7,"Pittsburgh Steelers",23,30,-16,FALSE,"10/10/1964",1964,"October","1960s",40,69,14
+"406","196410110was","Washington Redskins",35,"Philadelphia Eagles",20,55,15,TRUE,"10/11/1964",1964,"October","1960s",46,43,13
+"407","196410110chi","Chicago Bears",38,"Los Angeles Rams",17,55,21,TRUE,"10/11/1964",1964,"October","1960s",38,69,7
+"408","196410110min","Minnesota Vikings",20,"Detroit Lions",24,44,-4,FALSE,"10/11/1964",1964,"October","1960s",42,71,10
+"409","196410110dal","Dallas Cowboys",13,"New York Giants",13,26,0,FALSE,"10/11/1964",1964,"October","1960s",60,49,12
+"410","196410110gnb","Green Bay Packers",24,"San Francisco 49ers",14,38,10,TRUE,"10/11/1964",1964,"October","1960s",38,68,8
+"411","196410120crd","St. Louis Cardinals",27,"Baltimore Colts",47,74,-20,FALSE,"10/12/1964",1964,"October","1960s",44,58,10
+"412","196410180crd","St. Louis Cardinals",38,"Washington Redskins",24,62,14,TRUE,"10/18/1964",1964,"October","1960s",61,51,15
+"413","196410180chi","Chicago Bears",0,"Detroit Lions",10,10,-10,FALSE,"10/18/1964",1964,"October","1960s",57,54,12
+"414","196410180min","Minnesota Vikings",30,"Pittsburgh Steelers",10,40,20,TRUE,"10/18/1964",1964,"October","1960s",44,66,14
+"415","196410180nyg","New York Giants",17,"Philadelphia Eagles",23,40,-6,FALSE,"10/18/1964",1964,"October","1960s",63,80,14
+"416","196410180dal","Dallas Cowboys",16,"Cleveland Browns",20,36,-4,FALSE,"10/18/1964",1964,"October","1960s",68,60,16
+"417","196410180ram","Los Angeles Rams",42,"San Francisco 49ers",14,56,28,TRUE,"10/18/1964",1964,"October","1960s",65,81,10
+"418","196410180clt","Baltimore Colts",24,"Green Bay Packers",21,45,3,TRUE,"10/18/1964",1964,"October","1960s",64,70,12
+"419","196410250det","Detroit Lions",0,"Baltimore Colts",34,34,-34,FALSE,"10/25/1964",1964,"October","1960s",50,46,12
+"420","196410250sfo","San Francisco 49ers",22,"Minnesota Vikings",27,49,-5,FALSE,"10/25/1964",1964,"October","1960s",54,80,10
+"421","196410250pit","Pittsburgh Steelers",10,"Philadelphia Eagles",34,44,-24,FALSE,"10/25/1964",1964,"October","1960s",47,47,10
+"422","196410250was","Washington Redskins",27,"Chicago Bears",20,47,7,TRUE,"10/25/1964",1964,"October","1960s",50,58,4
+"423","196410250gnb","Green Bay Packers",17,"Los Angeles Rams",27,44,-10,FALSE,"10/25/1964",1964,"October","1960s",56,48,14
+"424","196410250cle","Cleveland Browns",42,"New York Giants",20,62,22,TRUE,"10/25/1964",1964,"October","1960s",50,57,14
+"425","196410250crd","St. Louis Cardinals",13,"Dallas Cowboys",31,44,-18,FALSE,"10/25/1964",1964,"October","1960s",58,48,10
+"426","196411010det","Detroit Lions",37,"Los Angeles Rams",17,54,20,TRUE,"11/1/1964",1964,"November","1960s",44,65,6
+"427","196411010min","Minnesota Vikings",13,"Green Bay Packers",42,55,-29,FALSE,"11/1/1964",1964,"November","1960s",56,54,12
+"428","196411010chi","Chicago Bears",10,"Dallas Cowboys",24,34,-14,FALSE,"11/1/1964",1964,"November","1960s",51,64,8
+"429","196411010clt","Baltimore Colts",37,"San Francisco 49ers",7,44,30,TRUE,"11/1/1964",1964,"November","1960s",48,54,7
+"430","196411010phi","Philadelphia Eagles",10,"Washington Redskins",21,31,-11,FALSE,"11/1/1964",1964,"November","1960s",48,48,5
+"431","196411010pit","Pittsburgh Steelers",17,"Cleveland Browns",30,47,-13,FALSE,"11/1/1964",1964,"November","1960s",51,51,6
+"432","196411010nyg","New York Giants",34,"St. Louis Cardinals",17,51,17,TRUE,"11/1/1964",1964,"November","1960s",51,41,9
+"433","196411080gnb","Green Bay Packers",30,"Detroit Lions",7,37,23,TRUE,"11/8/1964",1964,"November","1960s",44,98,8
+"434","196411080cle","Cleveland Browns",34,"Washington Redskins",24,58,10,TRUE,"11/8/1964",1964,"November","1960s",45,94,6
+"435","196411080chi","Chicago Bears",24,"Baltimore Colts",40,64,-16,FALSE,"11/8/1964",1964,"November","1960s",51,83,5
+"436","196411080min","Minnesota Vikings",24,"San Francisco 49ers",7,31,17,TRUE,"11/8/1964",1964,"November","1960s",48,90,7
+"437","196411080crd","St. Louis Cardinals",34,"Pittsburgh Steelers",30,64,4,TRUE,"11/8/1964",1964,"November","1960s",58,65,6
+"438","196411080ram","Los Angeles Rams",20,"Philadelphia Eagles",10,30,10,TRUE,"11/8/1964",1964,"November","1960s",63,78,10
+"439","196411080nyg","New York Giants",21,"Dallas Cowboys",31,52,-10,FALSE,"11/8/1964",1964,"November","1960s",55,65,8
+"440","196411150ram","Los Angeles Rams",24,"Chicago Bears",34,58,-10,FALSE,"11/15/1964",1964,"November","1960s",52,27,15
+"441","196411150cle","Cleveland Browns",37,"Detroit Lions",21,58,16,TRUE,"11/15/1964",1964,"November","1960s",51,60,9
+"442","196411150pit","Pittsburgh Steelers",0,"Washington Redskins",30,30,-30,FALSE,"11/15/1964",1964,"November","1960s",49,59,6
+"443","196411150crd","St. Louis Cardinals",10,"New York Giants",10,20,0,FALSE,"11/15/1964",1964,"November","1960s",65,71,14
+"444","196411150clt","Baltimore Colts",17,"Minnesota Vikings",14,31,3,TRUE,"11/15/1964",1964,"November","1960s",52,47,8
+"445","196411150dal","Dallas Cowboys",14,"Philadelphia Eagles",17,31,-3,FALSE,"11/15/1964",1964,"November","1960s",74,80,15
+"446","196411150sfo","San Francisco 49ers",24,"Green Bay Packers",14,38,10,TRUE,"11/15/1964",1964,"November","1960s",49,39,17
+"447","196411220nyg","New York Giants",17,"Pittsburgh Steelers",44,61,-27,FALSE,"11/22/1964",1964,"November","1960s",30,47,19
+"448","196411220gnb","Green Bay Packers",28,"Cleveland Browns",21,49,7,TRUE,"11/22/1964",1964,"November","1960s",15,66,15
+"449","196411220det","Detroit Lions",23,"Minnesota Vikings",23,46,0,FALSE,"11/22/1964",1964,"November","1960s",17,67,16
+"450","196411220ram","Los Angeles Rams",7,"Baltimore Colts",24,31,-17,FALSE,"11/22/1964",1964,"November","1960s",55,53,9
+"451","196411220chi","Chicago Bears",23,"San Francisco 49ers",21,44,2,TRUE,"11/22/1964",1964,"November","1960s",16,63,12
+"452","196411220phi","Philadelphia Eagles",13,"St. Louis Cardinals",38,51,-25,FALSE,"11/22/1964",1964,"November","1960s",27,44,14
+"453","196411220was","Washington Redskins",28,"Dallas Cowboys",16,44,12,TRUE,"11/22/1964",1964,"November","1960s",31,46,14
+"454","196411260det","Detroit Lions",24,"Chicago Bears",27,51,-3,FALSE,"11/26/1964",1964,"November","1960s",41,77,13
+"455","196411290cle","Cleveland Browns",38,"Philadelphia Eagles",24,62,14,TRUE,"11/29/1964",1964,"November","1960s",32,65,15
+"456","196411290sfo","San Francisco 49ers",3,"Baltimore Colts",14,17,-11,FALSE,"11/29/1964",1964,"November","1960s",53,90,7
+"457","196411290pit","Pittsburgh Steelers",20,"St. Louis Cardinals",21,41,-1,FALSE,"11/29/1964",1964,"November","1960s",37,64,14
+"458","196411290min","Minnesota Vikings",34,"Los Angeles Rams",13,47,21,TRUE,"11/29/1964",1964,"November","1960s",2,68,14
+"459","196411290was","Washington Redskins",36,"New York Giants",21,57,15,TRUE,"11/29/1964",1964,"November","1960s",52,57,12
+"460","196411290dal","Dallas Cowboys",21,"Green Bay Packers",45,66,-24,FALSE,"11/29/1964",1964,"November","1960s",48,53,7
+"461","196412050chi","Chicago Bears",3,"Green Bay Packers",17,20,-14,FALSE,"12/5/1964",1964,"December","1960s",21,81,14
+"462","196412060crd","St. Louis Cardinals",28,"Cleveland Browns",19,47,9,TRUE,"12/6/1964",1964,"December","1960s",18,93,8
+"463","196412060was","Washington Redskins",7,"Pittsburgh Steelers",14,21,-7,FALSE,"12/6/1964",1964,"December","1960s",40,74,15
+"464","196412060sfo","San Francisco 49ers",28,"Los Angeles Rams",7,35,21,TRUE,"12/6/1964",1964,"December","1960s",48,71,8
+"465","196412060clt","Baltimore Colts",14,"Detroit Lions",31,45,-17,FALSE,"12/6/1964",1964,"December","1960s",39,74,14
+"466","196412060nyg","New York Giants",21,"Minnesota Vikings",30,51,-9,FALSE,"12/6/1964",1964,"December","1960s",33,83,15
+"467","196412060phi","Philadelphia Eagles",24,"Dallas Cowboys",14,38,10,TRUE,"12/6/1964",1964,"December","1960s",36,72,14
+"468","196412120nyg","New York Giants",20,"Cleveland Browns",52,72,-32,FALSE,"12/12/1964",1964,"December","1960s",49,98,7
+"469","196412130det","Detroit Lions",24,"San Francisco 49ers",7,31,17,TRUE,"12/13/1964",1964,"December","1960s",37,84,15
+"470","196412130dal","Dallas Cowboys",17,"Pittsburgh Steelers",14,31,3,TRUE,"12/13/1964",1964,"December","1960s",48,56,14
+"471","196412130ram","Los Angeles Rams",24,"Green Bay Packers",24,48,0,FALSE,"12/13/1964",1964,"December","1960s",56,38,7
+"472","196412130crd","St. Louis Cardinals",36,"Philadelphia Eagles",34,70,2,TRUE,"12/13/1964",1964,"December","1960s",40,66,17
+"473","196412130chi","Chicago Bears",14,"Minnesota Vikings",41,55,-27,FALSE,"12/13/1964",1964,"December","1960s",33,84,12
+"474","196412130clt","Baltimore Colts",45,"Washington Redskins",17,62,28,TRUE,"12/13/1964",1964,"December","1960s",46,98,7
+"475","196412270cle","Cleveland Browns",27,"Baltimore Colts",0,27,27,TRUE,"12/27/1964",1964,"December","1960s",34,75,15
+"476","196509190sfo","San Francisco 49ers",52,"Chicago Bears",24,76,28,TRUE,"9/19/1965",1965,"September","1960s",60,55,11
+"477","196509190was","Washington Redskins",7,"Cleveland Browns",17,24,-10,FALSE,"9/19/1965",1965,"September","1960s",82,74,4
+"478","196509190pit","Pittsburgh Steelers",9,"Green Bay Packers",41,50,-32,FALSE,"9/19/1965",1965,"September","1960s",73,79,5
+"479","196509190dal","Dallas Cowboys",31,"New York Giants",2,33,29,TRUE,"9/19/1965",1965,"September","1960s",80,75,15
+"480","196509190det","Detroit Lions",20,"Los Angeles Rams",0,20,20,TRUE,"9/19/1965",1965,"September","1960s",74,83,9
+"481","196509190phi","Philadelphia Eagles",34,"St. Louis Cardinals",27,61,7,TRUE,"9/19/1965",1965,"September","1960s",80,77,8
+"482","196509190clt","Baltimore Colts",35,"Minnesota Vikings",16,51,19,TRUE,"9/19/1965",1965,"September","1960s",80,76,9
+"483","196509250ram","Los Angeles Rams",30,"Chicago Bears",28,58,2,TRUE,"9/25/1965",1965,"September","1960s",66,80,9
+"484","196509260phi","Philadelphia Eagles",14,"New York Giants",16,30,-2,FALSE,"9/26/1965",1965,"September","1960s",58,64,8
+"485","196509260dal","Dallas Cowboys",27,"Washington Redskins",7,34,20,TRUE,"9/26/1965",1965,"September","1960s",68,65,10
+"486","196509260gnb","Green Bay Packers",20,"Baltimore Colts",17,37,3,TRUE,"9/26/1965",1965,"September","1960s",47,78,16
+"487","196509260min","Minnesota Vikings",29,"Detroit Lions",31,60,-2,FALSE,"9/26/1965",1965,"September","1960s",37,56,14
+"488","196509260sfo","San Francisco 49ers",27,"Pittsburgh Steelers",17,44,10,TRUE,"9/26/1965",1965,"September","1960s",60,70,9
+"489","196509260cle","Cleveland Browns",13,"St. Louis Cardinals",49,62,-36,FALSE,"9/26/1965",1965,"September","1960s",54,69,11
+"490","196510030pit","Pittsburgh Steelers",13,"New York Giants",23,36,-10,FALSE,"10/3/1965",1965,"October","1960s",52,70,16
+"491","196510030clt","Baltimore Colts",27,"San Francisco 49ers",24,51,3,TRUE,"10/3/1965",1965,"October","1960s",58,63,15
+"492","196510030phi","Philadelphia Eagles",17,"Cleveland Browns",35,52,-18,FALSE,"10/3/1965",1965,"October","1960s",57,63,14
+"493","196510030ram","Los Angeles Rams",35,"Minnesota Vikings",38,73,-3,FALSE,"10/3/1965",1965,"October","1960s",70,50,9
+"494","196510030gnb","Green Bay Packers",23,"Chicago Bears",14,37,9,TRUE,"10/3/1965",1965,"October","1960s",52,50,13
+"495","196510030det","Detroit Lions",14,"Washington Redskins",10,24,4,TRUE,"10/3/1965",1965,"October","1960s",52,63,18
+"496","196510040crd","St. Louis Cardinals",20,"Dallas Cowboys",13,33,7,TRUE,"10/4/1965",1965,"October","1960s",52,70,8
+"497","196510090cle","Cleveland Browns",24,"Pittsburgh Steelers",19,43,5,TRUE,"10/9/1965",1965,"October","1960s",54,79,15
+"498","196510090min","Minnesota Vikings",40,"New York Giants",14,54,26,TRUE,"10/9/1965",1965,"October","1960s",51,70,12
+"499","196510100chi","Chicago Bears",31,"Los Angeles Rams",6,37,25,TRUE,"10/10/1965",1965,"October","1960s",55,70,8
+"500","196510100dal","Dallas Cowboys",24,"Philadelphia Eagles",35,59,-11,FALSE,"10/10/1965",1965,"October","1960s",74,57,8
+"501","196510100gnb","Green Bay Packers",27,"San Francisco 49ers",10,37,17,TRUE,"10/10/1965",1965,"October","1960s",52,77,9
+"502","196510100clt","Baltimore Colts",31,"Detroit Lions",7,38,24,TRUE,"10/10/1965",1965,"October","1960s",54,73,12
+"503","196510100was","Washington Redskins",16,"St. Louis Cardinals",37,53,-21,FALSE,"10/10/1965",1965,"October","1960s",58,64,11
+"504","196510170cle","Cleveland Browns",23,"Dallas Cowboys",17,40,6,TRUE,"10/17/1965",1965,"October","1960s",54,67,7
+"505","196510170was","Washington Redskins",7,"Baltimore Colts",38,45,-31,FALSE,"10/17/1965",1965,"October","1960s",57,60,8
+"506","196510170det","Detroit Lions",21,"Green Bay Packers",31,52,-10,FALSE,"10/17/1965",1965,"October","1960s",55,71,10
+"507","196510170pit","Pittsburgh Steelers",7,"St. Louis Cardinals",20,27,-13,FALSE,"10/17/1965",1965,"October","1960s",51,67,7
+"508","196510170nyg","New York Giants",35,"Philadelphia Eagles",27,62,8,TRUE,"10/17/1965",1965,"October","1960s",53,59,12
+"509","196510170min","Minnesota Vikings",37,"Chicago Bears",45,82,-8,FALSE,"10/17/1965",1965,"October","1960s",65,78,12
+"510","196510170ram","Los Angeles Rams",21,"San Francisco 49ers",45,66,-24,FALSE,"10/17/1965",1965,"October","1960s",62,55,14
+"511","196510240gnb","Green Bay Packers",13,"Dallas Cowboys",3,16,10,TRUE,"10/24/1965",1965,"October","1960s",39,55,15
+"512","196510240nyg","New York Giants",14,"Cleveland Browns",38,52,-24,FALSE,"10/24/1965",1965,"October","1960s",56,55,13
+"513","196510240crd","St. Louis Cardinals",20,"Washington Redskins",24,44,-4,FALSE,"10/24/1965",1965,"October","1960s",43,52,13
+"514","196510240sfo","San Francisco 49ers",41,"Minnesota Vikings",42,83,-1,FALSE,"10/24/1965",1965,"October","1960s",70,40,3
+"515","196510240clt","Baltimore Colts",35,"Los Angeles Rams",20,55,15,TRUE,"10/24/1965",1965,"October","1960s",50,60,15
+"516","196510240phi","Philadelphia Eagles",14,"Pittsburgh Steelers",20,34,-6,FALSE,"10/24/1965",1965,"October","1960s",52,60,13
+"517","196510240chi","Chicago Bears",38,"Detroit Lions",10,48,28,TRUE,"10/24/1965",1965,"October","1960s",40,59,12
+"518","196510310pit","Pittsburgh Steelers",22,"Dallas Cowboys",13,35,9,TRUE,"10/31/1965",1965,"October","1960s",51,41,21
+"519","196510310sfo","San Francisco 49ers",28,"Baltimore Colts",34,62,-6,FALSE,"10/31/1965",1965,"October","1960s",54,78,11
+"520","196510310nyg","New York Giants",14,"St. Louis Cardinals",10,24,4,TRUE,"10/31/1965",1965,"October","1960s",55,29,14
+"521","196510310cle","Cleveland Browns",17,"Minnesota Vikings",27,44,-10,FALSE,"10/31/1965",1965,"October","1960s",55,49,23
+"522","196510310was","Washington Redskins",23,"Philadelphia Eagles",21,44,2,TRUE,"10/31/1965",1965,"October","1960s",55,44,9
+"523","196510310ram","Los Angeles Rams",7,"Detroit Lions",31,38,-24,FALSE,"10/31/1965",1965,"October","1960s",64,80,10
+"524","196510310chi","Chicago Bears",31,"Green Bay Packers",10,41,21,TRUE,"10/31/1965",1965,"October","1960s",57,54,14
+"525","196511070dal","Dallas Cowboys",39,"San Francisco 49ers",31,70,8,TRUE,"11/7/1965",1965,"November","1960s",62,87,4
+"526","196511070nyg","New York Giants",7,"Washington Redskins",23,30,-16,FALSE,"11/7/1965",1965,"November","1960s",58,60,11
+"527","196511070chi","Chicago Bears",21,"Baltimore Colts",26,47,-5,FALSE,"11/7/1965",1965,"November","1960s",55,91,7
+"528","196511070crd","St. Louis Cardinals",21,"Pittsburgh Steelers",17,38,4,TRUE,"11/7/1965",1965,"November","1960s",64,71,6
+"529","196511070min","Minnesota Vikings",24,"Los Angeles Rams",13,37,11,TRUE,"11/7/1965",1965,"November","1960s",41,82,9
+"530","196511070gnb","Green Bay Packers",7,"Detroit Lions",12,19,-5,FALSE,"11/7/1965",1965,"November","1960s",43,94,9
+"531","196511070cle","Cleveland Browns",38,"Philadelphia Eagles",34,72,4,TRUE,"11/7/1965",1965,"November","1960s",55,88,8
+"532","196511140phi","Philadelphia Eagles",21,"Washington Redskins",14,35,7,TRUE,"11/14/1965",1965,"November","1960s",49,65,12
+"533","196511140gnb","Green Bay Packers",6,"Los Angeles Rams",3,9,3,TRUE,"11/14/1965",1965,"November","1960s",28,55,12
+"534","196511140dal","Dallas Cowboys",24,"Pittsburgh Steelers",17,41,7,TRUE,"11/14/1965",1965,"November","1960s",65,82,9
+"535","196511140cle","Cleveland Browns",34,"New York Giants",21,55,13,TRUE,"11/14/1965",1965,"November","1960s",37,64,14
+"536","196511140det","Detroit Lions",21,"San Francisco 49ers",27,48,-6,FALSE,"11/14/1965",1965,"November","1960s",34,54,13
+"537","196511140min","Minnesota Vikings",21,"Baltimore Colts",41,62,-20,FALSE,"11/14/1965",1965,"November","1960s",21,67,12
+"538","196511140chi","Chicago Bears",34,"St. Louis Cardinals",13,47,21,TRUE,"11/14/1965",1965,"November","1960s",32,57,9
+"539","196511210min","Minnesota Vikings",13,"Green Bay Packers",38,51,-25,FALSE,"11/21/1965",1965,"November","1960s",33,92,8
+"540","196511210dal","Dallas Cowboys",17,"Cleveland Browns",24,41,-7,FALSE,"11/21/1965",1965,"November","1960s",63,82,9
+"541","196511210sfo","San Francisco 49ers",30,"Los Angeles Rams",27,57,3,TRUE,"11/21/1965",1965,"November","1960s",53,72,4
+"542","196511210clt","Baltimore Colts",34,"Philadelphia Eagles",24,58,10,TRUE,"11/21/1965",1965,"November","1960s",43,66,6
+"543","196511210crd","St. Louis Cardinals",15,"New York Giants",28,43,-13,FALSE,"11/21/1965",1965,"November","1960s",50,69,8
+"544","196511210pit","Pittsburgh Steelers",3,"Washington Redskins",31,34,-28,FALSE,"11/21/1965",1965,"November","1960s",39,67,7
+"545","196511210det","Detroit Lions",10,"Chicago Bears",17,27,-7,FALSE,"11/21/1965",1965,"November","1960s",41,68,10
+"546","196511250det","Detroit Lions",24,"Baltimore Colts",24,48,0,FALSE,"11/25/1965",1965,"November","1960s",41,75,10
+"547","196511280ram","Los Angeles Rams",21,"Green Bay Packers",10,31,11,TRUE,"11/28/1965",1965,"November","1960s",59,41,8
+"548","196511280pit","Pittsburgh Steelers",21,"Cleveland Browns",42,63,-21,FALSE,"11/28/1965",1965,"November","1960s",38,53,23
+"549","196511280min","Minnesota Vikings",24,"San Francisco 49ers",45,69,-21,FALSE,"11/28/1965",1965,"November","1960s",16,83,20
+"550","196511280nyg","New York Giants",14,"Chicago Bears",35,49,-21,FALSE,"11/28/1965",1965,"November","1960s",48,36,17
+"551","196511280crd","St. Louis Cardinals",24,"Philadelphia Eagles",28,52,-4,FALSE,"11/28/1965",1965,"November","1960s",37,48,16
+"552","196511280was","Washington Redskins",34,"Dallas Cowboys",31,65,3,TRUE,"11/28/1965",1965,"November","1960s",50,38,14
+"553","196512050nyg","New York Giants",35,"Pittsburgh Steelers",10,45,25,TRUE,"12/5/1965",1965,"December","1960s",40,49,16
+"554","196512050cle","Cleveland Browns",24,"Washington Redskins",16,40,8,TRUE,"12/5/1965",1965,"December","1960s",35,79,12
+"555","196512050clt","Baltimore Colts",0,"Chicago Bears",13,13,-13,FALSE,"12/5/1965",1965,"December","1960s",36,52,10
+"556","196512050crd","St. Louis Cardinals",3,"Los Angeles Rams",27,30,-24,FALSE,"12/5/1965",1965,"December","1960s",52,39,14
+"557","196512050sfo","San Francisco 49ers",17,"Detroit Lions",14,31,3,TRUE,"12/5/1965",1965,"December","1960s",46,71,6
+"558","196512050phi","Philadelphia Eagles",19,"Dallas Cowboys",21,40,-2,FALSE,"12/5/1965",1965,"December","1960s",37,60,15
+"559","196512050gnb","Green Bay Packers",24,"Minnesota Vikings",19,43,5,TRUE,"12/5/1965",1965,"December","1960s",30,68,16
+"560","196512110dal","Dallas Cowboys",27,"St. Louis Cardinals",13,40,14,TRUE,"12/11/1965",1965,"December","1960s",69,80,16
+"561","196512120pit","Pittsburgh Steelers",13,"Philadelphia Eagles",47,60,-34,FALSE,"12/12/1965",1965,"December","1960s",54,71,8
+"562","196512120ram","Los Angeles Rams",42,"Cleveland Browns",7,49,35,TRUE,"12/12/1965",1965,"December","1960s",55,83,10
+"563","196512120was","Washington Redskins",10,"New York Giants",27,37,-17,FALSE,"12/12/1965",1965,"December","1960s",50,80,5
+"564","196512120chi","Chicago Bears",61,"San Francisco 49ers",20,81,41,TRUE,"12/12/1965",1965,"December","1960s",54,94,11
+"565","196512120clt","Baltimore Colts",27,"Green Bay Packers",42,69,-15,FALSE,"12/12/1965",1965,"December","1960s",44,88,8
+"566","196512120det","Detroit Lions",7,"Minnesota Vikings",29,36,-22,FALSE,"12/12/1965",1965,"December","1960s",47,92,10
+"567","196512180ram","Los Angeles Rams",17,"Baltimore Colts",20,37,-3,FALSE,"12/18/1965",1965,"December","1960s",50,48,9
+"568","196512190phi","Philadelphia Eagles",28,"Detroit Lions",35,63,-7,FALSE,"12/19/1965",1965,"December","1960s",34,56,11
+"569","196512190was","Washington Redskins",35,"Pittsburgh Steelers",14,49,21,TRUE,"12/19/1965",1965,"December","1960s",38,55,13
+"570","196512190chi","Chicago Bears",17,"Minnesota Vikings",24,41,-7,FALSE,"12/19/1965",1965,"December","1960s",25,70,5
+"571","196512190nyg","New York Giants",20,"Dallas Cowboys",38,58,-18,FALSE,"12/19/1965",1965,"December","1960s",36,53,15
+"572","196512190sfo","San Francisco 49ers",24,"Green Bay Packers",24,48,0,FALSE,"12/19/1965",1965,"December","1960s",42,68,8
+"573","196512190crd","St. Louis Cardinals",24,"Cleveland Browns",27,51,-3,FALSE,"12/19/1965",1965,"December","1960s",31,83,8
+"574","196512260gnb","Green Bay Packers",13,"Baltimore Colts",10,23,3,TRUE,"12/26/1965",1965,"December","1960s",22,85,10
+"575","196601020gnb","Green Bay Packers",23,"Cleveland Browns",12,35,11,TRUE,"1/2/1966",1966,"January","1960s",26,92,11
+"576","196609100gnb","Green Bay Packers",24,"Baltimore Colts",3,27,21,TRUE,"9/10/1966",1966,"September","1960s",64,62,8
+"577","196609110atl","Atlanta Falcons",14,"Los Angeles Rams",19,33,-5,FALSE,"9/11/1966",1966,"September","1960s",71,57,7
+"578","196609110det","Detroit Lions",14,"Chicago Bears",3,17,11,TRUE,"9/11/1966",1966,"September","1960s",67,73,7
+"579","196609110was","Washington Redskins",14,"Cleveland Browns",38,52,-24,FALSE,"9/11/1966",1966,"September","1960s",65,52,8
+"580","196609110pit","Pittsburgh Steelers",34,"New York Giants",34,68,0,FALSE,"9/11/1966",1966,"September","1960s",64,70,5
+"581","196609110crd","St. Louis Cardinals",16,"Philadelphia Eagles",13,29,3,TRUE,"9/11/1966",1966,"September","1960s",72,70,5
+"582","196609110sfo","San Francisco 49ers",20,"Minnesota Vikings",20,40,0,FALSE,"9/11/1966",1966,"September","1960s",60,75,25
+"583","196609160ram","Los Angeles Rams",31,"Chicago Bears",17,48,14,TRUE,"9/16/1966",1966,"September","1960s",72,52,10
+"584","196609180dal","Dallas Cowboys",52,"New York Giants",7,59,45,TRUE,"9/18/1966",1966,"September","1960s",72,82,9
+"585","196609180cle","Cleveland Browns",20,"Green Bay Packers",21,41,-1,FALSE,"9/18/1966",1966,"September","1960s",62,57,6
+"586","196609180pit","Pittsburgh Steelers",17,"Detroit Lions",3,20,14,TRUE,"9/18/1966",1966,"September","1960s",62,67,4
+"587","196609180crd","St. Louis Cardinals",23,"Washington Redskins",7,30,16,TRUE,"9/18/1966",1966,"September","1960s",63,72,5
+"588","196609180min","Minnesota Vikings",23,"Baltimore Colts",38,61,-15,FALSE,"9/18/1966",1966,"September","1960s",60,64,4
+"589","196609180phi","Philadelphia Eagles",23,"Atlanta Falcons",10,33,13,TRUE,"9/18/1966",1966,"September","1960s",61,74,5
+"590","196609250dal","Dallas Cowboys",28,"Minnesota Vikings",17,45,11,TRUE,"9/25/1966",1966,"September","1960s",76,60,12
+"591","196609250pit","Pittsburgh Steelers",27,"Washington Redskins",33,60,-6,FALSE,"9/25/1966",1966,"September","1960s",53,80,10
+"592","196609250cle","Cleveland Browns",28,"St. Louis Cardinals",34,62,-6,FALSE,"9/25/1966",1966,"September","1960s",53,72,9
+"593","196609250phi","Philadelphia Eagles",35,"New York Giants",17,52,18,TRUE,"9/25/1966",1966,"September","1960s",55,74,11
+"594","196609250gnb","Green Bay Packers",24,"Los Angeles Rams",13,37,11,TRUE,"9/25/1966",1966,"September","1960s",46,56,9
+"595","196609250det","Detroit Lions",28,"Atlanta Falcons",10,38,18,TRUE,"9/25/1966",1966,"September","1960s",56,58,9
+"596","196609250clt","Baltimore Colts",36,"San Francisco 49ers",14,50,22,TRUE,"9/25/1966",1966,"September","1960s",56,68,7
+"597","196609300ram","Los Angeles Rams",34,"San Francisco 49ers",3,37,31,TRUE,"9/30/1966",1966,"September","1960s",70,76,9
+"598","196610020min","Minnesota Vikings",10,"Chicago Bears",13,23,-3,FALSE,"10/2/1966",1966,"October","1960s",50,62,12
+"599","196610020atl","Atlanta Falcons",14,"Dallas Cowboys",47,61,-33,FALSE,"10/2/1966",1966,"October","1960s",53,63,12
+"600","196610020was","Washington Redskins",24,"Pittsburgh Steelers",10,34,14,TRUE,"10/2/1966",1966,"October","1960s",48,74,5
+"601","196610020phi","Philadelphia Eagles",10,"St. Louis Cardinals",41,51,-31,FALSE,"10/2/1966",1966,"October","1960s",50,74,10
+"602","196610020nyg","New York Giants",7,"Cleveland Browns",28,35,-21,FALSE,"10/2/1966",1966,"October","1960s",52,70,13
+"603","196610020gnb","Green Bay Packers",23,"Detroit Lions",14,37,9,TRUE,"10/2/1966",1966,"October","1960s",49,63,10
+"604","196610080cle","Cleveland Browns",41,"Pittsburgh Steelers",10,51,31,TRUE,"10/8/1966",1966,"October","1960s",58,46,12
+"605","196610090chi","Chicago Bears",27,"Baltimore Colts",17,44,10,TRUE,"10/9/1966",1966,"October","1960s",67,54,12
+"606","196610090dal","Dallas Cowboys",56,"Philadelphia Eagles",7,63,49,TRUE,"10/9/1966",1966,"October","1960s",74,59,8
+"607","196610090det","Detroit Lions",7,"Los Angeles Rams",14,21,-7,FALSE,"10/9/1966",1966,"October","1960s",62,63,12
+"608","196610090crd","St. Louis Cardinals",24,"New York Giants",19,43,5,TRUE,"10/9/1966",1966,"October","1960s",64,84,10
+"609","196610090sfo","San Francisco 49ers",21,"Green Bay Packers",20,41,1,TRUE,"10/9/1966",1966,"October","1960s",64,62,10
+"610","196610090was","Washington Redskins",33,"Atlanta Falcons",20,53,13,TRUE,"10/9/1966",1966,"October","1960s",59,77,4
+"611","196610160clt","Baltimore Colts",45,"Detroit Lions",14,59,31,TRUE,"10/16/1966",1966,"October","1960s",64,73,12
+"612","196610160min","Minnesota Vikings",35,"Los Angeles Rams",7,42,28,TRUE,"10/16/1966",1966,"October","1960s",36,77,9
+"613","196610160chi","Chicago Bears",0,"Green Bay Packers",17,17,-17,FALSE,"10/16/1966",1966,"October","1960s",43,66,11
+"614","196610160nyg","New York Giants",13,"Washington Redskins",10,23,3,TRUE,"10/16/1966",1966,"October","1960s",64,81,14
+"615","196610160crd","St. Louis Cardinals",10,"Dallas Cowboys",10,20,0,FALSE,"10/16/1966",1966,"October","1960s",44,74,13
+"616","196610160pit","Pittsburgh Steelers",14,"Philadelphia Eagles",31,45,-17,FALSE,"10/16/1966",1966,"October","1960s",51,66,15
+"617","196610160atl","Atlanta Falcons",7,"San Francisco 49ers",44,51,-37,FALSE,"10/16/1966",1966,"October","1960s",66,76,9
+"618","196610230chi","Chicago Bears",17,"Los Angeles Rams",10,27,7,TRUE,"10/23/1966",1966,"October","1960s",48,41,10
+"619","196610230clt","Baltimore Colts",20,"Minnesota Vikings",17,37,3,TRUE,"10/23/1966",1966,"October","1960s",56,81,6
+"620","196610230cle","Cleveland Browns",30,"Dallas Cowboys",21,51,9,TRUE,"10/23/1966",1966,"October","1960s",51,64,10
+"621","196610230was","Washington Redskins",26,"St. Louis Cardinals",20,46,6,TRUE,"10/23/1966",1966,"October","1960s",58,83,6
+"622","196610230nyg","New York Giants",3,"Philadelphia Eagles",31,34,-28,FALSE,"10/23/1966",1966,"October","1960s",59,78,10
+"623","196610230sfo","San Francisco 49ers",27,"Detroit Lions",24,51,3,TRUE,"10/23/1966",1966,"October","1960s",60,72,9
+"624","196610230gnb","Green Bay Packers",56,"Atlanta Falcons",3,59,53,TRUE,"10/23/1966",1966,"October","1960s",46,43,14
+"625","196610300dal","Dallas Cowboys",52,"Pittsburgh Steelers",21,73,31,TRUE,"10/30/1966",1966,"October","1960s",64,58,6
+"626","196610300ram","Los Angeles Rams",3,"Baltimore Colts",17,20,-14,FALSE,"10/30/1966",1966,"October","1960s",64,76,9
+"627","196610300min","Minnesota Vikings",28,"San Francisco 49ers",3,31,25,TRUE,"10/30/1966",1966,"October","1960s",39,62,13
+"628","196610300det","Detroit Lions",7,"Green Bay Packers",31,38,-24,FALSE,"10/30/1966",1966,"October","1960s",37,59,9
+"629","196610300atl","Atlanta Falcons",17,"Cleveland Browns",49,66,-32,FALSE,"10/30/1966",1966,"October","1960s",58,62,10
+"630","196610300phi","Philadelphia Eagles",13,"Washington Redskins",27,40,-14,FALSE,"10/30/1966",1966,"October","1960s",43,42,13
+"631","196610310crd","St. Louis Cardinals",24,"Chicago Bears",17,41,7,TRUE,"10/31/1966",1966,"October","1960s",53,59,12
+"632","196611060phi","Philadelphia Eagles",24,"Dallas Cowboys",23,47,1,TRUE,"11/6/1966",1966,"November","1960s",46,62,14
+"633","196611060chi","Chicago Bears",10,"Detroit Lions",10,20,0,FALSE,"11/6/1966",1966,"November","1960s",38,73,11
+"634","196611060pit","Pittsburgh Steelers",16,"Cleveland Browns",6,22,10,TRUE,"11/6/1966",1966,"November","1960s",35,83,11
+"635","196611060clt","Baltimore Colts",37,"Washington Redskins",10,47,27,TRUE,"11/6/1966",1966,"November","1960s",47,52,15
+"636","196611060sfo","San Francisco 49ers",21,"Los Angeles Rams",13,34,8,TRUE,"11/6/1966",1966,"November","1960s",54,79,15
+"637","196611060gnb","Green Bay Packers",17,"Minnesota Vikings",20,37,-3,FALSE,"11/6/1966",1966,"November","1960s",31,80,13
+"638","196611060nyg","New York Giants",17,"St. Louis Cardinals",20,37,-3,FALSE,"11/6/1966",1966,"November","1960s",48,66,14
+"639","196611130was","Washington Redskins",30,"Dallas Cowboys",31,61,-1,FALSE,"11/13/1966",1966,"November","1960s",40,71,8
+"640","196611130atl","Atlanta Falcons",7,"Baltimore Colts",19,26,-12,FALSE,"11/13/1966",1966,"November","1960s",58,80,12
+"641","196611130ram","Los Angeles Rams",55,"New York Giants",14,69,41,TRUE,"11/13/1966",1966,"November","1960s",62,77,9
+"642","196611130chi","Chicago Bears",30,"San Francisco 49ers",30,60,0,FALSE,"11/13/1966",1966,"November","1960s",34,70,7
+"643","196611130cle","Cleveland Browns",27,"Philadelphia Eagles",7,34,20,TRUE,"11/13/1966",1966,"November","1960s",38,78,8
+"644","196611130pit","Pittsburgh Steelers",30,"St. Louis Cardinals",9,39,21,TRUE,"11/13/1966",1966,"November","1960s",39,64,9
+"645","196611130min","Minnesota Vikings",31,"Detroit Lions",32,63,-1,FALSE,"11/13/1966",1966,"November","1960s",30,74,13
+"646","196611200pit","Pittsburgh Steelers",7,"Dallas Cowboys",20,27,-13,FALSE,"11/20/1966",1966,"November","1960s",30,60,8
+"647","196611200det","Detroit Lions",20,"Baltimore Colts",14,34,6,TRUE,"11/20/1966",1966,"November","1960s",32,77,7
+"648","196611200nyg","New York Giants",16,"Atlanta Falcons",27,43,-11,FALSE,"11/20/1966",1966,"November","1960s",36,44,16
+"649","196611200cle","Cleveland Browns",14,"Washington Redskins",3,17,11,TRUE,"11/20/1966",1966,"November","1960s",32,69,8
+"650","196611200ram","Los Angeles Rams",21,"Minnesota Vikings",6,27,15,TRUE,"11/20/1966",1966,"November","1960s",63,79,8
+"651","196611200gnb","Green Bay Packers",13,"Chicago Bears",6,19,7,TRUE,"11/20/1966",1966,"November","1960s",32,76,8
+"652","196611200sfo","San Francisco 49ers",34,"Philadelphia Eagles",35,69,-1,FALSE,"11/20/1966",1966,"November","1960s",58,79,20
+"653","196611240dal","Dallas Cowboys",26,"Cleveland Browns",14,40,12,TRUE,"11/24/1966",1966,"November","1960s",71,68,15
+"654","196611240det","Detroit Lions",14,"San Francisco 49ers",41,55,-27,FALSE,"11/24/1966",1966,"November","1960s",55,80,11
+"655","196611270chi","Chicago Bears",23,"Atlanta Falcons",6,29,17,TRUE,"11/27/1966",1966,"November","1960s",49,90,11
+"656","196611270min","Minnesota Vikings",16,"Green Bay Packers",28,44,-12,FALSE,"11/27/1966",1966,"November","1960s",33,78,19
+"657","196611270was","Washington Redskins",72,"New York Giants",41,113,31,TRUE,"11/27/1966",1966,"November","1960s",42,83,5
+"658","196611270clt","Baltimore Colts",7,"Los Angeles Rams",23,30,-16,FALSE,"11/27/1966",1966,"November","1960s",44,70,8
+"659","196611270crd","St. Louis Cardinals",6,"Pittsburgh Steelers",3,9,3,TRUE,"11/27/1966",1966,"November","1960s",50,94,19
+"660","196612040phi","Philadelphia Eagles",27,"Pittsburgh Steelers",23,50,4,TRUE,"12/4/1966",1966,"December","1960s",20,39,12
+"661","196612040dal","Dallas Cowboys",31,"St. Louis Cardinals",17,48,14,TRUE,"12/4/1966",1966,"December","1960s",43,90,9
+"662","196612040cle","Cleveland Browns",49,"New York Giants",40,89,9,TRUE,"12/4/1966",1966,"December","1960s",18,78,8
+"663","196612040min","Minnesota Vikings",13,"Atlanta Falcons",20,33,-7,FALSE,"12/4/1966",1966,"December","1960s",20,75,14
+"664","196612040clt","Baltimore Colts",21,"Chicago Bears",16,37,5,TRUE,"12/4/1966",1966,"December","1960s",21,40,10
+"665","196612040gnb","Green Bay Packers",20,"San Francisco 49ers",7,27,13,TRUE,"12/4/1966",1966,"December","1960s",20,72,12
+"666","196612040ram","Los Angeles Rams",23,"Detroit Lions",3,26,20,TRUE,"12/4/1966",1966,"December","1960s",57,86,8
+"667","196612100clt","Baltimore Colts",10,"Green Bay Packers",14,24,-4,FALSE,"12/10/1966",1966,"December","1960s",58,82,11
+"668","196612110phi","Philadelphia Eagles",33,"Cleveland Browns",21,54,12,TRUE,"12/11/1966",1966,"December","1960s",53,74,15
+"669","196612110dal","Dallas Cowboys",31,"Washington Redskins",34,65,-3,FALSE,"12/11/1966",1966,"December","1960s",30,57,8
+"670","196612110sfo","San Francisco 49ers",41,"Chicago Bears",14,55,27,TRUE,"12/11/1966",1966,"December","1960s",52,71,6
+"671","196612110nyg","New York Giants",28,"Pittsburgh Steelers",47,75,-19,FALSE,"12/11/1966",1966,"December","1960s",54,79,15
+"672","196612110atl","Atlanta Falcons",16,"St. Louis Cardinals",10,26,6,TRUE,"12/11/1966",1966,"December","1960s",41,79,14
+"673","196612110det","Detroit Lions",16,"Minnesota Vikings",28,44,-12,FALSE,"12/11/1966",1966,"December","1960s",28,76,13
+"674","196612170crd","St. Louis Cardinals",10,"Cleveland Browns",38,48,-28,FALSE,"12/17/1966",1966,"December","1960s",39,79,8
+"675","196612180nyg","New York Giants",7,"Dallas Cowboys",17,24,-10,FALSE,"12/18/1966",1966,"December","1960s",50,49,14
+"676","196612180atl","Atlanta Falcons",33,"Pittsburgh Steelers",57,90,-24,FALSE,"12/18/1966",1966,"December","1960s",47,77,8
+"677","196612180sfo","San Francisco 49ers",14,"Baltimore Colts",30,44,-16,FALSE,"12/18/1966",1966,"December","1960s",46,86,7
+"678","196612180was","Washington Redskins",28,"Philadelphia Eagles",37,65,-9,FALSE,"12/18/1966",1966,"December","1960s",44,66,8
+"679","196612180chi","Chicago Bears",41,"Minnesota Vikings",28,69,13,TRUE,"12/18/1966",1966,"December","1960s",35,82,10
+"680","196612180ram","Los Angeles Rams",23,"Green Bay Packers",27,50,-4,FALSE,"12/18/1966",1966,"December","1960s",58,61,8
+"681","196701010dal","Dallas Cowboys",27,"Green Bay Packers",34,61,-7,FALSE,"1/1/1967",1967,"January","1960s",40,75,8
+"682","196701150gnb","Green Bay Packers",35,"Kansas City Chiefs",10,45,25,TRUE,"1/15/1967",1967,"January","1960s",54,90,7
+"683","196709170clt","Baltimore Colts",38,"Atlanta Falcons",31,69,7,TRUE,"9/17/1967",1967,"September","1960s",70,80,12
+"684","196709170phi","Philadelphia Eagles",35,"Washington Redskins",24,59,11,TRUE,"9/17/1967",1967,"September","1960s",69,78,12
+"685","196709170nor","New Orleans Saints",13,"Los Angeles Rams",27,40,-14,FALSE,"9/17/1967",1967,"September","1960s",75,66,7
+"686","196709170pit","Pittsburgh Steelers",41,"Chicago Bears",13,54,28,TRUE,"9/17/1967",1967,"September","1960s",71,71,5
+"687","196709170gnb","Green Bay Packers",17,"Detroit Lions",17,34,0,FALSE,"9/17/1967",1967,"September","1960s",69,77,6
+"688","196709170crd","St. Louis Cardinals",20,"New York Giants",37,57,-17,FALSE,"9/17/1967",1967,"September","1960s",72,90,5
+"689","196709170cle","Cleveland Browns",14,"Dallas Cowboys",21,35,-7,FALSE,"9/17/1967",1967,"September","1960s",68,71,7
+"690","196709170min","Minnesota Vikings",21,"San Francisco 49ers",27,48,-6,FALSE,"9/17/1967",1967,"September","1960s",67,79,6
+"691","196709220ram","Los Angeles Rams",39,"Minnesota Vikings",3,42,36,TRUE,"9/22/1967",1967,"September","1960s",70,72,11
+"692","196709240det","Detroit Lions",31,"Cleveland Browns",14,45,17,TRUE,"9/24/1967",1967,"September","1960s",55,57,14
+"693","196709240gnb","Green Bay Packers",13,"Chicago Bears",10,23,3,TRUE,"9/24/1967",1967,"September","1960s",49,60,9
+"694","196709240nor","New Orleans Saints",10,"Washington Redskins",30,40,-20,FALSE,"9/24/1967",1967,"September","1960s",72,63,6
+"695","196709240phi","Philadelphia Eagles",6,"Baltimore Colts",38,44,-32,FALSE,"9/24/1967",1967,"September","1960s",54,73,11
+"696","196709240dal","Dallas Cowboys",38,"New York Giants",24,62,14,TRUE,"9/24/1967",1967,"September","1960s",77,65,4
+"697","196709240pit","Pittsburgh Steelers",14,"St. Louis Cardinals",28,42,-14,FALSE,"9/24/1967",1967,"September","1960s",54,63,14
+"698","196709240sfo","San Francisco 49ers",38,"Atlanta Falcons",7,45,31,TRUE,"9/24/1967",1967,"September","1960s",62,78,14
+"699","196710010clt","Baltimore Colts",41,"San Francisco 49ers",7,48,34,TRUE,"10/1/1967",1967,"October","1960s",56,64,12
+"700","196710010nor","New Orleans Saints",7,"Cleveland Browns",42,49,-35,FALSE,"10/1/1967",1967,"October","1960s",61,68,8
+"701","196710010dal","Dallas Cowboys",13,"Los Angeles Rams",35,48,-22,FALSE,"10/1/1967",1967,"October","1960s",71,57,12
+"702","196710010crd","St. Louis Cardinals",38,"Detroit Lions",28,66,10,TRUE,"10/1/1967",1967,"October","1960s",68,62,12
+"703","196710010was","Washington Redskins",38,"New York Giants",34,72,4,TRUE,"10/1/1967",1967,"October","1960s",56,66,9
+"704","196710010phi","Philadelphia Eagles",34,"Pittsburgh Steelers",24,58,10,TRUE,"10/1/1967",1967,"October","1960s",58,64,11
+"705","196710010min","Minnesota Vikings",7,"Chicago Bears",17,24,-10,FALSE,"10/1/1967",1967,"October","1960s",65,56,15
+"706","196710010gnb","Green Bay Packers",23,"Atlanta Falcons",0,23,23,TRUE,"10/1/1967",1967,"October","1960s",53,81,8
+"707","196710070cle","Cleveland Browns",21,"Pittsburgh Steelers",10,31,11,TRUE,"10/7/1967",1967,"October","1960s",50,72,9
+"708","196710080min","Minnesota Vikings",24,"St. Louis Cardinals",34,58,-10,FALSE,"10/8/1967",1967,"October","1960s",44,93,15
+"709","196710080was","Washington Redskins",14,"Dallas Cowboys",17,31,-3,FALSE,"10/8/1967",1967,"October","1960s",57,86,7
+"710","196710080atl","Atlanta Falcons",7,"Philadelphia Eagles",38,45,-31,FALSE,"10/8/1967",1967,"October","1960s",61,88,12
+"711","196710080ram","Los Angeles Rams",24,"San Francisco 49ers",27,51,-3,FALSE,"10/8/1967",1967,"October","1960s",72,33,9
+"712","196710080chi","Chicago Bears",3,"Baltimore Colts",24,27,-21,FALSE,"10/8/1967",1967,"October","1960s",61,78,12
+"713","196710080nyg","New York Giants",27,"New Orleans Saints",21,48,6,TRUE,"10/8/1967",1967,"October","1960s",55,60,10
+"714","196710080det","Detroit Lions",17,"Green Bay Packers",27,44,-10,FALSE,"10/8/1967",1967,"October","1960s",60,82,14
+"715","196710150phi","Philadelphia Eagles",27,"San Francisco 49ers",28,55,-1,FALSE,"10/15/1967",1967,"October","1960s",58,70,6
+"716","196710150gnb","Green Bay Packers",7,"Minnesota Vikings",10,17,-3,FALSE,"10/15/1967",1967,"October","1960s",56,84,6
+"717","196710150dal","Dallas Cowboys",14,"New Orleans Saints",10,24,4,TRUE,"10/15/1967",1967,"October","1960s",72,83,13
+"718","196710150pit","Pittsburgh Steelers",24,"New York Giants",27,51,-3,FALSE,"10/15/1967",1967,"October","1960s",54,77,6
+"719","196710150atl","Atlanta Falcons",20,"Washington Redskins",20,40,0,FALSE,"10/15/1967",1967,"October","1960s",67,64,6
+"720","196710150cle","Cleveland Browns",20,"St. Louis Cardinals",16,36,4,TRUE,"10/15/1967",1967,"October","1960s",59,76,13
+"721","196710150chi","Chicago Bears",14,"Detroit Lions",3,17,11,TRUE,"10/15/1967",1967,"October","1960s",58,79,8
+"722","196710150clt","Baltimore Colts",24,"Los Angeles Rams",24,48,0,FALSE,"10/15/1967",1967,"October","1960s",55,87,7
+"723","196710220det","Detroit Lions",24,"Atlanta Falcons",3,27,21,TRUE,"10/22/1967",1967,"October","1960s",40,68,8
+"724","196710220pit","Pittsburgh Steelers",21,"Dallas Cowboys",24,45,-3,FALSE,"10/22/1967",1967,"October","1960s",43,59,5
+"725","196710220ram","Los Angeles Rams",28,"Washington Redskins",28,56,0,FALSE,"10/22/1967",1967,"October","1960s",63,73,10
+"726","196710220crd","St. Louis Cardinals",48,"Philadelphia Eagles",14,62,34,TRUE,"10/22/1967",1967,"October","1960s",59,39,12
+"727","196710220min","Minnesota Vikings",20,"Baltimore Colts",20,40,0,FALSE,"10/22/1967",1967,"October","1960s",54,51,17
+"728","196710220cle","Cleveland Browns",24,"Chicago Bears",0,24,24,TRUE,"10/22/1967",1967,"October","1960s",44,70,4
+"729","196710220sfo","San Francisco 49ers",27,"New Orleans Saints",13,40,14,TRUE,"10/22/1967",1967,"October","1960s",61,87,11
+"730","196710220nyg","New York Giants",21,"Green Bay Packers",48,69,-27,FALSE,"10/22/1967",1967,"October","1960s",54,46,10
+"731","196710290nor","New Orleans Saints",10,"Pittsburgh Steelers",14,24,-4,FALSE,"10/29/1967",1967,"October","1960s",66,75,12
+"732","196710290nyg","New York Giants",38,"Cleveland Browns",34,72,4,TRUE,"10/29/1967",1967,"October","1960s",46,47,12
+"733","196710290chi","Chicago Bears",17,"Los Angeles Rams",28,45,-11,FALSE,"10/29/1967",1967,"October","1960s",42,70,13
+"734","196710290sfo","San Francisco 49ers",3,"Detroit Lions",45,48,-42,FALSE,"10/29/1967",1967,"October","1960s",58,52,15
+"735","196710290phi","Philadelphia Eagles",21,"Dallas Cowboys",14,35,7,TRUE,"10/29/1967",1967,"October","1960s",46,51,8
+"736","196710290atl","Atlanta Falcons",21,"Minnesota Vikings",20,41,1,TRUE,"10/29/1967",1967,"October","1960s",49,49,8
+"737","196710290was","Washington Redskins",13,"Baltimore Colts",17,30,-4,FALSE,"10/29/1967",1967,"October","1960s",43,69,5
+"738","196710300crd","St. Louis Cardinals",23,"Green Bay Packers",31,54,-8,FALSE,"10/30/1967",1967,"October","1960s",60,63,13
+"739","196711050nor","New Orleans Saints",31,"Philadelphia Eagles",24,55,7,TRUE,"11/5/1967",1967,"November","1960s",50,61,12
+"740","196711050sfo","San Francisco 49ers",7,"Los Angeles Rams",17,24,-10,FALSE,"11/5/1967",1967,"November","1960s",59,79,8
+"741","196711050min","Minnesota Vikings",27,"New York Giants",24,51,3,TRUE,"11/5/1967",1967,"November","1960s",26,60,13
+"742","196711050det","Detroit Lions",13,"Chicago Bears",27,40,-14,FALSE,"11/5/1967",1967,"November","1960s",32,72,15
+"743","196711050clt","Baltimore Colts",13,"Green Bay Packers",10,23,3,TRUE,"11/5/1967",1967,"November","1960s",39,51,15
+"744","196711050dal","Dallas Cowboys",37,"Atlanta Falcons",7,44,30,TRUE,"11/5/1967",1967,"November","1960s",46,56,6
+"745","196711050was","Washington Redskins",21,"St. Louis Cardinals",27,48,-6,FALSE,"11/5/1967",1967,"November","1960s",38,58,12
+"746","196711050pit","Pittsburgh Steelers",14,"Cleveland Browns",34,48,-20,FALSE,"11/5/1967",1967,"November","1960s",31,65,17
+"747","196711120min","Minnesota Vikings",10,"Detroit Lions",10,20,0,FALSE,"11/12/1967",1967,"November","1960s",42,56,18
+"748","196711120ram","Los Angeles Rams",33,"Philadelphia Eagles",17,50,16,TRUE,"11/12/1967",1967,"November","1960s",68,65,9
+"749","196711120nor","New Orleans Saints",10,"Dallas Cowboys",27,37,-17,FALSE,"11/12/1967",1967,"November","1960s",65,88,6
+"750","196711120chi","Chicago Bears",34,"New York Giants",7,41,27,TRUE,"11/12/1967",1967,"November","1960s",51,62,15
+"751","196711120crd","St. Louis Cardinals",14,"Pittsburgh Steelers",14,28,0,FALSE,"11/12/1967",1967,"November","1960s",55,62,13
+"752","196711120was","Washington Redskins",31,"San Francisco 49ers",28,59,3,TRUE,"11/12/1967",1967,"November","1960s",60,52,12
+"753","196711120gnb","Green Bay Packers",55,"Cleveland Browns",7,62,48,TRUE,"11/12/1967",1967,"November","1960s",49,64,15
+"754","196711120atl","Atlanta Falcons",7,"Baltimore Colts",49,56,-42,FALSE,"11/12/1967",1967,"November","1960s",60,58,8
+"755","196711190phi","Philadelphia Eagles",48,"New Orleans Saints",21,69,27,TRUE,"11/19/1967",1967,"November","1960s",44,53,18
+"756","196711190gnb","Green Bay Packers",13,"San Francisco 49ers",0,13,13,TRUE,"11/19/1967",1967,"November","1960s",32,63,12
+"757","196711190cle","Cleveland Browns",14,"Minnesota Vikings",10,24,4,TRUE,"11/19/1967",1967,"November","1960s",0,0,NA
+"758","196711190chi","Chicago Bears",30,"St. Louis Cardinals",3,33,27,TRUE,"11/19/1967",1967,"November","1960s",33,67,10
+"759","196711190nyg","New York Giants",28,"Pittsburgh Steelers",20,48,8,TRUE,"11/19/1967",1967,"November","1960s",43,52,20
+"760","196711190atl","Atlanta Falcons",3,"Los Angeles Rams",31,34,-28,FALSE,"11/19/1967",1967,"November","1960s",46,36,11
+"761","196711190dal","Dallas Cowboys",20,"Washington Redskins",27,47,-7,FALSE,"11/19/1967",1967,"November","1960s",55,50,8
+"762","196711190clt","Baltimore Colts",41,"Detroit Lions",7,48,34,TRUE,"11/19/1967",1967,"November","1960s",45,44,24
+"763","196711230dal","Dallas Cowboys",46,"St. Louis Cardinals",21,67,25,TRUE,"11/23/1967",1967,"November","1960s",57,55,12
+"764","196711230det","Detroit Lions",7,"Los Angeles Rams",31,38,-24,FALSE,"11/23/1967",1967,"November","1960s",33,73,11
+"765","196711260pit","Pittsburgh Steelers",27,"Minnesota Vikings",41,68,-14,FALSE,"11/26/1967",1967,"November","1960s",41,70,11
+"766","196711260chi","Chicago Bears",13,"Green Bay Packers",17,30,-4,FALSE,"11/26/1967",1967,"November","1960s",39,72,14
+"767","196711260sfo","San Francisco 49ers",9,"Baltimore Colts",26,35,-17,FALSE,"11/26/1967",1967,"November","1960s",55,43,12
+"768","196711260nor","New Orleans Saints",27,"Atlanta Falcons",24,51,3,TRUE,"11/26/1967",1967,"November","1960s",72,84,10
+"769","196711260nyg","New York Giants",44,"Philadelphia Eagles",7,51,37,TRUE,"11/26/1967",1967,"November","1960s",48,56,14
+"770","196711260cle","Cleveland Browns",42,"Washington Redskins",37,79,5,TRUE,"11/26/1967",1967,"November","1960s",46,59,15
+"771","196712030was","Washington Redskins",35,"Philadelphia Eagles",35,70,0,FALSE,"12/3/1967",1967,"December","1960s",36,93,9
+"772","196712030sfo","San Francisco 49ers",14,"Chicago Bears",28,42,-14,FALSE,"12/3/1967",1967,"December","1960s",53,82,13
+"773","196712030ram","Los Angeles Rams",20,"Atlanta Falcons",3,23,17,TRUE,"12/3/1967",1967,"December","1960s",56,43,8
+"774","196712030min","Minnesota Vikings",27,"Green Bay Packers",30,57,-3,FALSE,"12/3/1967",1967,"December","1960s",25,79,8
+"775","196712030crd","St. Louis Cardinals",31,"New Orleans Saints",20,51,11,TRUE,"12/3/1967",1967,"December","1960s",34,86,16
+"776","196712030clt","Baltimore Colts",23,"Dallas Cowboys",17,40,6,TRUE,"12/3/1967",1967,"December","1960s",37,90,12
+"777","196712030det","Detroit Lions",14,"Pittsburgh Steelers",24,38,-10,FALSE,"12/3/1967",1967,"December","1960s",34,76,12
+"778","196712030cle","Cleveland Browns",24,"New York Giants",14,38,10,TRUE,"12/3/1967",1967,"December","1960s",39,73,15
+"779","196712090ram","Los Angeles Rams",27,"Green Bay Packers",24,51,3,TRUE,"12/9/1967",1967,"December","1960s",55,53,7
+"780","196712100clt","Baltimore Colts",30,"New Orleans Saints",10,40,20,TRUE,"12/10/1967",1967,"December","1960s",40,78,14
+"781","196712100dal","Dallas Cowboys",38,"Philadelphia Eagles",17,55,21,TRUE,"12/10/1967",1967,"December","1960s",44,72,18
+"782","196712100atl","Atlanta Falcons",28,"San Francisco 49ers",34,62,-6,FALSE,"12/10/1967",1967,"December","1960s",61,87,13
+"783","196712100crd","St. Louis Cardinals",16,"Cleveland Browns",20,36,-4,FALSE,"12/10/1967",1967,"December","1960s",43,100,10
+"784","196712100chi","Chicago Bears",10,"Minnesota Vikings",10,20,0,FALSE,"12/10/1967",1967,"December","1960s",37,94,15
+"785","196712100nyg","New York Giants",7,"Detroit Lions",30,37,-23,FALSE,"12/10/1967",1967,"December","1960s",36,53,14
+"786","196712100pit","Pittsburgh Steelers",10,"Washington Redskins",15,25,-5,FALSE,"12/10/1967",1967,"December","1960s",42,74,14
+"787","196712160sfo","San Francisco 49ers",24,"Dallas Cowboys",16,40,8,TRUE,"12/16/1967",1967,"December","1960s",44,76,9
+"788","196712170ram","Los Angeles Rams",34,"Baltimore Colts",10,44,24,TRUE,"12/17/1967",1967,"December","1960s",52,46,14
+"789","196712170nyg","New York Giants",37,"St. Louis Cardinals",14,51,23,TRUE,"12/17/1967",1967,"December","1960s",38,52,15
+"790","196712170gnb","Green Bay Packers",17,"Pittsburgh Steelers",24,41,-7,FALSE,"12/17/1967",1967,"December","1960s",30,76,11
+"791","196712170was","Washington Redskins",14,"New Orleans Saints",30,44,-16,FALSE,"12/17/1967",1967,"December","1960s",36,50,6
+"792","196712170atl","Atlanta Falcons",14,"Chicago Bears",23,37,-9,FALSE,"12/17/1967",1967,"December","1960s",46,68,7
+"793","196712170phi","Philadelphia Eagles",28,"Cleveland Browns",24,52,4,TRUE,"12/17/1967",1967,"December","1960s",37,58,12
+"794","196712170det","Detroit Lions",14,"Minnesota Vikings",3,17,11,TRUE,"12/17/1967",1967,"December","1960s",29,71,11
+"795","196712230gnb","Green Bay Packers",28,"Los Angeles Rams",7,35,21,TRUE,"12/23/1967",1967,"December","1960s",13,60,15
+"796","196712240dal","Dallas Cowboys",52,"Cleveland Browns",14,66,38,TRUE,"12/24/1967",1967,"December","1960s",44,54,12
+"797","196712310gnb","Green Bay Packers",21,"Dallas Cowboys",17,38,4,TRUE,"12/31/1967",1967,"December","1960s",-2,55,15
+"798","196801140gnb","Green Bay Packers",33,"Oakland Raiders",14,47,19,TRUE,"1/14/1968",1968,"January","1960s",60,74,12
+"799","196809140min","Minnesota Vikings",47,"Atlanta Falcons",7,54,40,TRUE,"9/14/1968",1968,"September","1960s",73,58,13
+"800","196809150gnb","Green Bay Packers",30,"Philadelphia Eagles",13,43,17,TRUE,"9/15/1968",1968,"September","1960s",67,66,11
+"801","196809150dal","Dallas Cowboys",59,"Detroit Lions",13,72,46,TRUE,"9/15/1968",1968,"September","1960s",70,89,6
+"802","196809150pit","Pittsburgh Steelers",20,"New York Giants",34,54,-14,FALSE,"9/15/1968",1968,"September","1960s",64,63,5
+"803","196809150clt","Baltimore Colts",27,"San Francisco 49ers",10,37,17,TRUE,"9/15/1968",1968,"September","1960s",67,56,6
+"804","196809150chi","Chicago Bears",28,"Washington Redskins",38,66,-10,FALSE,"9/15/1968",1968,"September","1960s",71,61,8
+"805","196809150nor","New Orleans Saints",10,"Cleveland Browns",24,34,-14,FALSE,"9/15/1968",1968,"September","1960s",78,81,9
+"806","196809160crd","St. Louis Cardinals",13,"Los Angeles Rams",24,37,-11,FALSE,"9/16/1968",1968,"September","1960s",69,79,14
+"807","196809220det","Detroit Lions",42,"Chicago Bears",0,42,42,TRUE,"9/22/1968",1968,"September","1960s",70,84,7
+"808","196809220nor","New Orleans Saints",37,"Washington Redskins",17,54,20,TRUE,"9/22/1968",1968,"September","1960s",77,75,10
+"809","196809220gnb","Green Bay Packers",13,"Minnesota Vikings",26,39,-13,FALSE,"9/22/1968",1968,"September","1960s",68,83,6
+"810","196809220dal","Dallas Cowboys",28,"Cleveland Browns",7,35,21,TRUE,"9/22/1968",1968,"September","1960s",79,80,10
+"811","196809220phi","Philadelphia Eagles",25,"New York Giants",34,59,-9,FALSE,"9/22/1968",1968,"September","1960s",70,65,9
+"812","196809220atl","Atlanta Falcons",20,"Baltimore Colts",28,48,-8,FALSE,"9/22/1968",1968,"September","1960s",71,67,8
+"813","196809220sfo","San Francisco 49ers",35,"St. Louis Cardinals",17,52,18,TRUE,"9/22/1968",1968,"September","1960s",62,37,11
+"814","196809220ram","Los Angeles Rams",45,"Pittsburgh Steelers",10,55,35,TRUE,"9/22/1968",1968,"September","1960s",67,66,8
+"815","196809290phi","Philadelphia Eagles",13,"Dallas Cowboys",45,58,-32,FALSE,"9/29/1968",1968,"September","1960s",61,51,12
+"816","196809290sfo","San Francisco 49ers",28,"Atlanta Falcons",13,41,15,TRUE,"9/29/1968",1968,"September","1960s",57,74,13
+"817","196809290cle","Cleveland Browns",6,"Los Angeles Rams",24,30,-18,FALSE,"9/29/1968",1968,"September","1960s",51,77,4
+"818","196809290pit","Pittsburgh Steelers",7,"Baltimore Colts",41,48,-34,FALSE,"9/29/1968",1968,"September","1960s",53,59,6
+"819","196809290nyg","New York Giants",48,"Washington Redskins",21,69,27,TRUE,"9/29/1968",1968,"September","1960s",62,49,13
+"820","196809290gnb","Green Bay Packers",17,"Detroit Lions",23,40,-6,FALSE,"9/29/1968",1968,"September","1960s",52,72,8
+"821","196809290min","Minnesota Vikings",17,"Chicago Bears",27,44,-10,FALSE,"9/29/1968",1968,"September","1960s",54,79,7
+"822","196809290nor","New Orleans Saints",20,"St. Louis Cardinals",21,41,-1,FALSE,"9/29/1968",1968,"September","1960s",73,66,5
+"823","196810050cle","Cleveland Browns",31,"Pittsburgh Steelers",24,55,7,TRUE,"10/5/1968",1968,"October","1960s",43,71,7
+"824","196810060crd","St. Louis Cardinals",10,"Dallas Cowboys",27,37,-17,FALSE,"10/6/1968",1968,"October","1960s",53,74,11
+"825","196810060min","Minnesota Vikings",24,"Detroit Lions",10,34,14,TRUE,"10/6/1968",1968,"October","1960s",49,85,10
+"826","196810060ram","Los Angeles Rams",24,"San Francisco 49ers",10,34,14,TRUE,"10/6/1968",1968,"October","1960s",62,88,7
+"827","196810060atl","Atlanta Falcons",7,"Green Bay Packers",38,45,-31,FALSE,"10/6/1968",1968,"October","1960s",57,73,9
+"828","196810060clt","Baltimore Colts",28,"Chicago Bears",7,35,21,TRUE,"10/6/1968",1968,"October","1960s",51,55,9
+"829","196810060was","Washington Redskins",17,"Philadelphia Eagles",14,31,3,TRUE,"10/6/1968",1968,"October","1960s",46,62,9
+"830","196810060nyg","New York Giants",38,"New Orleans Saints",21,59,17,TRUE,"10/6/1968",1968,"October","1960s",54,45,10
+"831","196810130atl","Atlanta Falcons",24,"New York Giants",21,45,3,TRUE,"10/13/1968",1968,"October","1960s",69,83,5
+"832","196810130was","Washington Redskins",16,"Pittsburgh Steelers",13,29,3,TRUE,"10/13/1968",1968,"October","1960s",62,79,3
+"833","196810130dal","Dallas Cowboys",34,"Philadelphia Eagles",14,48,20,TRUE,"10/13/1968",1968,"October","1960s",77,78,12
+"834","196810130gnb","Green Bay Packers",14,"Los Angeles Rams",16,30,-2,FALSE,"10/13/1968",1968,"October","1960s",62,81,8
+"835","196810130chi","Chicago Bears",10,"Detroit Lions",28,38,-18,FALSE,"10/13/1968",1968,"October","1960s",67,72,9
+"836","196810130cle","Cleveland Browns",21,"St. Louis Cardinals",27,48,-6,FALSE,"10/13/1968",1968,"October","1960s",58,82,6
+"837","196810130nor","New Orleans Saints",20,"Minnesota Vikings",17,37,3,TRUE,"10/13/1968",1968,"October","1960s",74,85,7
+"838","196810130sfo","San Francisco 49ers",14,"Baltimore Colts",42,56,-28,FALSE,"10/13/1968",1968,"October","1960s",58,85,7
+"839","196810200pit","Pittsburgh Steelers",12,"New Orleans Saints",16,28,-4,FALSE,"10/20/1968",1968,"October","1960s",50,52,10
+"840","196810200crd","St. Louis Cardinals",41,"Washington Redskins",14,55,27,TRUE,"10/20/1968",1968,"October","1960s",56,58,8
+"841","196810200nyg","New York Giants",10,"San Francisco 49ers",26,36,-16,FALSE,"10/20/1968",1968,"October","1960s",63,58,13
+"842","196810200min","Minnesota Vikings",7,"Dallas Cowboys",20,27,-13,FALSE,"10/20/1968",1968,"October","1960s",45,74,6
+"843","196810200det","Detroit Lions",14,"Green Bay Packers",14,28,0,FALSE,"10/20/1968",1968,"October","1960s",49,65,11
+"844","196810200clt","Baltimore Colts",20,"Cleveland Browns",30,50,-10,FALSE,"10/20/1968",1968,"October","1960s",64,50,14
+"845","196810200ram","Los Angeles Rams",27,"Atlanta Falcons",14,41,13,TRUE,"10/20/1968",1968,"October","1960s",63,84,8
+"846","196810200phi","Philadelphia Eagles",16,"Chicago Bears",29,45,-13,FALSE,"10/20/1968",1968,"October","1960s",62,49,12
+"847","196810270det","Detroit Lions",7,"San Francisco 49ers",14,21,-7,FALSE,"10/27/1968",1968,"October","1960s",46,64,18
+"848","196810270chi","Chicago Bears",26,"Minnesota Vikings",24,50,2,TRUE,"10/27/1968",1968,"October","1960s",51,54,17
+"849","196810270clt","Baltimore Colts",27,"Los Angeles Rams",10,37,17,TRUE,"10/27/1968",1968,"October","1960s",49,44,12
+"850","196810270crd","St. Louis Cardinals",31,"New Orleans Saints",17,48,14,TRUE,"10/27/1968",1968,"October","1960s",57,41,18
+"851","196810270was","Washington Redskins",10,"New York Giants",13,23,-3,FALSE,"10/27/1968",1968,"October","1960s",46,54,12
+"852","196810270pit","Pittsburgh Steelers",6,"Philadelphia Eagles",3,9,3,TRUE,"10/27/1968",1968,"October","1960s",45,56,14
+"853","196810270cle","Cleveland Browns",30,"Atlanta Falcons",7,37,23,TRUE,"10/27/1968",1968,"October","1960s",45,63,17
+"854","196810280dal","Dallas Cowboys",17,"Green Bay Packers",28,45,-11,FALSE,"10/28/1968",1968,"October","1960s",55,44,7
+"855","196811030phi","Philadelphia Eagles",17,"St. Louis Cardinals",45,62,-28,FALSE,"11/3/1968",1968,"November","1960s",55,58,9
+"856","196811030sfo","San Francisco 49ers",21,"Cleveland Browns",33,54,-12,FALSE,"11/3/1968",1968,"November","1960s",56,88,10
+"857","196811030min","Minnesota Vikings",27,"Washington Redskins",14,41,13,TRUE,"11/3/1968",1968,"November","1960s",40,75,8
+"858","196811030atl","Atlanta Falcons",21,"Pittsburgh Steelers",41,62,-20,FALSE,"11/3/1968",1968,"November","1960s",62,72,6
+"859","196811030nor","New Orleans Saints",3,"Dallas Cowboys",17,20,-14,FALSE,"11/3/1968",1968,"November","1960s",65,84,8
+"860","196811030ram","Los Angeles Rams",10,"Detroit Lions",7,17,3,TRUE,"11/3/1968",1968,"November","1960s",61,79,10
+"861","196811030nyg","New York Giants",0,"Baltimore Colts",26,26,-26,FALSE,"11/3/1968",1968,"November","1960s",58,51,8
+"862","196811030gnb","Green Bay Packers",10,"Chicago Bears",13,23,-3,FALSE,"11/3/1968",1968,"November","1960s",36,67,9
+"863","196811100dal","Dallas Cowboys",21,"New York Giants",27,48,-6,FALSE,"11/10/1968",1968,"November","1960s",50,68,16
+"864","196811100chi","Chicago Bears",27,"San Francisco 49ers",19,46,8,TRUE,"11/10/1968",1968,"November","1960s",35,59,6
+"865","196811100cle","Cleveland Browns",35,"New Orleans Saints",17,52,18,TRUE,"11/10/1968",1968,"November","1960s",35,81,7
+"866","196811100det","Detroit Lions",10,"Baltimore Colts",27,37,-17,FALSE,"11/10/1968",1968,"November","1960s",33,72,7
+"867","196811100phi","Philadelphia Eagles",10,"Washington Redskins",16,26,-6,FALSE,"11/10/1968",1968,"November","1960s",40,78,15
+"868","196811100min","Minnesota Vikings",14,"Green Bay Packers",10,24,4,TRUE,"11/10/1968",1968,"November","1960s",32,69,7
+"869","196811100atl","Atlanta Falcons",10,"Los Angeles Rams",17,27,-7,FALSE,"11/10/1968",1968,"November","1960s",39,80,12
+"870","196811100crd","St. Louis Cardinals",28,"Pittsburgh Steelers",28,56,0,FALSE,"11/10/1968",1968,"November","1960s",34,73,9
+"871","196811170sfo","San Francisco 49ers",20,"Los Angeles Rams",20,40,0,FALSE,"11/17/1968",1968,"November","1960s",55,78,7
+"872","196811170chi","Chicago Bears",13,"Atlanta Falcons",16,29,-3,FALSE,"11/17/1968",1968,"November","1960s",42,85,8
+"873","196811170det","Detroit Lions",6,"Minnesota Vikings",13,19,-7,FALSE,"11/17/1968",1968,"November","1960s",42,86,11
+"874","196811170nyg","New York Giants",7,"Philadelphia Eagles",6,13,1,TRUE,"11/17/1968",1968,"November","1960s",40,79,14
+"875","196811170pit","Pittsburgh Steelers",24,"Cleveland Browns",45,69,-21,FALSE,"11/17/1968",1968,"November","1960s",47,90,9
+"876","196811170clt","Baltimore Colts",27,"St. Louis Cardinals",0,27,27,TRUE,"11/17/1968",1968,"November","1960s",50,77,9
+"877","196811170gnb","Green Bay Packers",29,"New Orleans Saints",7,36,22,TRUE,"11/17/1968",1968,"November","1960s",40,90,11
+"878","196811170was","Washington Redskins",24,"Dallas Cowboys",44,68,-20,FALSE,"11/17/1968",1968,"November","1960s",52,79,8
+"879","196811240ram","Los Angeles Rams",24,"New York Giants",21,45,3,TRUE,"11/24/1968",1968,"November","1960s",59,89,6
+"880","196811240was","Washington Redskins",7,"Green Bay Packers",27,34,-20,FALSE,"11/24/1968",1968,"November","1960s",50,55,10
+"881","196811240chi","Chicago Bears",3,"Dallas Cowboys",34,37,-31,FALSE,"11/24/1968",1968,"November","1960s",45,70,12
+"882","196811240crd","St. Louis Cardinals",17,"Atlanta Falcons",12,29,5,TRUE,"11/24/1968",1968,"November","1960s",50,72,10
+"883","196811240det","Detroit Lions",20,"New Orleans Saints",20,40,0,FALSE,"11/24/1968",1968,"November","1960s",50,63,15
+"884","196811240clt","Baltimore Colts",21,"Minnesota Vikings",9,30,12,TRUE,"11/24/1968",1968,"November","1960s",50,63,9
+"885","196811240pit","Pittsburgh Steelers",28,"San Francisco 49ers",45,73,-17,FALSE,"11/24/1968",1968,"November","1960s",53,60,12
+"886","196811240cle","Cleveland Browns",47,"Philadelphia Eagles",13,60,34,TRUE,"11/24/1968",1968,"November","1960s",52,70,13
+"887","196811280det","Detroit Lions",0,"Philadelphia Eagles",12,12,-12,FALSE,"11/28/1968",1968,"November","1960s",40,86,15
+"888","196811280dal","Dallas Cowboys",29,"Washington Redskins",20,49,9,TRUE,"11/28/1968",1968,"November","1960s",46,71,15
+"889","196812010clt","Baltimore Colts",44,"Atlanta Falcons",0,44,44,TRUE,"12/1/1968",1968,"December","1960s",40,56,7
+"890","196812010min","Minnesota Vikings",3,"Los Angeles Rams",31,34,-28,FALSE,"12/1/1968",1968,"December","1960s",35,74,13
+"891","196812010sfo","San Francisco 49ers",27,"Green Bay Packers",20,47,7,TRUE,"12/1/1968",1968,"December","1960s",52,80,16
+"892","196812010pit","Pittsburgh Steelers",10,"St. Louis Cardinals",20,30,-10,FALSE,"12/1/1968",1968,"December","1960s",31,70,8
+"893","196812010nor","New Orleans Saints",17,"Chicago Bears",23,40,-6,FALSE,"12/1/1968",1968,"December","1960s",60,89,15
+"894","196812010cle","Cleveland Browns",45,"New York Giants",10,55,35,TRUE,"12/1/1968",1968,"December","1960s",32,68,11
+"895","196812070gnb","Green Bay Packers",3,"Baltimore Colts",16,19,-13,FALSE,"12/7/1968",1968,"December","1960s",19,74,14
+"896","196812080was","Washington Redskins",21,"Cleveland Browns",24,45,-3,FALSE,"12/8/1968",1968,"December","1960s",30,57,14
+"897","196812080atl","Atlanta Falcons",7,"Detroit Lions",24,31,-17,FALSE,"12/8/1968",1968,"December","1960s",32,48,9
+"898","196812080nyg","New York Giants",21,"St. Louis Cardinals",28,49,-7,FALSE,"12/8/1968",1968,"December","1960s",33,50,17
+"899","196812080ram","Los Angeles Rams",16,"Chicago Bears",17,33,-1,FALSE,"12/8/1968",1968,"December","1960s",52,85,6
+"900","196812080phi","Philadelphia Eagles",29,"New Orleans Saints",17,46,12,TRUE,"12/8/1968",1968,"December","1960s",31,49,16
+"901","196812080dal","Dallas Cowboys",28,"Pittsburgh Steelers",7,35,21,TRUE,"12/8/1968",1968,"December","1960s",36,54,10
+"902","196812080sfo","San Francisco 49ers",20,"Minnesota Vikings",30,50,-10,FALSE,"12/8/1968",1968,"December","1960s",51,87,13
+"903","196812140crd","St. Louis Cardinals",27,"Cleveland Browns",16,43,11,TRUE,"12/14/1968",1968,"December","1960s",17,61,20
+"904","196812150nyg","New York Giants",10,"Dallas Cowboys",28,38,-18,FALSE,"12/15/1968",1968,"December","1960s",30,83,20
+"905","196812150was","Washington Redskins",14,"Detroit Lions",3,17,11,TRUE,"12/15/1968",1968,"December","1960s",29,54,21
+"906","196812150ram","Los Angeles Rams",24,"Baltimore Colts",28,52,-4,FALSE,"12/15/1968",1968,"December","1960s",58,55,7
+"907","196812150chi","Chicago Bears",27,"Green Bay Packers",28,55,-1,FALSE,"12/15/1968",1968,"December","1960s",22,71,19
+"908","196812150phi","Philadelphia Eagles",17,"Minnesota Vikings",24,41,-7,FALSE,"12/15/1968",1968,"December","1960s",28,63,20
+"909","196812150atl","Atlanta Falcons",12,"San Francisco 49ers",14,26,-2,FALSE,"12/15/1968",1968,"December","1960s",24,56,15
+"910","196812150nor","New Orleans Saints",24,"Pittsburgh Steelers",14,38,10,TRUE,"12/15/1968",1968,"December","1960s",37,48,14
+"911","196812210cle","Cleveland Browns",31,"Dallas Cowboys",20,51,11,TRUE,"12/21/1968",1968,"December","1960s",33,62,12
+"912","196812220clt","Baltimore Colts",24,"Minnesota Vikings",14,38,10,TRUE,"12/22/1968",1968,"December","1960s",33,73,7
+"913","196812290cle","Cleveland Browns",0,"Baltimore Colts",34,34,-34,FALSE,"12/29/1968",1968,"December","1960s",27,60,22
+"914","196901120clt","Baltimore Colts",7,"New York Jets",16,23,-9,FALSE,"1/12/1969",1969,"January","1960s",66,80,12
+"915","196909210atl","Atlanta Falcons",24,"San Francisco 49ers",12,36,12,TRUE,"9/21/1969",1969,"September","1960s",62,92,14
+"916","196909210clt","Baltimore Colts",20,"Los Angeles Rams",27,47,-7,FALSE,"9/21/1969",1969,"September","1960s",63,64,10
+"917","196909210gnb","Green Bay Packers",17,"Chicago Bears",0,17,17,TRUE,"9/21/1969",1969,"September","1960s",54,74,6
+"918","196909210pit","Pittsburgh Steelers",16,"Detroit Lions",13,29,3,TRUE,"9/21/1969",1969,"September","1960s",56,73,8
+"919","196909210phi","Philadelphia Eagles",20,"Cleveland Browns",27,47,-7,FALSE,"9/21/1969",1969,"September","1960s",61,53,14
+"920","196909210dal","Dallas Cowboys",24,"St. Louis Cardinals",3,27,21,TRUE,"9/21/1969",1969,"September","1960s",77,75,7
+"921","196909210nyg","New York Giants",24,"Minnesota Vikings",23,47,1,TRUE,"9/21/1969",1969,"September","1960s",58,59,13
+"922","196909210nor","New Orleans Saints",20,"Washington Redskins",26,46,-6,FALSE,"9/21/1969",1969,"September","1960s",78,74,12
+"923","196909280crd","St. Louis Cardinals",20,"Chicago Bears",17,37,3,TRUE,"9/28/1969",1969,"September","1960s",63,67,4
+"924","196909280cle","Cleveland Browns",27,"Washington Redskins",23,50,4,TRUE,"9/28/1969",1969,"September","1960s",53,83,11
+"925","196909280gnb","Green Bay Packers",14,"San Francisco 49ers",7,21,7,TRUE,"9/28/1969",1969,"September","1960s",54,59,11
+"926","196909280phi","Philadelphia Eagles",41,"Pittsburgh Steelers",27,68,14,TRUE,"9/28/1969",1969,"September","1960s",64,70,11
+"927","196909280det","Detroit Lions",24,"New York Giants",0,24,24,TRUE,"9/28/1969",1969,"September","1960s",55,65,12
+"928","196909280min","Minnesota Vikings",52,"Baltimore Colts",14,66,38,TRUE,"9/28/1969",1969,"September","1960s",53,65,7
+"929","196909280nor","New Orleans Saints",17,"Dallas Cowboys",21,38,-4,FALSE,"9/28/1969",1969,"September","1960s",74,71,7
+"930","196909280ram","Los Angeles Rams",17,"Atlanta Falcons",7,24,10,TRUE,"9/28/1969",1969,"September","1960s",66,83,10
+"931","196910050ram","Los Angeles Rams",36,"New Orleans Saints",17,53,19,TRUE,"10/5/1969",1969,"October","1960s",69,37,11
+"932","196910050pit","Pittsburgh Steelers",14,"St. Louis Cardinals",27,41,-13,FALSE,"10/5/1969",1969,"October","1960s",55,71,10
+"933","196910050sfo","San Francisco 49ers",17,"Washington Redskins",17,34,0,FALSE,"10/5/1969",1969,"October","1960s",61,35,11
+"934","196910050phi","Philadelphia Eagles",7,"Dallas Cowboys",38,45,-31,FALSE,"10/5/1969",1969,"October","1960s",57,61,12
+"935","196910050cle","Cleveland Browns",21,"Detroit Lions",28,49,-7,FALSE,"10/5/1969",1969,"October","1960s",57,72,10
+"936","196910050min","Minnesota Vikings",19,"Green Bay Packers",7,26,12,TRUE,"10/5/1969",1969,"October","1960s",66,72,11
+"937","196910050atl","Atlanta Falcons",14,"Baltimore Colts",21,35,-7,FALSE,"10/5/1969",1969,"October","1960s",68,73,12
+"938","196910050nyg","New York Giants",28,"Chicago Bears",24,52,4,TRUE,"10/5/1969",1969,"October","1960s",55,58,14
+"939","196910120nyg","New York Giants",10,"Pittsburgh Steelers",7,17,3,TRUE,"10/12/1969",1969,"October","1960s",67,81,9
+"940","196910120was","Washington Redskins",33,"St. Louis Cardinals",17,50,16,TRUE,"10/12/1969",1969,"October","1960s",61,82,6
+"941","196910120atl","Atlanta Falcons",17,"Dallas Cowboys",24,41,-7,FALSE,"10/12/1969",1969,"October","1960s",70,73,4
+"942","196910120sfo","San Francisco 49ers",21,"Los Angeles Rams",27,48,-6,FALSE,"10/12/1969",1969,"October","1960s",61,37,8
+"943","196910120det","Detroit Lions",17,"Green Bay Packers",28,45,-11,FALSE,"10/12/1969",1969,"October","1960s",56,78,12
+"944","196910120nor","New Orleans Saints",17,"Cleveland Browns",27,44,-10,FALSE,"10/12/1969",1969,"October","1960s",80,74,15
+"945","196910120chi","Chicago Bears",0,"Minnesota Vikings",31,31,-31,FALSE,"10/12/1969",1969,"October","1960s",56,73,12
+"946","196910130clt","Baltimore Colts",24,"Philadelphia Eagles",20,44,4,TRUE,"10/13/1969",1969,"October","1960s",66,74,6
+"947","196910180cle","Cleveland Browns",42,"Pittsburgh Steelers",31,73,11,TRUE,"10/18/1969",1969,"October","1960s",42,59,14
+"948","196910190was","Washington Redskins",20,"New York Giants",14,34,6,TRUE,"10/19/1969",1969,"October","1960s",54,54,4
+"949","196910190crd","St. Louis Cardinals",10,"Minnesota Vikings",27,37,-17,FALSE,"10/19/1969",1969,"October","1960s",55,74,9
+"950","196910190det","Detroit Lions",13,"Chicago Bears",7,20,6,TRUE,"10/19/1969",1969,"October","1960s",48,67,9
+"951","196910190sfo","San Francisco 49ers",7,"Atlanta Falcons",21,28,-14,FALSE,"10/19/1969",1969,"October","1960s",57,57,9
+"952","196910190nor","New Orleans Saints",10,"Baltimore Colts",30,40,-20,FALSE,"10/19/1969",1969,"October","1960s",71,68,12
+"953","196910190dal","Dallas Cowboys",49,"Philadelphia Eagles",14,63,35,TRUE,"10/19/1969",1969,"October","1960s",69,62,10
+"954","196910190ram","Los Angeles Rams",34,"Green Bay Packers",21,55,13,TRUE,"10/19/1969",1969,"October","1960s",61,62,12
+"955","196910260gnb","Green Bay Packers",28,"Atlanta Falcons",10,38,18,TRUE,"10/26/1969",1969,"October","1960s",44,70,14
+"956","196910260clt","Baltimore Colts",21,"San Francisco 49ers",24,45,-3,FALSE,"10/26/1969",1969,"October","1960s",48,49,5
+"957","196910260phi","Philadelphia Eagles",13,"New Orleans Saints",10,23,3,TRUE,"10/26/1969",1969,"October","1960s",47,58,7
+"958","196910260chi","Chicago Bears",7,"Los Angeles Rams",9,16,-2,FALSE,"10/26/1969",1969,"October","1960s",51,62,10
+"959","196910260pit","Pittsburgh Steelers",7,"Washington Redskins",14,21,-7,FALSE,"10/26/1969",1969,"October","1960s",46,63,6
+"960","196910260cle","Cleveland Browns",21,"St. Louis Cardinals",21,42,0,FALSE,"10/26/1969",1969,"October","1960s",46,73,10
+"961","196910260min","Minnesota Vikings",24,"Detroit Lions",10,34,14,TRUE,"10/26/1969",1969,"October","1960s",40,79,15
+"962","196910270dal","Dallas Cowboys",25,"New York Giants",3,28,22,TRUE,"10/27/1969",1969,"October","1960s",56,74,16
+"963","196911020min","Minnesota Vikings",31,"Chicago Bears",14,45,17,TRUE,"11/2/1969",1969,"November","1960s",40,88,12
+"964","196911020cle","Cleveland Browns",42,"Dallas Cowboys",10,52,32,TRUE,"11/2/1969",1969,"November","1960s",52,87,12
+"965","196911020crd","St. Louis Cardinals",42,"New Orleans Saints",51,93,-9,FALSE,"11/2/1969",1969,"November","1960s",45,82,10
+"966","196911020pit","Pittsburgh Steelers",34,"Green Bay Packers",38,72,-4,FALSE,"11/2/1969",1969,"November","1960s",56,84,11
+"967","196911020atl","Atlanta Falcons",6,"Los Angeles Rams",38,44,-32,FALSE,"11/2/1969",1969,"November","1960s",61,89,6
+"968","196911020clt","Baltimore Colts",41,"Washington Redskins",17,58,24,TRUE,"11/2/1969",1969,"November","1960s",61,84,10
+"969","196911020nyg","New York Giants",20,"Philadelphia Eagles",23,43,-3,FALSE,"11/2/1969",1969,"November","1960s",56,82,14
+"970","196911020sfo","San Francisco 49ers",14,"Detroit Lions",26,40,-12,FALSE,"11/2/1969",1969,"November","1960s",61,67,11
+"971","196911090was","Washington Redskins",28,"Philadelphia Eagles",28,56,0,FALSE,"11/9/1969",1969,"November","1960s",46,91,12
+"972","196911090ram","Los Angeles Rams",41,"San Francisco 49ers",30,71,11,TRUE,"11/9/1969",1969,"November","1960s",61,63,9
+"973","196911090dal","Dallas Cowboys",33,"New Orleans Saints",17,50,16,TRUE,"11/9/1969",1969,"November","1960s",63,66,6
+"974","196911090chi","Chicago Bears",38,"Pittsburgh Steelers",7,45,31,TRUE,"11/9/1969",1969,"November","1960s",45,86,7
+"975","196911090clt","Baltimore Colts",14,"Green Bay Packers",6,20,8,TRUE,"11/9/1969",1969,"November","1960s",51,77,12
+"976","196911090crd","St. Louis Cardinals",42,"New York Giants",17,59,25,TRUE,"11/9/1969",1969,"November","1960s",48,72,4
+"977","196911090det","Detroit Lions",27,"Atlanta Falcons",21,48,6,TRUE,"11/9/1969",1969,"November","1960s",44,87,8
+"978","196911090min","Minnesota Vikings",51,"Cleveland Browns",3,54,48,TRUE,"11/9/1969",1969,"November","1960s",46,69,8
+"979","196911160pit","Pittsburgh Steelers",3,"Cleveland Browns",24,27,-21,FALSE,"11/16/1969",1969,"November","1960s",28,71,12
+"980","196911160nyg","New York Giants",24,"New Orleans Saints",25,49,-1,FALSE,"11/16/1969",1969,"November","1960s",34,48,16
+"981","196911160phi","Philadelphia Eagles",17,"Los Angeles Rams",23,40,-6,FALSE,"11/16/1969",1969,"November","1960s",34,49,12
+"982","196911160gnb","Green Bay Packers",7,"Minnesota Vikings",9,16,-2,FALSE,"11/16/1969",1969,"November","1960s",28,71,11
+"983","196911160det","Detroit Lions",20,"St. Louis Cardinals",0,20,20,TRUE,"11/16/1969",1969,"November","1960s",33,64,14
+"984","196911160was","Washington Redskins",28,"Dallas Cowboys",41,69,-13,FALSE,"11/16/1969",1969,"November","1960s",33,58,8
+"985","196911160sfo","San Francisco 49ers",20,"Baltimore Colts",17,37,3,TRUE,"11/16/1969",1969,"November","1960s",57,76,14
+"986","196911160atl","Atlanta Falcons",48,"Chicago Bears",31,79,17,TRUE,"11/16/1969",1969,"November","1960s",39,48,5
+"987","196911230ram","Los Angeles Rams",24,"Dallas Cowboys",23,47,1,TRUE,"11/23/1969",1969,"November","1960s",59,59,7
+"988","196911230crd","St. Louis Cardinals",30,"Philadelphia Eagles",34,64,-4,FALSE,"11/23/1969",1969,"November","1960s",55,58,13
+"989","196911230cle","Cleveland Browns",28,"New York Giants",17,45,11,TRUE,"11/23/1969",1969,"November","1960s",44,64,10
+"990","196911230chi","Chicago Bears",21,"Baltimore Colts",24,45,-3,FALSE,"11/23/1969",1969,"November","1960s",42,74,7
+"991","196911230gnb","Green Bay Packers",10,"Detroit Lions",16,26,-6,FALSE,"11/23/1969",1969,"November","1960s",31,67,9
+"992","196911230nor","New Orleans Saints",43,"San Francisco 49ers",38,81,5,TRUE,"11/23/1969",1969,"November","1960s",62,75,8
+"993","196911230min","Minnesota Vikings",52,"Pittsburgh Steelers",14,66,38,TRUE,"11/23/1969",1969,"November","1960s",32,85,7
+"994","196911230was","Washington Redskins",27,"Atlanta Falcons",20,47,7,TRUE,"11/23/1969",1969,"November","1960s",40,64,8
+"995","196911270dal","Dallas Cowboys",24,"San Francisco 49ers",24,48,0,FALSE,"11/27/1969",1969,"November","1960s",52,79,15
+"996","196911270det","Detroit Lions",0,"Minnesota Vikings",27,27,-27,FALSE,"11/27/1969",1969,"November","1960s",36,75,12
+"997","196911300crd","St. Louis Cardinals",47,"Pittsburgh Steelers",10,57,37,TRUE,"11/30/1969",1969,"November","1960s",37,54,13
+"998","196911300was","Washington Redskins",13,"Los Angeles Rams",24,37,-11,FALSE,"11/30/1969",1969,"November","1960s",35,60,11
+"999","196911300clt","Baltimore Colts",13,"Atlanta Falcons",6,19,7,TRUE,"11/30/1969",1969,"November","1960s",39,50,11
+"1000","196911300chi","Chicago Bears",24,"Cleveland Browns",28,52,-4,FALSE,"11/30/1969",1969,"November","1960s",34,61,11
+"1001","196911300gnb","Green Bay Packers",20,"New York Giants",10,30,10,TRUE,"11/30/1969",1969,"November","1960s",32,60,17
+"1002","196911300nor","New Orleans Saints",26,"Philadelphia Eagles",17,43,9,TRUE,"11/30/1969",1969,"November","1960s",50,52,9
+"1003","196912060sfo","San Francisco 49ers",42,"Chicago Bears",21,63,21,TRUE,"12/6/1969",1969,"December","1960s",54,81,11
+"1004","196912070pit","Pittsburgh Steelers",7,"Dallas Cowboys",10,17,-3,FALSE,"12/7/1969",1969,"December","1960s",34,62,12
+"1005","196912070phi","Philadelphia Eagles",29,"Washington Redskins",34,63,-5,FALSE,"12/7/1969",1969,"December","1960s",32,57,10
+"1006","196912070ram","Los Angeles Rams",13,"Minnesota Vikings",20,33,-7,FALSE,"12/7/1969",1969,"December","1960s",57,73,9
+"1007","196912070clt","Baltimore Colts",17,"Detroit Lions",17,34,0,FALSE,"12/7/1969",1969,"December","1960s",34,57,9
+"1008","196912070nyg","New York Giants",49,"St. Louis Cardinals",6,55,43,TRUE,"12/7/1969",1969,"December","1960s",34,46,10
+"1009","196912070atl","Atlanta Falcons",45,"New Orleans Saints",17,62,28,TRUE,"12/7/1969",1969,"December","1960s",44,84,16
+"1010","196912070cle","Cleveland Browns",20,"Green Bay Packers",7,27,13,TRUE,"12/7/1969",1969,"December","1960s",35,62,16
+"1011","196912130dal","Dallas Cowboys",27,"Baltimore Colts",10,37,17,TRUE,"12/13/1969",1969,"December","1960s",56,71,12
+"1012","196912140crd","St. Louis Cardinals",21,"Cleveland Browns",27,48,-6,FALSE,"12/14/1969",1969,"December","1960s",39,71,15
+"1013","196912140pit","Pittsburgh Steelers",17,"New York Giants",21,38,-4,FALSE,"12/14/1969",1969,"December","1960s",35,75,12
+"1014","196912140min","Minnesota Vikings",10,"San Francisco 49ers",7,17,3,TRUE,"12/14/1969",1969,"December","1960s",22,86,14
+"1015","196912140was","Washington Redskins",17,"New Orleans Saints",14,31,3,TRUE,"12/14/1969",1969,"December","1960s",35,72,10
+"1016","196912140phi","Philadelphia Eagles",3,"Atlanta Falcons",27,30,-24,FALSE,"12/14/1969",1969,"December","1960s",32,79,8
+"1017","196912140chi","Chicago Bears",3,"Green Bay Packers",21,24,-18,FALSE,"12/14/1969",1969,"December","1960s",34,72,15
+"1018","196912140det","Detroit Lions",28,"Los Angeles Rams",0,28,28,TRUE,"12/14/1969",1969,"December","1960s",33,84,13
+"1019","196912210sfo","San Francisco 49ers",14,"Philadelphia Eagles",13,27,1,TRUE,"12/21/1969",1969,"December","1960s",62,82,21
+"1020","196912210ram","Los Angeles Rams",7,"Baltimore Colts",13,20,-6,FALSE,"12/21/1969",1969,"December","1960s",61,88,9
+"1021","196912210gnb","Green Bay Packers",45,"St. Louis Cardinals",28,73,17,TRUE,"12/21/1969",1969,"December","1960s",17,80,14
+"1022","196912210nor","New Orleans Saints",27,"Pittsburgh Steelers",24,51,3,TRUE,"12/21/1969",1969,"December","1960s",64,78,14
+"1023","196912210atl","Atlanta Falcons",10,"Minnesota Vikings",3,13,7,TRUE,"12/21/1969",1969,"December","1960s",36,63,10
+"1024","196912210dal","Dallas Cowboys",20,"Washington Redskins",10,30,10,TRUE,"12/21/1969",1969,"December","1960s",54,79,15
+"1025","196912210nyg","New York Giants",27,"Cleveland Browns",14,41,13,TRUE,"12/21/1969",1969,"December","1960s",30,51,13
+"1026","196912210chi","Chicago Bears",3,"Detroit Lions",20,23,-17,FALSE,"12/21/1969",1969,"December","1960s",24,81,9
+"1027","196912270min","Minnesota Vikings",23,"Los Angeles Rams",20,43,3,TRUE,"12/27/1969",1969,"December","1960s",10,83,7
+"1028","196912280dal","Dallas Cowboys",14,"Cleveland Browns",38,52,-24,FALSE,"12/28/1969",1969,"December","1960s",51,95,14
